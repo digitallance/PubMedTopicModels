@@ -1,0 +1,41 @@
+
+
+110. Hand (N Y). 2013 Dec;8(4):410-6. doi: 10.1007/s11552-013-9540-7.
+
+Functional outcome of collagenase injections compared with fasciectomy in
+treatment of Dupuytren's contracture.
+
+Naam NH(1).
+
+Author information: 
+(1)Department of Surgery, Division of Plastic and Reconstructive Surgery,
+Southern Illinois University, Southern Illinois Hand Center, 901 Medical Park Dr,
+Suite 100, Effingham, IL 62401 USA.
+
+BACKGROUND: This study was designed to provide comparative information on the
+safety and efficacy of injection with collagenase clostridium histolyticum (CCH) 
+and fasciectomy for patients with Dupuytren's contracture (DC).
+METHODS: A single-center, retrospective, observational, longitudinal chart review
+was conducted of 25 patients treated with CCH injections and 21 patients
+undergoing fasciectomy. Patients were assessed at 1 week, monthly for 3 months
+and then yearly for a minimum of 2 years after treatment for changes in
+contracture and range of motion, time to return to work/normal activities,
+patient satisfaction, and Disabilities of Arm, Shoulder and Hand (DASH) score.
+RESULTS: Post-procedure follow-up averaged 32 months for the injection group
+compared with 39 months for fasciectomy group. For the CCH group, the mean
+postinjection contracture was 3.6° for the metacarpophalangeal and 17.5° for the 
+proximal interphalangeal joints compared with 3.7° and 8.1° in the fasciectomy
+group, respectively. Patients treated with injections returned to normal
+activities after a mean of 1.9 days compared with 37.4 days for fasciectomy
+patients (p < 0.0001). DASH scores for 13 CCH and 15 fasciectomy patients were
+obtained. The mean DASH score was significantly lower in the injection group in
+the first 3 months (p < 0.01). At the 2-year follow-up visit, patients were
+satisfied with their outcomes following either treatment (92 % and 96 % of CCH
+and fasciectomy patients, respectively).
+CONCLUSION: CCH injections are safe and effective and may be a viable alternative
+to fasciectomy for treating DC. It also allows earlier return to work and daily
+activities.
+
+DOI: 10.1007/s11552-013-9540-7 
+PMCID: PMC3840748
+PMID: 24426958  [PubMed]

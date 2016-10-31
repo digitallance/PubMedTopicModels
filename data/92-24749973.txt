@@ -1,0 +1,36 @@
+
+
+92. Clin Genet. 2015 May;87(5):483-7. doi: 10.1111/cge.12410. Epub 2014 May 15.
+
+The importance of genetic susceptibility in Dupuytren's disease.
+
+Becker K(1), Tinschert S, Lienert A, Bleuler PE, Staub F, Meinel A, Rößler J,
+Wach W, Hoffmann R, Kühnel F, Damert HG, Nick HE, Spicher R, Lenze W, Langer M,
+Nürnberg P, Hennies HC.
+
+Author information: 
+(1)Cologne Center for Genomics; Cluster of Excellence on Cellular Stress
+Responses in Aging-associated Diseases, University of Cologne, Cologne, Germany.
+
+Dupuytren's disease (DD) is a progressive fibromatosis that causes the formation 
+of nodules and cords in the palmar aponeurosis leading to flexion contracture of 
+affected fingers. The etiopathogenesis is multifactorial with a strong genetic
+predisposition. It is the most frequent genetic disorder of connective tissues.
+We have collected clinical data from 736 unrelated individuals with DD who
+underwent surgical treatment from Germany and Switzerland. We evaluated a
+standardised questionnaire, assessed the importance of different risk factors and
+compared subgroups with and without positive family history. We found that family
+history clearly had the strongest influence on the age at first surgery compared 
+to environmental factors, followed by male sex. Participants with a positive
+family history were on average 55.9 years of age at the first surgical
+intervention, 5.2 years younger than probands without known family history
+(p = 6.7 × 10(-8) ). The percentage of familial cases decreased with age of onset
+from 55% in the 40-49 years old to 17% at age 80 years or older. Further risk
+factors analysed were cigarettes, alcohol, diabetes, hypertension, and epilepsy. 
+Our data pinpoint the importance of genetic susceptibility for DD, which has long
+been underestimated.
+
+© 2014 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cge.12410 
+PMID: 24749973  [PubMed - indexed for MEDLINE]

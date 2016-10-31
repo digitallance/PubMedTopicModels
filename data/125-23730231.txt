@@ -1,0 +1,33 @@
+
+
+125. Hand (N Y). 2012 Jun;7(2):143-6. doi: 10.1007/s11552-012-9407-3.
+
+Nonsurgical treatment of Dupuytren's contracture: 1-year US post-marketing safety
+data for collagenase clostridium histolyticum.
+
+Peimer CA(1), McGoldrick CA, Fiore GJ.
+
+Author information: 
+(1)College of Human Medicine, Michigan State University, Hand Surgery Office,
+1414 W. Fair Avenue, Suite 249, Marquette, MI 49855 USA.
+
+BACKGROUND: Collagenase clostridium histolyticum (CCH) is a Food and Drug
+Administration-approved treatment for adult patients with Dupuytren's contracture
+with a palpable cord that has been shown efficacious and safe in clinical trials.
+METHODS: This paper summarizes the most common post-marketing clinical adverse
+event (AE) reports received by the manufacturer of CCH and sponsor of the US
+Biologics License Application (Auxilium Pharmaceuticals, Malvern, PA, USA) during
+the first 12 months after drug approval and commercialization in the USA.
+RESULTS: Of the 115 AE reports describing 270 AEs voluntarily received from
+patients or health care providers after approximately 5,400 injections of CCH
+administered, the most common AEs involved local, nonserious reactions to
+treatment, including skin tears, peripheral edema, and contusion. There were few 
+serious AEs observed (0.6% reporting rate per 1,000 injections), and two flexor
+tendon ruptures and one flexor pulley injury were reported.
+CONCLUSIONS: Analysis of post-marketing AEs received for CCH in the first year
+post-approval supports the safety profile reported earlier during clinical
+development and did not reveal additional clinical risks or concerns about CCH.
+
+DOI: 10.1007/s11552-012-9407-3 
+PMCID: PMC3351506
+PMID: 23730231  [PubMed]

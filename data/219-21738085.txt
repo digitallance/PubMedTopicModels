@@ -1,0 +1,45 @@
+
+
+219. Plast Reconstr Surg. 2011 Nov;128(5):1107-13. doi: 10.1097/PRS.0b013e31822b67c9.
+
+Preliminary soft-tissue distraction versus checkrein ligament release after
+fasciectomy in the treatment of dupuytren proximal interphalangeal joint
+contractures.
+
+Craft RO(1), Smith AA, Coakley B, Casey WJ 3rd, Rebecca AM, Duncan SF.
+
+Author information: 
+(1)Department of Surgery, the Division of Plastic and Reconstructive Surgery,
+Mayo Clinic, Scottsdale, AZ, USA.
+
+Comment in
+    Plast Reconstr Surg. 2012 Jul;130(1):205e-206e.
+
+BACKGROUND: Checkrein ligament release for treatment of proximal interphalangeal 
+joint Dupuytren contractures does not address the shortened arteries or deficient
+skin. The Digit Widget uses soft-tissue distraction to overcome these issues.
+This study compares checkrein ligament release after fasciectomy versus
+preliminary soft-tissue distraction, followed by operative release, for treatment
+of proximal interphalangeal joint Dupuytren contractures.
+METHODS: The authors compared operative and postoperative characteristics of
+patients treated with either fasciectomy plus checkrein ligament release or Digit
+Widget distraction between 2001 and 2008. Seventeen patients (20 digits)
+underwent ligament release (mean contracture, 55.9 degrees); six of these 20 were
+reoperations. Thirteen patients (17 digits) underwent distraction (mean
+contracture, 67.6 degrees); 10 of 17 were reoperations.
+RESULTS: The 20 digits treated with fasciectomy plus ligament release had an
+average extension improvement of 31.4 degrees (range, -4 to 70 degrees). Digits
+treated with distraction had an average extension improvement of 53.4 degrees
+(range, 30 to 75 degrees) (p<0.001 versus ligament release). Three digits treated
+with distraction improved to full proximal interphalangeal extension. Initial
+contractures of 60 degrees or less treated by ligament release (n=12) or
+distraction (n=7) improved by means of 28.8 degrees and 47.7 degrees,
+respectively (p=0.048). Contractures greater than 60 degrees treated by ligament 
+release (n=8) or distraction (n=10) improved by means of 35.3 degrees and 57.3
+degrees, respectively (p=0.02).
+CONCLUSION: Soft-tissue distraction followed by operative release showed greater 
+correction than Dupuytren fasciectomy plus checkrein ligament release.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, III.
+
+DOI: 10.1097/PRS.0b013e31822b67c9 
+PMID: 21738085  [PubMed - indexed for MEDLINE]

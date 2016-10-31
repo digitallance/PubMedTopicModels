@@ -1,0 +1,44 @@
+
+
+133. Int J Clin Pract. 2013 Mar;67(3):261-70. doi: 10.1111/ijcp.12099.
+
+Dupuytren's disease presentation, referral pathways and resource utilisation in
+Europe: regional analysis of a surgeon survey and patient chart review.
+
+Dahlin LB(1), Bainbridge C, Leclercq C, Gerber RA, Guerin D, Cappelleri JC,
+Szczypa PP, Dias J.
+
+Author information: 
+(1)Department of Clinical Sciences - Hand Surgery, Lund University, Skåne
+University Hospital Malmö, Malmö, Sweden. lars.dahlin@med.lu.se
+
+AIM: We explored the management of Dupuytren's disease (DD) using a surgeon
+survey and patient chart review.
+METHODS: Twelve countries participated: Denmark, Finland, Sweden (Nordic region);
+Czech Republic, Hungary, Poland (East); France, Germany, the Netherlands, United 
+Kingdom (West); Italy, Spain (Mediterranean). A random sample of
+orthopaedic/plastic surgeons (N = 687) with 3-30 years' experience was asked
+about Dupuytren's contracture procedures performed during the previous 12 months.
+Information ≤ 5 consecutive patients per surgeon was extracted from patient
+charts (N = 3357).
+RESULTS: Overall, 84% of participants were orthopaedic surgeons; 56% of surgeons 
+were hand specialists. Deciding factors for fasciectomy and dermofasciectomy were
+consistent across regions: metacarpophalangeal (MP) or proximal interphalangeal
+contracture > 45°, recurrent contracture, and high expectations for success.
+Deciding factors for percutaneous needle fasciotomy were less consistent across
+regions, but the leading factor was MP flexion < 20°. Overall, 49% of diagnoses
+and 55% of referrals were made by a general practitioner (GP), with regional
+variation: 31-77% for GP diagnoses and 36-81% for GP referrals. There were also
+differences in admission status (e.g. 9% of Nordic patients and 80% of Eastern
+patients were treated as inpatients). Most patients were treated in public
+hospitals and most procedures were covered by public health insurance.
+CONCLUSIONS: We found regional variations in surgical practice, patient
+characteristics and referral patterns. Understanding current diagnosis and
+treatment patterns, in relation to regional differences in health economics, may 
+improve physicians' diagnosis of DD and guide patients towards appropriate,
+customised management plans.
+
+© 2013 Blackwell Publishing Ltd.
+
+DOI: 10.1111/ijcp.12099 
+PMID: 23409694  [PubMed - indexed for MEDLINE]

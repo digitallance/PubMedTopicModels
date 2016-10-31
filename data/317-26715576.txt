@@ -1,0 +1,61 @@
+
+
+317. Aesthetic Plast Surg. 2016 Feb;40(1):164-73. doi: 10.1007/s00266-015-0600-y. Epub
+2015 Dec 29.
+
+Effects of Different Concentrations of Injectable Collagenase Enzyme on Capsular 
+Tissue Around Silicone Implants: A Preliminary Experimental Study for the
+Development of a New Treatment Strategy.
+
+Yeşiloğlu N(1), Temiz G(2), Sarıcı M(2), Yıldız K(3), Şirinoğlu H(2), Güvercin
+E(2), Akpınar AC(2), Filinte GT(2), Filinte D(4).
+
+Author information: 
+(1)Department of Plastic Reconstructive and Aesthetic Surgery, Dr. Lütfi Kırdar
+Kartal Training and Research Hospital, Acıbadem Mh. Gömeç Sk. Sabancı-1 Sitesi
+8/16 Kadıköy, Kartal, Istanbul, 34718, Turkey. yesiloglunebil@yahoo.com.
+(2)Department of Plastic Reconstructive and Aesthetic Surgery, Dr. Lütfi Kırdar
+Kartal Training and Research Hospital, Acıbadem Mh. Gömeç Sk. Sabancı-1 Sitesi
+8/16 Kadıköy, Kartal, Istanbul, 34718, Turkey. (3)Department of Plastic
+Reconstructive and Aesthetic Surgery, Bezmialem Vakıf University Medical Faculty,
+Fatih, Istanbul, Turkey. (4)Department of Pathology, Marmara University,
+Istanbul, Turkey.
+
+OBJECTIVES: In recent studies, collagen organization was blamed for the formation
+of capsular contracture which is still a challenging problem after silicone
+implant-based breast operations. In this study, effects of different
+concentrations of collagenase enzyme derived from Clostridium histolyticum on the
+capsular tissue formation around the silicone implants were investigated. The
+injectable form of collagenase has a routine clinical use in the treatment of
+both Dupuytren's and Peyronie's diseases.
+MATERIALS AND METHODS: Thirty-two Wistar albino rats were randomized into four
+groups. A 2 × 1 × 0.3-cm-sized silicone block was inserted inside a dorsal
+subcutaneous pocket in all groups. After 2 months of insertion, capsule
+thicknesses around the implants were detected under ultrasonography. This was
+followed by injection of isotonic saline, 150, 300, and 600 IU in Gr-1, 2, 3, and
+4, respectively. All the animals were sacrificed at the end of the first week for
+histologic sampling to determine fibroblast proliferation, vessel density of the 
+tissue, necrosis, edema, inflammation, and capsule thickness. All the data were
+statistically analyzed using Kruskal-Wallis and Mann-Whitney U tests and compared
+for significance of the results.
+RESULTS: There was no significant difference in terms of capsule thinning between
+the 300 and 600 IU groups but in both groups thinning was significantly higher
+than the sham group. In the 150 IU group there was no significant thinning as
+compared to the sham group (p > 0.05). However, complications such as skin
+necrosis, infection, and seroma formation were seen only in the 600 IU injection 
+group. The optimal safe and effective dose of the enzyme was accepted as 300 IU. 
+The 300 IU injection provided up to 89 % thinning in the capsule tissue. There
+was thinning of the collagen bundles parallel to capsule thickness. In the 600 IU
+group, micro-pores were encountered at the thinnest points.
+CONCLUSION: However, the late results and recurrence rates of capsular
+contracture were not included in this study; collagenase seemed effective for the
+reduction of capsular tissue around the implants.
+NO LEVEL ASSIGNED: This journal requires that authors assign a level of evidence 
+to each submission to which Evidence-Based Medicine rankings are applicable. This
+excludes Review Articles, Book Reviews, and manuscripts that concern Basic
+Science, Animal Studies, Cadaver Studies, and Experimental Studies. For a full
+description of these Evidence-Based Medicine ratings, please refer to the Table
+of Contents or the online Instructions to Authors www.springer.com/00266.
+
+DOI: 10.1007/s00266-015-0600-y 
+PMID: 26715576  [PubMed - in process]

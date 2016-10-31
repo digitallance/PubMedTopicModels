@@ -1,0 +1,41 @@
+
+
+119. Clin Drug Investig. 2013 Dec;33(12):905-12. doi: 10.1007/s40261-013-0139-0.
+
+Isolated and spontaneous correction of proximal interphalangeal joint
+contractures in Dupuytren's disease: an exploratory analysis of the efficacy and 
+safety of collagenase Clostridium histolyticum.
+
+Hayton MJ(1), Bayat A, Chapman DS, Gerber RA, Szczypa PP.
+
+Author information: 
+(1)Wrightington Hospital, Hall Lane, Appley Bridge, Lancashire, WN6 9EP, UK,
+mikehayton@gmail.com.
+
+BACKGROUND AND OBJECTIVE: Dupuytren's contractures affecting proximal
+interphalangeal (PIP) joints are challenging to treat. We explored the effects of
+collagenase Clostridium histolyticum (CCH) on PIP joint contractures after
+injection of an affected metacarpophalangeal (MP) joint in the same finger and
+after injection of an isolated PIP joint contracture.
+METHODS: Two patient subsets were evaluated: those with MP/PIP joints
+contractures in the same finger, but only the MP joint contractures were treated 
+(Group A); and those with isolated PIP joint contractures that were treated
+(Group B). Endpoints included correction and improvement in contracture.
+Fixed-flexion contracture (FFC) and range of motion (ROM) were also assessed;
+adverse events (AEs) were monitored.
+RESULTS: In Group A, 28 and 43 % of PIP contractures spontaneously corrected
+after the first and last injection of CCH, respectively, for MP contractures; 40 
+and 63 %, respectively, improved. In Group B, 31 and 39 % of PIP joint
+contractures corrected after the first and last injection of CCH, respectively,
+56 and 66 %, respectively, improved. In Groups A and B, FFC improvements were
+largest after the last injection; ROM improvements were largest after the last
+injection in Group A and third injection in Group B. For 46 and 44 % of patients 
+in Groups A and B, respectively, the first injection was the last injection. In
+Group B, the median (minimum, maximum) injections/joint was 1.0 (1.0, 4.0).
+Nearly all patients (98 %) experienced ≥1 AE; most were injection-site reactions.
+CONCLUSIONS: The efficacy of CCH for improving PIP joint contracture was similar 
+whether treated in isolation or after treatment of an MP joint contracture.
+
+DOI: 10.1007/s40261-013-0139-0 
+PMCID: PMC3830197
+PMID: 24092562  [PubMed - indexed for MEDLINE]

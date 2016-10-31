@@ -1,0 +1,63 @@
+
+
+111. BMC Musculoskelet Disord. 2015 Jun 7;16:138. doi: 10.1186/s12891-015-0597-z.
+
+Developing an animal model of Dupuytren's disease by orthotopic transplantation
+of human fibroblasts into athymic rat.
+
+Satish L(1,)(2), Palmer B(3), Liu F(4), Papatheodorou L(5), Rigatti L(6), Baratz 
+ME(7), Kathju S(8,)(9).
+
+Author information: 
+(1)Department of Plastic Surgery, University of Pittsburgh, 3550 Terrace Street, 
+Scaife Hall, Room no. 685.2, Pittsburgh, PA, 15261, USA. las238@pitt.edu.
+(2)McGowan Institute for Regenerative Medicine, Pittsburgh, PA, USA.
+las238@pitt.edu. (3)Department of Orthopedic Surgery, Allegheny Health Network,
+Pittsburgh, PA, USA. palmarislongus@gmail.com. (4)Department of Plastic Surgery, 
+University of Pittsburgh, 3550 Terrace Street, Scaife Hall, Room no. 685.2,
+Pittsburgh, PA, 15261, USA. fangliu63@gmail.com. (5)Department of Orthopedic
+Surgery, University of Pittsburgh, Pittsburgh, PA, USA. loukiapapath@yahoo.gr.
+(6)Division of Laboratory Animal Resources, University of Pittsburgh, Pittsburgh,
+PA, USA. rigattil@pitt.edu. (7)Department of Orthopedic Surgery, University of
+Pittsburgh, Pittsburgh, PA, USA. mebaratz@gmail.com. (8)Department of Plastic
+Surgery, University of Pittsburgh, 3550 Terrace Street, Scaife Hall, Room no.
+685.2, Pittsburgh, PA, 15261, USA. andeep@hotmail.com. (9)McGowan Institute for
+Regenerative Medicine, Pittsburgh, PA, USA. andeep@hotmail.com.
+
+BACKGROUND: Dupuytren's disease (DD) is a slow, progressive fibroproliferative
+disorder affecting the palms of the hands. The disease is characterized by the
+formation of collagen rich- cords which gradually shorten by the action of
+myofibroblasts resulting in finger contractures. It is a disease that is confined
+to humans, and a major limiting factor in investigating this disorder has been
+the lack of a faithful animal model that can recapitulate its distinct biology.
+The aim of this study was to develop such a model by determining if Dupuytren's
+disease (DD)- and control carpal tunnel (CT)-derived fibroblasts could survive in
+the forepaw of the nude rats and continue to exhibit the distinct characteristics
+they display in in vitro cultures.
+METHODS: 1x10(7) fluorescently labeled DD- and CT-derived fibroblasts were
+transplanted into the left and right forepaws of nude rats respectively. Cells
+were tracked at regular intervals for a period of two months by quantifying
+emitted fluorescent signal using an IVIS imaging system. After a period of 62
+days rat forepaw connective tissues were harvested for histology and total RNA
+was isolated. Human-specific probes were used to perform real time RT-PCR assays 
+to examine the expression patterns of gene products associated with fibrosis in
+DD. Rat forepaw skin was also harvested to serve as an internal control.
+RESULTS: Both CT- and DD-derived fibroblasts survived for a period of 62 days,
+but DD-derived cells showed a significantly greater level of persistent
+fluorescent signal at the end of this time than did CT-derived cells. mRNA
+expression levels of α-smooth muscle actin (α-SMA), type I- and type III-
+collagens were all significantly elevated in the forepaw receiving DD
+cord-derived fibroblasts in comparison to CT-derived fibroblasts. Masson's
+trichrome stain confirmed increased collagen deposition in the forepaw that was
+injected with DD cord-derived fibroblasts.
+CONCLUSIONS: For the first time we describe an animal model for Dupuytren's
+disease at the orthotopic anatomical location. We further show that gene
+expression differences between control (CT) and diseased (DD) derived fibroblasts
+persist when these cells are transplanted to the forepaw of the nude rat. These
+preliminary findings indicate that, with further refinements, this animal model
+holds promise as a baseline for investigating novel therapeutic regimens to
+determine an effective strategy in treating DD.
+
+DOI: 10.1186/s12891-015-0597-z 
+PMCID: PMC4458343
+PMID: 26049932  [PubMed - indexed for MEDLINE]

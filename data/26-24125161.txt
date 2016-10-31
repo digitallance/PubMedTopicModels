@@ -1,0 +1,50 @@
+
+
+26. BMC Musculoskelet Disord. 2013 Oct 14;14:293. doi: 10.1186/1471-2474-14-293.
+
+Use of resources and costs associated with the treatment of Dupuytren's
+contracture at an orthopedics and traumatology surgery department in Denia
+(Spain): collagenase clostridium hystolyticum versus subtotal fasciectomy.
+
+Sanjuan Cerveró R(1), Franco Ferrando N, Poquet Jornet J.
+
+Author information: 
+(1)Orthopedics and Traumatology Surgery (OTS) Department of the Hospital de
+Denia, Denia, Alicante, Spain. sanjuan.rafcer@gmail.com.
+
+BACKGROUND: Our purpose was to analyze and compare the use of direct health
+resources and costs generated in the treatment of Dupuytren's contracture using
+two different techniques: subtotal fasciectomy and infiltration with Collagenase 
+Clostridium Histolyticum (CCH) in regular clinical practice at the Orthopedic and
+Traumatology Surgery (OTS) Department at the Hospital de Denia (Spain).
+METHODS: Observational, retrospective study based on data from the computerized
+clinical histories of two groups of patients- those treated surgically using a
+one or two digit subtotal fasciectomy technique (FSC) and those treated with CCH 
+infiltration, monitored in regular clinical practice from February, 2009 to May, 
+2012. Demographic (age, sex), clinical (number of digits affected and which ones)
+and use of resources (hospitalizations, medical visits, tests and drugs) data
+were collected. Resource use and associated costs, according to the hospital's
+accounting department, were compared based on the type of treatment from Spain's 
+National Health Service.
+RESULTS: 91 patients (48 (52.8%) in the FSC group) were identified. The average
+age and number of digits affected was 65.9 (9.2) years and 1.33 (0.48) digits
+affected in the FSC group, and 65.1 (9.7) years and 1.16 (0.4) digits in the CCH 
+group.Overall, the costs of treating Dupuytren's disease with subtotal FSC amount
+to €1,814 for major ambulatory surgery and €1,961 with hospital stay including
+admission, surgical intervention (€904), examinations, dressings and
+physiotherapy. As to collagenase infiltration, costs amount to €952 (including
+minor surgery admission, vial with product, office examination and dressings).
+Finally, comparing total costs for treatments, a savings of €388 is estimated in 
+favor of CCH treatment in the best-case scenario (patient under MAS system with
+no need for physiotherapy) and €1,008 in the worst-case scenario (patient
+admitted to hospital needing subsequent physiotherapy), implying a savings of 29%
+and 51%, respectively.
+CONCLUSIONS: This study demonstrates that treating patients with DC by injection 
+with CCH at the OTS department of the Hospital de Denia generates a total savings
+of 29% and 51% (€388 and €1008) compared with fasciectomy at the time of
+treatment. Long term evolution of CCH treatment is uncertain and the recurrence
+rate unknown.
+
+DOI: 10.1186/1471-2474-14-293 
+PMCID: PMC3852948
+PMID: 24125161  [PubMed - indexed for MEDLINE]

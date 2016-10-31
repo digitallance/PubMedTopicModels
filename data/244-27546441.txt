@@ -1,0 +1,50 @@
+
+
+244. J Hand Surg Am. 2016 Oct;41(10):963-968. doi: 10.1016/j.jhsa.2016.07.090. Epub
+2016 Aug 18.
+
+The Impact of Collagenase Clostridium histolyticum Introduction on Dupuytren
+Treatment Patterns in the United States.
+
+Zhao JZ(1), Hadley S(1), Floyd E(1), Earp BE(1), Blazar PE(2).
+
+Author information: 
+(1)Department of Orthopedic Surgery, Brigham and Women's Hospital, Boston, MA.
+(2)Department of Orthopedic Surgery, Brigham and Women's Hospital, Boston, MA.
+Electronic address: pblazar@partners.org.
+
+PURPOSE: The U.S. Food and Drug Administration approved the use of collagenase
+Clostridium histolyticum (CCH) in the United States in February 2010. This study 
+addresses the impact of that approval on the number of Dupuytren contracture (DC)
+encounters and treatment patterns in the United States.
+METHODS: Using the Intercontinental Marketing Services Health Office-Based
+Medical Claims database, we identified the monthly number of DC encounters and DC
+procedures between January 2007 and December 2013. Collagenase Clostridium
+histolyticum usage data from March 2010 to December 2013 was derived from the
+U.S. CCH manufacturer's data warehouse. Using the combined data, the yearly
+increasing trends in DC encounters and treatment volume were compared before and 
+after the introduction of CCH. Time trends in the relative procedure frequencies 
+were then examined. Finally, the presence of seasonal variation was tested for in
+each treatment type.
+RESULTS: Dupuytren contracture encounters increased on average by 19,015 per year
+between 2007 and 2009, whereas between 2011 and 2013, DC encounters increased on 
+average by 34,940 per year. In terms of absolute procedure counts, the surgery
+trend line began decreasing in 2010 with the release of CCH. Meanwhile, CCH
+continuously increased between 2010 and 2013, and needle aponeurotomy (NA)
+remained relatively stable. By the year 2013, minimally invasive techniques (NA
+and CCH) comprised 39% of all treatment, compared with only 14% in 2007. Lastly, 
+there was a statistically significant seasonal increase in the number of surgical
+procedures during the wintertime but no seasonal variation in NA or CCH.
+CONCLUSIONS: After the introduction of CCH, the number of Dupuytren encounters
+increased at a greater annual rate. The introduction and growth of CCH coincided 
+with a decrease in surgery. The number of NA procedures remained steady
+throughout the study period. The number of open surgery cases followed a
+predictable seasonal variation with more procedures during the winter months, but
+this seasonal variation was not seen with less invasive techniques.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Economic/Decision Analysis II.
+
+Copyright © 2016 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2016.07.090 
+PMID: 27546441  [PubMed - in process]

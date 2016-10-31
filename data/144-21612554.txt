@@ -1,0 +1,47 @@
+
+
+144. Stem Cells Dev. 2012 Mar 1;21(4):609-22. doi: 10.1089/scd.2011.0140. Epub 2011
+Jul 19.
+
+Identification of mesenchymal stem cells in perinodular fat and skin in
+Dupuytren's disease: a potential source of myofibroblasts with implications for
+pathogenesis and therapy.
+
+Iqbal SA(1), Manning C, Syed F, Kolluru V, Hayton M, Watson S, Bayat A.
+
+Author information: 
+(1)Plastic and Reconstructive Surgery Research, Manchester Interdisciplinary
+Biocentre, University of Manchester, Manchester, United Kingdom.
+
+Dupuytren's disease (DD) is a fibroproliferative disorder characterized by
+aberrant proliferation of myofibroblasts, the source of which remains unknown.
+Recent studies indicate that circulating and tissue-resident mesenchymal stem
+cells (MSCs) can differentiate into myofibroblasts. Therefore, the aim of this
+study was to profile MSCs from phenotypically distinct DD sites including cord,
+nodule, skin overlying nodule (SON), and perinodular fat (PNF) compared with
+unaffected internal controls, that is, distant palmar fat (DPF) and transverse
+palmar fascia (Skoog's fibers) as well as external control carpal tunnel (CT)
+tissue including skin, fat, and fascia. Freshly isolated primary fibroblasts as
+well as cells grown up to passage 5 (P5) from DD (n=27) and CT (n=14) samples
+were analyzed for the presence of established MSC markers CD73, CD90, and CD105
+and absence of hematopoietic marker CD34 using fluorescence-activated cell
+sorting, in-cell quantitative western blotting, immunohistochemistry, and
+immunocytochemistry. Freshly isolated cells from SON, PNF, and cord biopsies had 
+a higher number of CD34(-)73(+)90(+)105(+) cells compared with Skoog's fibers and
+CT controls. P3 cells obtained from all DD biopsies compared with CT samples
+differentiated into osteocytes, adipocytes, and chondrocytes. P3 cord and nodule 
+cells expressed intense α-smooth muscle actin staining compared with skin and fat
+cells. Stem cell markers including stem cell factor, MSC-homing marker CXCR4, and
+Wnt/β-catenin downregulator Dkk-1 were all upregulated in SON and PNF compared
+with CT skin and CT fat, respectively, as shown by real-time quantitative
+polymerase chain reaction. However, osteogenic marker OSF-1 had a significantly
+higher expression in the PNF (P=0.002) and cord (P=0.01) compared with the
+nodule. In conclusion, we have shown the presence of MSCs in specific DD tissue
+phenotypes compared with internal and external control tissue. These findings
+provide preliminary support for a potential alternative source of disease
+myofibroblasts originating from sites such as SON and PNF as opposed to palmar
+fascia alone.
+
+DOI: 10.1089/scd.2011.0140 
+PMCID: PMC3280606
+PMID: 21612554  [PubMed - indexed for MEDLINE]

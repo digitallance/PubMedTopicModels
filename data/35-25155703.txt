@@ -1,0 +1,39 @@
+
+
+35. Hand Surg. 2014;19(3):389-92. doi: 10.1142/S0218810414500324. Epub 2014 Aug 25.
+
+What is the better treatment for single digit dupuytren's contracture: surgical
+release or collagenase clostridium histolyticum (Xiapex) injection?
+
+Povlsen B(1), Povlsen SD.
+
+Author information: 
+(1)London Hand Clinic, London Bridge Hospital, London, UK.
+
+Comment in
+    Hand Surg. 2015;20(2):333-4.
+
+The purpose of this study was to compare the initial and final outcome range of
+motion in the MCP-J and PIP-J of single digit Dupuytren's Contracture treated
+with either open surgical excision or manipulation after collagenase clostridium 
+histolyticum (CCH; Xiapex) injection.MATERIAL: Ten patients in either group. The 
+range of motion measurements were statistically compared using the student t-test
+with a p-value of 0.05. There was no statistical difference in the pre-treatment 
+status of the total active range of movement (TAM) between the two groups.
+RESULTS: Open surgical release achieved a statistically better initial outcome in
+combined total passive range of movement than the xiapex group (p = 0.0047), but 
+at the final outcome the better TAM measurement at the MCP-J after surgery was
+not statistically significant. However, the total active range of movement was
+statistically better at the PIP-J level in the xiapex group (p = 0.01) and the
+MCP-J and PIP-J combined total active range of movement was statistically better 
+in the xiapex group (p = 0.0258).
+CONCLUSION: Surgery achieved better initial outcome at both MCP-J and PIP-J
+levels, and at discharge, only extension in the MCP-J level was statistically
+better after open excision. However the final outcome was statistically better at
+the PIP-J level in extension (p = 0.006) and total active movement (TAM) (p =
+0.008) after treatment with collagenase clostridium histolyticum. Further studies
+are required to assess the long-term differences between the two groups and to
+investigate the outcomes for patients with multi-digit involvement.
+
+DOI: 10.1142/S0218810414500324 
+PMID: 25155703  [PubMed - indexed for MEDLINE]

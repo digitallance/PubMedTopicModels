@@ -1,0 +1,48 @@
+
+
+19. Acta Orthop. 2013 Dec;84(6):571-8. doi: 10.3109/17453674.2013.865097. Epub 2013
+Nov 29.
+
+Eliciting health state utilities for Dupuytren's contracture using a discrete
+choice experiment.
+
+Gu NY(1), Botteman MF, Gerber RA, Ji X, Postema R, Wan Y, Sianos G, Anthony I,
+Cappelleri JC, Szczypa P, van Hout B.
+
+Author information: 
+(1)Pharmerit International , Bethesda, MD , USA.
+
+BACKGROUND AND PURPOSE: An internet-based discrete choice experiment (DCE) was
+conducted to elicit preferences for a wide range of Dupuytren's contracture
+(DC)-related health states. An algorithm was subsequently developed to convert
+these preferences into health state utilities that can be used to assess DC's
+impact on quality of life and the value of its treatments.
+METHODS: Health state preferences for varying levels of DC hand severity were
+elicited via an internet survey from a sample of the UK adult population.
+Severity levels were defined using a combination of contractures (0, 45, or 90
+degrees) in 8 proximal interphalangeal and metacarpophalangeal joints of the
+index, middle, ring, and little fingers. Right-handed, left-handed, and
+ambidextrous respondents indicated which hand was preferable in each of the 10
+randomly-selected hand-pairings comparing different DC severity levels. For
+consistency across comparisons, anatomically precise digital hand drawings were
+used. To anchor preferences onto the traditional 0-1 utility scale used in health
+economic evaluations, unaffected hands were assigned a utility of 1.0 whereas the
+utility for a maximally affected hand (i.e., all 8 joints set at 90 degrees of
+contracture) was derived by asking respondents to indicate what combination of
+attributes and levels of the EQ-5D-5L profile most accurately reflects the impact
+of living with such hand. Conditional logistic models were used to estimate
+indirect utilities, then rescaled to the anchor points on the EQ-5D-5L.
+RESULTS: Estimated utilities based on the responses of 1,745 qualified
+respondents were 0.49, 0.57, and 0.63 for completely affected dominant hands,
+non-dominant hands, or ambidextrous hands, respectively. Utility for a dominant
+hand with 90-degree contracture in t h e metacarpophalangeal joints of the ring
+and little fingers was estimated to be 0.89. Separately, reducing the contracture
+of metacarpophalangeal joint for a little finger from 50 to 12 degrees would
+improve utility by 0.02.
+INTERPRETATION: DC is associated with substantial utility decrements. The
+algorithms presented herein provide a robust and flexible framework to assess
+utility for varying degrees of DC severity.
+
+DOI: 10.3109/17453674.2013.865097 
+PMCID: PMC3851672
+PMID: 24286567  [PubMed - indexed for MEDLINE]

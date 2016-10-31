@@ -1,0 +1,50 @@
+
+
+73. J Hand Surg Am. 2013 Jan;38(1):2-11. doi: 10.1016/j.jhsa.2012.10.008. Epub 2012
+Dec 4.
+
+Efficacy and safety of collagenase clostridium histolyticum injection for
+Dupuytren contracture: short-term results from 2 open-label studies.
+
+Witthaut J(1), Jones G, Skrepnik N, Kushner H, Houston A, Lindau TR.
+
+Author information: 
+(1)Department of Hand Surgery, Uppsala University Hospital, Uppsala, Sweden.
+jwitthaut@schoen-kliniken.de
+
+PURPOSE: The JOINT I (United States) and JOINT II (Australia and Europe) studies 
+evaluated the efficacy and safety of collagenase clostridium histolyticum (CCH)
+injection for the treatment of Dupuytren contracture.
+METHODS: Both studies used identical open-label protocols. Patients with
+fixed-flexion contractures of metacarpophalangeal (MCP) (20° to 100°) or proximal
+interphalangeal (PIP) joints (20° to 80°) could receive up to three 0.58-mg CCH
+injections per cord (up to 5 total injections per patient). We performed
+standardized finger extension procedures to disrupt injected cords the next day, 
+with follow-up 1, 2, 6, and 9 months thereafter. The primary end point (clinical 
+success) was reduction in contracture to within 0° to 5° of full extension 30
+days after the last injection. Clinical improvement was defined as 50% or more
+reduction from baseline contracture.
+RESULTS: Dupuytren cords affecting 879 joints (531 MCP and 348 PIP) in 587
+patients were administered CCH injections at 14 U.S. and 20 Australian/European
+sites, with similar outcomes in both studies. Clinical success was achieved in
+497 (57%) of treated joints using 1.2 ± 0.5 (mean ± SD) CCH injections per cord. 
+More MCP than PIP joints achieved clinical success (70% and 37%, respectively) or
+clinical improvement (89% and 58%, respectively). Less severely contracted joints
+responded better than those more severely contracted. Mean change in contracture 
+was 55° for MCP joints and 25° for PIP joints. With average contracture
+reductions of 73% and improvements in range of motion by 30°, most patients (92%)
+were "very satisfied" (71%) or "quite satisfied" (21%) with treatment. Physicians
+rated change from baseline as "very much improved" (47%) or "much improved"
+(35%). The CCH injections were well tolerated, causing no tendon ruptures or
+systemic reactions.
+CONCLUSIONS: Collagenase clostridium histolyticum was an effective, minimally
+invasive option for the treatment of Dupuytren contracture of a broad range of
+severities. Most treated joints (625 of 879) required a single injection.
+Treatment earlier in the course of disease provided improved outcomes.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.
+
+Copyright © 2013 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2012.10.008 
+PMID: 23218556  [PubMed - indexed for MEDLINE]

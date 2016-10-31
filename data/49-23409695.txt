@@ -1,0 +1,44 @@
+
+
+49. Int J Clin Pract. 2013 Mar;67(3):271-81. doi: 10.1111/ijcp.12106.
+
+Surgical management of Dupuytren's contracture in Europe: regional analysis of a 
+surgeon survey and patient chart review.
+
+Dias J(1), Bainbridge C, Leclercq C, Gerber RA, Guerin D, Cappelleri JC, Szczypa 
+PP, Dahlin LB.
+
+Author information: 
+(1)Musculoskeletal Clinical Business Unit, University Hospitals of Leicester,
+Leicester, Leicestershire, UK. jd96@le.ac.uk
+
+AIM: We explored regional variations in the surgical management of patients with 
+Dupuytren's contracture (DC) in 12 European countries using a surgeon survey and 
+patient chart review.
+METHODS: Twelve countries participated: Denmark, Finland, Sweden (Nordic region);
+Czech Republic, Hungary, Poland (East); France, Germany, the Netherlands, UK
+(West); Italy, Spain (Mediterranean). For the survey, a random sample of
+orthopaedic/plastic surgeons (n = 687) with 3-30 years' experience was asked
+about DC procedures performed during the previous 12 months. For the chart review
+(n = 3357), information from up to five consecutive patients was extracted.
+Descriptive statistics are reported.
+RESULTS: Ninety-five per cent of all surgeons used fasciectomy for DC, followed
+by fasciotomy (70%), dermofasciectomy (38%) and percutaneous needle fasciotomy
+(35%). Most surgeons were satisfied with fasciectomy over other procedures.
+Recommended time away from work and duration of physical therapy increased with
+the invasiveness of the procedure. The intra-operative complication rate was
+4.0%; the postoperative complication rate was 34%. Overall, ≥ 97% of the
+procedures were rated by surgeons as having a positive outcome. Across all
+regions, 54% of patients had no nodules or contracture after the procedures. Only
+2% of patients required retreatment within the first year of surgery. Important
+inter- and intraregional differences in these aspects of patient management are
+described.
+CONCLUSIONS: Understanding current regional treatment patterns and their
+relationships to country-specific health systems may facilitate earlier
+identification of, and intervention for, DD and help to optimise the overall
+treatment for patients with this chronic condition.
+
+© 2013 Blackwell Publishing Ltd.
+
+DOI: 10.1111/ijcp.12106 
+PMID: 23409695  [PubMed - indexed for MEDLINE]

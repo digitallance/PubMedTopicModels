@@ -1,0 +1,42 @@
+
+
+232. PLoS One. 2015 Jul 21;10(7):e0133629. doi: 10.1371/journal.pone.0133629.
+eCollection 2015.
+
+Joint Stiffness Is Heritable and Associated with Fibrotic Conditions and Joint
+Replacement.
+
+Williams FM(1), Kalson NS(2), Fabiane SM(1), Mann DA(3), Deehan DJ(2).
+
+Author information: 
+(1)Department of Twin Research & Genetic Epidemiology, King's College London,
+London United Kingdom. (2)Department of Orthopaedics, The Royal Victoria
+Infirmary and the Freeman Hospital, Newcastle upon Tyne, United Kingdom; Fibrosis
+Research Group, Institute of Cellular Medicine, University of Newcastle,
+Newcasltle upon Tyne, United Kingdom. (3)Fibrosis Research Group, Institute of
+Cellular Medicine, University of Newcastle, Newcasltle upon Tyne, United Kingdom.
+
+OBJECTIVE: Joint stiffness is a common, debilitating, age-related symptom, which 
+may be seen after total joint replacement (TJR). Stiffness also occurs in
+fibrotic conditions such as shoulder capsulitis and Dupuytren's contracture. We
+speculated that the two traits (TJR and fibrotic disease) are linked
+pathogenically.
+METHODS: Using the TwinsUK NIHR BRC BioResource we tested the hypotheses that 1) 
+joint (hip and knee) stiffness, TJR (hip and knee), and fibrotic conditions are
+associated and 2) genetic factors contribute to them.
+RESULTS: Participating twins (n = 9718) had completed self-reported
+questionnaires on the traits of interest. All three traits were significantly
+associated with increasing age and body mass index (BMI), as well as female sex, 
+on univariate analysis. Multivariable logistic regression analyses showed a
+significant association between TJR and joint stiffness (OR = 3.96, 95%
+confidence interval, CI 2.77-5.68) and between fibrotic conditions and joint
+stiffness (OR = 2.39, 1.74-3.29), adjusting for age, sex, BMI and twin
+relatedness. Monozygotic versus dizygotic intraclass correlations gave
+heritability estimates for TJR = 46% and joint stiffness = 32%.
+CONCLUSION: That fibrotic conditions, joint stiffness and TJR are significantly
+associated suggests a common disease process, possibly fibrosis, which is
+genetically mediated.
+
+DOI: 10.1371/journal.pone.0133629 
+PMCID: PMC4509645
+PMID: 26197488  [PubMed - indexed for MEDLINE]

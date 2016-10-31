@@ -1,0 +1,48 @@
+
+
+107. PLoS One. 2014 Nov 7;9(11):e112457. doi: 10.1371/journal.pone.0112457.
+eCollection 2014.
+
+Identification of histological patterns in clinically affected and unaffected
+palm regions in dupuytren's disease.
+
+Alfonso-Rodríguez CA(1), Garzón I(2), Garrido-Gómez J(3), Oliveira AC(2),
+Martín-Piedra MÁ(2), Scionti G(2), Carriel V(2), Hernández-Cortés P(3), Campos
+A(2), Alaminos M(2).
+
+Author information: 
+(1)Department of Histology (Tissue Engineering Group), University of Granada,
+Granada, Spain, and Instituto de Investigación Biosanitaria ibs, Granada, Spain; 
+Ph.D. Programme in Biomedicine, University of Granada, Granada, Spain.
+(2)Department of Histology (Tissue Engineering Group), University of Granada,
+Granada, Spain, and Instituto de Investigación Biosanitaria ibs, Granada, Spain. 
+(3)Division of Trauma and Orthopedic surgery, University Hospital San Cecilio,
+Granada, Spain.
+
+Dupuytren's disease is a fibro-proliferative disease characterized by a disorder 
+of the extracellular matrix (ECM) and high myofibroblast proliferation. However, 
+studies failed to determine if the whole palm fascia is affected by the disease. 
+The objective of this study was to analyze several components of the
+extracellular matrix of three types of tissues-Dupuytren's diseased contracture
+cords (DDC), palmar fascia clinically unaffected by Dupuytren's disease
+contracture (NPF), and normal forehand fascia (NFF). Histological analysis,
+quantification of cells recultured from each type of tissue, mRNA microarrays and
+immunohistochemistry for smooth muscle actin (SMA), fibrillar ECM components and 
+non-fibrillar ECM components were carried out. The results showed that DDC
+samples had abundant fibrosis with reticular fibers and few elastic fibers, high 
+cell proliferation and myofibroblasts, laminin and glycoproteins, whereas NFF did
+not show any of these findings. Interestingly, NPF tissues had more cells showing
+myofibroblasts differentiation and more collagen and reticular fibers, laminin
+and glycoproteins than NFF, although at lower level than DDC, with similar
+elastic fibers than DDC. Immunohistochemical expression of decorin was high in
+DDC, whereas versican was highly expressed NFF, with no differences for aggrecan.
+Cluster analysis revealed that the global expression profile of NPF was very
+similar to DDC, and reculturing methods showed that cells corresponding to DDC
+tissues proliferated more actively than NPF, and NPF more actively than NFF. All 
+these results suggest that NPF tissues may be affected, and that a modification
+of the therapeutic approach used for the treatment of Dupuytren's disease should 
+be considered.
+
+DOI: 10.1371/journal.pone.0112457 
+PMCID: PMC4224499
+PMID: 25379672  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,53 @@
+
+
+185. J Hand Surg Am. 2015 Oct;40(10):1963-71. doi: 10.1016/j.jhsa.2015.06.099. Epub
+2015 Jul 26.
+
+The Efficacy and Safety of Concurrent Collagenase Clostridium Histolyticum
+Injections for 2 Dupuytren Contractures in the Same Hand: A Prospective,
+Multicenter Study.
+
+Gaston RG(1), Larsen SE(2), Pess GM(3), Coleman S(4), Dean B(5), Cohen BM(5),
+Kaufman GJ(5), Tursi JP(5), Hurst LC(6).
+
+Author information: 
+(1)OrthoCarolina, Inc., Charlotte, NC. Electronic address:
+glenn.gaston@orthocarolina.com. (2)Unit for Hand Surgery, Department of
+Orthopaedics, Odense University Hospital, Odense, Denmark. (3)Central Jersey Hand
+Surgery, Eatontown, NJ. (4)Brisbane Hand and Upper Limb Clinic, Brisbane,
+Queensland, Australia. (5)Auxilium Pharmaceuticals, Inc., Chesterbrook, PA.
+(6)Stony Brook University Medical Center, Stony Brook, NY.
+
+PURPOSE: To evaluate efficacy and safety of concurrent administration of 2
+collagenase clostridium histolyticum (CCH) injections to treat 2 joints in the
+same hand with Dupuytren fixed flexion contractures (FFCs).
+METHODS: Patients with 2 or more contractures in the same hand caused by palpable
+cords participated in a 60-day, multicenter, open-label, phase 3b study. Two 0.58
+mg CCH doses were injected into 1 or 2 cords in the same hand (1 injection per
+affected joint) during the same visit. Finger extension was performed
+approximately 24, 48, or 72 or more hours later. Changes in FFC and range of
+motion, incidence of clinical success (FFC ≤ 5°), and adverse events (AEs) were
+summarized.
+RESULTS: The study enrolled 715 patients (725 treated joint pairs), and 714
+patients (724 joint pairs) were analyzed for efficacy. At day 31, mean total FFC 
+(sum of 2 treated joints) decreased 74%, from 98° to 27°. Mean total range of
+motion increased from 90° to 156°. The incidence of clinical success was 65% in
+metacarpophalangeal joints and 29% in proximal interphalangeal joints. Most
+treatment-related AEs were mild to moderate, resolving without intervention; the 
+most common were swelling of treated extremity, contusion, and pain in extremity.
+The incidence of skin lacerations was 22% (160 of 715). Efficacy and safety were 
+similar regardless of time to finger extension.
+CONCLUSIONS: Collagenase clostridium histolyticum can be used to effectively
+treat 2 affected joints concurrently without a greater risk of AEs than treatment
+of a single joint, with the exception of skin laceration. The incidence of
+clinical success in this study after 1 injection per joint was comparable to
+phase 3 study results after 3 or more injections per joint. Two concurrent CCH
+injections may allow more rapid overall treatment of multiple affected joints,
+and the ability to vary the time between CCH injection and finger extension may
+allow physicians and patients greater flexibility with scheduling treatment.
+
+Copyright © 2015 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2015.06.099 
+PMID: 26216077  [PubMed - indexed for MEDLINE]

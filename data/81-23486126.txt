@@ -1,0 +1,39 @@
+
+
+81. Ann Plast Surg. 2013 Apr;70(4):454-6. doi: 10.1097/SAP.0b013e31827e531d.
+
+Cost comparison of open fasciectomy versus percutaneous needle aponeurotomy for
+treatment of Dupuytren contracture.
+
+Herrera FA(1), Benhaim P, Suliman A, Roostaeian J, Azari K, Mitchell S.
+
+Author information: 
+(1)From the *Division of Plastic and Reconstructive Surgery and †Department of
+Orthopaedic Surgery, University of California Los Angeles, Los Angeles, CA.
+
+BACKGROUND: Many surgical options exist for the treatment of Dupuytren
+contracture. Little has been written regarding their financial implications. The 
+purpose of this study was to compare the immediate direct costs of open
+fasciectomy to percutaneous needle aponeurotomy (NA) for the surgical treatment
+of Dupuytren contracture.
+MATERIALS AND METHODS: A retrospective review was performed comparing patients
+treated with open fasciectomy (group 1) to patients treated with percutaneous NA 
+(group 2) for the treatment of Dupuytren disease from 2008 to 2010. Financial and
+medical records were reviewed. Direct cost of treatment was calculated from
+hospital billing records, including surgical, anesthesia, and facility fees.
+Statistical analysis was performed using unpaired t test.
+RESULTS: Twenty-four patients received open segmental palmar and/or digital
+fasciectomy (group 1). Average preoperative metacarpophalangeal joint flexion
+contracture was 30 degrees, and proximal interphalangeal joint flexion
+contracture was 42 degrees. Group 2 consisted of 24 patients. Average
+preoperative metacarpophalangeal flexion contracture was 31 degrees, and proximal
+interphalangeal flexion contracture was 27 degrees. Mean cost for group 1 was
+$11,240 and mean cost for group 2 was $4657 (P < 0.0001). Immediate postoperative
+contracture correction was similar between both. Two complications occurred in
+group 1 (wound dehiscence and nerve injury); no complications in group 2.
+CONCLUSIONS: Percutaneous NA is associated with decreased direct costs in the
+short-term compared to traditional open fasciectomy with comparable deformity
+correction.
+
+DOI: 10.1097/SAP.0b013e31827e531d 
+PMID: 23486126  [PubMed - indexed for MEDLINE]

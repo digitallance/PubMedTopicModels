@@ -1,0 +1,45 @@
+
+
+122. Plast Reconstr Surg. 2016 Jan;137(1):165-73. doi: 10.1097/PRS.0000000000001878.
+
+Patients' Preferences for Treatment for Dupuytren's Disease: A Discrete Choice
+Experiment.
+
+Kan HJ(1), de Bekker-Grob EW, van Marion ES, van Oijen GW, van Nieuwenhoven CA,
+Zhou C, Hovius SE, Selles RW.
+
+Author information: 
+(1)Rotterdam and Hilversum, The Netherlands From the Departments of Plastic and
+Reconstructive Surgery and Hand Surgery, Public Health, and Rehabilitation
+Medicine and Physiotherapy, Erasmus University Medical Centre; and the Xpert
+Clinic.
+
+BACKGROUND: Although in modern medicine, patients' preferences are important,
+these have never been defined for characteristics of Dupuytren treatment. This
+study determines these patients' preferences using a discrete choice experiment.
+METHODS: A multicenter discrete choice experiment study was conducted among
+patients with Dupuytren's disease who had been treated previously. Patients were 
+asked about their preferences for attributes of Dupuytren treatments using
+scenarios based on treatment method, major and minor complication rates,
+recurrence rates, convalescence, residual extension deficit after treatment, and 
+aesthetic results. The relative importance of these attributes and the tradeoffs 
+patients were willing to make between them were analyzed using a panel latent
+class logit model.
+RESULTS: Five-hundred six patients completed the questionnaire. All
+above-mentioned attributes proved to influence patients' preferences for
+Dupuytren treatment (p < 0.05). Preference heterogeneity was substantial. Men who
+stated they performed heavy labor made different tradeoffs than women or men who 
+did not perform heavy labor. In general, recurrence rate (36 percent) and
+extension deficit (28 percent) were the most important attributes in making
+treatment choices, followed by minor complication rate (13 percent). Patients
+accepted an increase in recurrent disease of 11 percent if they could receive
+needle aponeurotomy treatment instead of limited fasciectomy.
+CONCLUSIONS: This study confirms the importance of low recurrence rates and
+complete contracture corrections, but also emphasizes the significance of low
+complication rates. Convalescence was not an attribute, which scored high. The
+preference heterogeneity shows that patient consultations need to be targeted
+differently, which may result in different treatment decisions, depending on
+patient characteristics and preferences.
+
+DOI: 10.1097/PRS.0000000000001878 
+PMID: 26710020  [PubMed - indexed for MEDLINE]

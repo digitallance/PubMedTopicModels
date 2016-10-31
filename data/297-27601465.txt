@@ -1,0 +1,37 @@
+
+
+297. J Hand Surg Eur Vol. 2016 Sep 5. pii: 1753193416665299. [Epub ahead of print]
+
+Remembered preoperative Quick disabilities of the arm, shoulder and hand
+(QuickDASH) scores.
+
+Wormdal AH(1), Tallaksen SH(1), Hagen Ø(2), Foss OE(3), Finsen V(4).
+
+Author information: 
+(1)Faculty of Medicine, Norwegian University of Science and Technology,
+Trondheim, Norway. (2)Department of Orthopaedic Surgery, Martina Hansen's
+Hospital, Sandvika, Norway. (3)Department of Orthopaedic Surgery, St.Olav's
+University Hospital, Trondheim, Norway. (4)Faculty of Medicine, Norwegian
+University of Science and Technology, Trondheim, Norway Department of Orthopaedic
+Surgery, St.Olav's University Hospital, Trondheim, Norway vilh.finsen@ntnu.no.
+
+The Quick disabilities of the arm, shoulder and hand (QuickDASH) patient-reported
+outcome measure is frequently used to assess disabilities and symptoms of the
+upper extremity. This study compares real preoperative QuickDASH scores and
+remembered preoperative QuickDASH scores. Remembered preoperative QuickDASH
+scores were obtained 45 months (39-67) after surgery. Patient material consisted 
+of 160 patients operated for Dupuytren's contracture, carpal tunnel syndrome,
+thumb basal joint arthrosis, and shoulder pain. All patients had completed
+QuickDASH questionnaires before surgery. Paired T-tests, linear mixed models, and
+limits of agreement were used for analyses. There was a significant difference
+between remembered and real preoperative scores (mean 7.6, SD 15.6; SEM 1.2).
+Neither diagnosis, age, gender, nor time between surgery and review influenced
+the difference significantly. A linear mixed model was constructed to investigate
+the ability to retrospectively predict preoperative QuickDASH scores. Remembered 
+preoperative QuickDASH cannot be used in individual patients because of the high 
+inaccuracy.LEVEL OF EVIDENCE: III.
+
+© The Author(s) 2016.
+
+DOI: 10.1177/1753193416665299 
+PMID: 27601465  [PubMed - as supplied by publisher]

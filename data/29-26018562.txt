@@ -1,0 +1,68 @@
+
+
+29. Arthritis Res Ther. 2015 May 28;17:144. doi: 10.1186/s13075-015-0661-y.
+
+Laminin-rich blood vessels display activated growth factor signaling and act as
+the proliferation centers in Dupuytren's contracture.
+
+Viil J(1), Maasalu K(2,)(3), Mäemets-Allas K(4), Tamming L(5), Lõhmussaar K(6),
+Tooming M(7), Ingerpuu S(8), Märtson A(9,)(10), Jaks V(11,)(12).
+
+Author information: 
+(1)Institute of Molecular and Cell Biology, University of Tartu, Riia 23, 51010, 
+Tartu, Estonia. janeli.viil@ut.ee. (2)Department of Traumatology and Orthopedics,
+Tartu University Hospital, Puusepa 8, 51014, Tartu, Estonia.
+katre.maasalu@kliinikum.ee. (3)Clinic of Traumatology and Orthopedics, Tartu
+University Hospital, Puusepa 8, 51014, Tartu, Estonia.
+katre.maasalu@kliinikum.ee. (4)Institute of Molecular and Cell Biology,
+University of Tartu, Riia 23, 51010, Tartu, Estonia. kristina902@gmail.com.
+(5)Institute of Molecular and Cell Biology, University of Tartu, Riia 23, 51010, 
+Tartu, Estonia. liis.tamming@gmail.com. (6)Institute of Molecular and Cell
+Biology, University of Tartu, Riia 23, 51010, Tartu, Estonia.
+kadil6hmussaar@gmail.com. (7)Institute of Molecular and Cell Biology, University 
+of Tartu, Riia 23, 51010, Tartu, Estonia. mikktooming@gmail.com. (8)Institute of 
+Molecular and Cell Biology, University of Tartu, Riia 23, 51010, Tartu, Estonia. 
+suling@ebc.ee. (9)Department of Traumatology and Orthopedics, Tartu University
+Hospital, Puusepa 8, 51014, Tartu, Estonia. aare.martson@kliinikum.ee. (10)Clinic
+of Traumatology and Orthopedics, Tartu University Hospital, Puusepa 8, 51014,
+Tartu, Estonia. aare.martson@kliinikum.ee. (11)Institute of Molecular and Cell
+Biology, University of Tartu, Riia 23, 51010, Tartu, Estonia. viljar.jaks@ut.ee. 
+(12)Department of Biosciences and Nutrition, Karolinska Institutet, Hälsovägen 7,
+141 83, Huddinge, Sweden. viljar.jaks@ut.ee.
+
+Comment in
+    Nat Rev Rheumatol. 2015 Aug;11(8):444.
+
+INTRODUCTION: Dupuytren's contracture (DC) is a chronic fibroproliferative
+disease of the hand, which is characterized by uncontrolled proliferation of
+atypical myofibroblasts at the cellular level. We hypothesized that specific
+areas of the DC tissue are sustaining the cell proliferation and studied the
+potential molecular determinants that might contribute to the formation of such
+niches.
+METHODS: We studied the expression pattern of cell proliferation marker Ki67,
+phosphorylated AKT (Ak mouse strain thymoma) kinase, DC-associated growth factors
+(connective tissue growth factor (CTGF), basic fibroblast growth factor (bFGF),
+insulin-like growth factor 2 (IGF-2)) and extracellular matrix components
+(laminins, fibronectin, collagen IV) in DC tissue and normal palmar fascia using 
+immunofluorescence microscopy and quantitative real-time polymerase chain
+reaction (qPCR).
+RESULTS: We found that proliferative cells in the DC nodules were concentrated in
+the immediate vicinity of small blood vessels and localized predominantly in the 
+myofibroblast layer. Correspondingly, the DC-associated blood vessels contained
+increased levels of phosphorylated AKT, a hallmark of activated growth factor
+signaling. When studying the expression of potential activators of AKT signaling 
+we found that the expression of bFGF was confined to the endothelium of the small
+blood vessels, IGF-2 was present uniformly in the DC tissue and CTGF was
+expressed in the DC-associated sweat gland acini. In addition, the blood vessels 
+in DC nodules contained increased amounts of laminins 511 and 521, which have
+been previously shown to promote the proliferation and stem cell properties of
+different cell types.
+CONCLUSIONS: Based on our findings, we propose that in the DC-associated small
+blood vessels the presence of growth factors in combination with favorable
+extracellular matrix composition provide a supportive environment for sustained
+proliferation of myofibroblasts and thus the blood vessels play an important role
+in DC pathogenesis.
+
+DOI: 10.1186/s13075-015-0661-y 
+PMCID: PMC4475288
+PMID: 26018562  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,50 @@
+
+
+279. J Bone Joint Surg Am. 2013 Jan 2;95(1):76-81. doi: 10.2106/JBJS.L.00064.
+
+Contribution of kinesophobia and catastrophic thinking to
+upper-extremity-specific disability.
+
+Das De S(1), Vranceanu AM, Ring DC.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, MGH Orthopaedic Hand & Upper Extremity
+Service, Massachusetts General Hospital, Boston, MA 02114, USA.
+
+BACKGROUND: Upper-extremity-specific disability correlates with mood and coping
+strategies. The aim of this study was to determine if two psychological factors, 
+kinesiophobia (fear of movement) and perceived partner support, contribute
+significantly to variation in upper-extremity-specific disability in a model that
+included factors known to contribute to variation such as depression, pain
+anxiety, and catastrophic thinking.
+METHODS: We performed an observational cross-sectional study of 319 patients who 
+each had one of the following conditions: trigger finger (n = 94), carpal tunnel 
+syndrome (n = 29), trapeziometacarpal arthrosis (n = 33), Dupuytren contracture
+(n = 31), de Quervain syndrome (n = 28), wrist ganglion cyst (n = 32), lateral
+epicondylosis (n = 41), and a fracture of the distal part of the radius treated
+nonoperatively six weeks previously (n = 31). Each patient completed the
+Disabilities of the Arm, Shoulder and Hand (DASH) questionnaire and
+questionnaires measuring symptoms of depression, pain anxiety, catastrophic
+thinking, kinesiophobia, and perceived level of support from a partner or
+significant other. Stepwise multiple linear regression was used to determine
+significant independent predictors of the DASH score.
+RESULTS: Men had significantly lower (better) DASH scores than women (21 versus
+31; p < 0.01). DASH scores also differed significantly by diagnosis (p < 0.01),
+marital status (p = 0.047), and employment status (p < 0.01). The DASH score
+correlated significantly with depressive symptoms (p < 0.01), catastrophic
+thinking (p < 0.01), kinesiophobia (p < 0.01), and pain anxiety (p < 0.01) but
+not with perceived partner support. The best multivariable model of factors
+associated with greater arm-specific disability (according to the DASH score)
+included sex, diagnosis, employment status, catastrophic thinking, and
+kinesiophobia and accounted for 55% of the variation.
+CONCLUSIONS: In this sample, kinesiophobia and catastrophic thinking were the
+most important predictors of upper-extremity-specific disability in a model that 
+accounted for symptoms of depression, anxiety, and pathophysiology (diagnosis)
+and explained more than half of the variation in disability. Perceived partner
+support was not a significant factor. The consistent and predominant role of
+several modifiable psychological factors in disability suggests that patients may
+benefit from a multidisciplinary approach that optimizes mindset and coping
+strategies.
+
+DOI: 10.2106/JBJS.L.00064 
+PMID: 23283376  [PubMed - indexed for MEDLINE]

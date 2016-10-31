@@ -1,0 +1,50 @@
+
+
+190. J Hand Surg Am. 2013 Dec;38(12):2365-9. doi: 10.1016/j.jhsa.2013.08.122. Epub
+2013 Oct 17.
+
+Response of dupuytren fibroblasts to different oxygen environments.
+
+Türker T(1), Murphy E, Kaufman CL, Kutz JE, Meister EA, Hoying JB.
+
+Author information: 
+(1)Christine M. Kleinert Institute for Hand and Microsurgery; the University of
+Louisville School of Medicine; the Kleinert Kutz Hand Surgery Group; and the
+Division of Cardiovascular Therapeutics, Cardiovascular Innovation Institute,
+University of Louisville and Jewish Hospital/St. Mary's Healthcare, Louisville,
+KY; and the Department of Surgery, Division of Reconstructive and Plastic
+Surgery, Hand, Upper Extremity, and Microsurgery; and the Department of Medicine,
+Division of Transplantation, University of Arizona, Tucson, AZ. Electronic
+address: drtolgaturker@gmail.com.
+
+PURPOSE: It is thought that local ischemia and oxygen radicals are responsible
+for fibroblast-to-myofibroblast cell transformation and proliferation. We
+hypothesized that hypoxia could differentially activate the contractility of
+fibroblasts from normal human palmar fascia and from fibroblasts-myofibroblasts
+of Dupuytren cords.
+METHODS: Normal palmar fascia from 5 patients with carpal tunnel syndrome and
+Dupuytren cords from 5 patients were harvested. Cells were cultured from all
+tissue samples, and collagen lattices were prepared containing these cells.
+Oxygen treatment subgroups were created and incubated under hypoxic (1% O(2), 5% 
+CO(2), and 94% N(2)), normoxic (21% O(2), 5% CO(2), and 74% N(2)), and hyperoxic 
+(100% oxygen using 2.4 atm pressure twice a day for 7 d) conditions. After 7
+days, each subgroup was photographed, and lattices were released from dishes.
+Postrelease photographs were taken immediately, 5 minutes after release, and
+after 1 hour. Areas of the lattices at each time point were calculated using
+MetaMorph software. Actin staining and live/dead cell analysis was performed.
+Linear repeated measures analysis of variance was used for data analysis given
+that contraction levels were measured over 3 distinct time points.
+RESULTS: We found a statistically significant difference between normal samples
+and Dupuytren samples in mean contraction levels over time. There was no
+statistically significant difference between tissue groups over the 3 time
+periods based on the oxygen treatment received.
+CONCLUSIONS: Our results showed a greater degree of contractility in Dupuytren
+disease cells than normal fibroblasts. However, the contraction in either group
+was not affected by oxygen level. Future in vivo research is needed to better
+understand the nature of pathophysiology of Dupuytren disease.
+
+Copyright © 2013 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2013.08.122 
+PMID: 24140364  [PubMed - indexed for MEDLINE]

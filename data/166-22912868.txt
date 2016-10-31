@@ -1,0 +1,43 @@
+
+
+166. RETRACTED ARTICLE
+
+PLoS One. 2012;7(8):e43406. doi: 10.1371/journal.pone.0043406. Epub 2012 Aug 17.
+
+Late complications of clinical clostridium histolyticum collagenase use in
+Dupuytren's disease.
+
+Rozen WM(1), Edirisinghe Y, Crock J.
+
+Author information: 
+(1)Department of Plastic and Reconstructive Surgery, Dandenong Hospital, Southern
+Health, Dandenong, Victoria, Australia. warrenrozen@hotmail.com
+
+Retraction in
+    PLoS One. 2012;7(11). doi:
+10.1371/annotation/81e8574c-71c3-4a76-b1aa-e3c7b058af69.
+
+INTRODUCTION: While Dupuytren's disease can cause disabling contractures
+requiring open surgery, a less-invasive option using Clostridium Histolyticum
+collagenase (CHC) via percutaneous injection was recently reported. A recent
+prospective, randomized trial demonstrated few complications during 90 days
+follow-up, however did not assess any longer term follow-up for these patients.
+Long-term outcomes in this setting have not been adequately reported, and the
+current manuscript aims to identify late complications from the clinical use of
+percutaneous CHC.
+METHODS: The current manuscript reports an extended 12-month follow-up for a
+cohort of twelve of patients enrolled in the original prospective, randomized
+trial, treated at a single institution. An analysis of complications requiring
+surgical intervention was undertaken.
+RESULTS: Two of twelve patients reported debilitating pain and triggering
+requiring surgical intervention. Extensive deep-tissue scarring and adhesions
+were identified, providing the first visual and qualitative analysis of the
+pathologic effects of CHC.
+CONCLUSION: Late complications from CHC use can and have occurred, outside the
+follow-up period of the initial phase III trials. Longer term follow-up of such
+patients is thus essential, and further investigation and characterization of the
+late effects of CHC use is warranted.
+
+DOI: 10.1371/journal.pone.0043406 
+PMCID: PMC3422241
+PMID: 22912868  [PubMed - indexed for MEDLINE]

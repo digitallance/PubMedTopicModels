@@ -1,0 +1,43 @@
+
+
+203. Mol Biosyst. 2012 Sep;8(9):2274-88. Epub 2012 Jul 6.
+
+Dupuytren's disease metabolite analyses reveals alterations following initial
+short-term fibroblast culturing.
+
+Rehman S(1), Xu Y, Dunn WB, Day PJ, Westerhoff HV, Goodacre R, Bayat A.
+
+Author information: 
+(1)Doctoral Training Centre ISBML, The Manchester Centre for Integrative Systems 
+Biology, Manchester Institute of Biotechnology, University of Manchester,
+Manchester, M1 7DN, UK. Samrina.Rehman@manchester.ac.uk
+
+Dupuytren's disease (DD) is an ill-defined fibroproliferative disorder affecting 
+the palm of the hand, resulting in progressive and irreversible digital
+contracture. In view of the abnormal gene dysregulation found in DD, and its
+potential effect on metabolites at a functional level, we chose to examine the
+metabolic profile involved in DD. Using Fourier transform infrared (FT-IR)
+spectroscopy to generate metabolic fingerprints of cultured cells, we compared
+the profiles of DD cords and nodules (1) against the unaffected transverse palmar
+fascia (internal control), (2) against carpal ligamentous fascia (external
+control), and (3) against fibroblasts from fat surrounding the nodule and skin
+overlying the nodule (environmental control). We also determined the effects of
+serial passaging of the cells on DD fingerprints. Subsequently, gas
+chromatography-mass spectrometry (GC-MS) was employed for metabolic profiling in 
+order to identify metabolites characteristic of the DD tissue phenotypes. We
+developed a robust metabolomic analysis procedure of DD using cultured
+fibroblasts derived from DD tissues. Our carefully controlled culture conditions,
+combined with assessment of metabolic phenotypes by FT-IR and GC-MS, enabled us
+to demonstrate metabolic differences between DD and unaffected transverse palmar 
+fascia and between DD and healthy control tissue. In early passage (0-3) the
+metabolic differences were clear, but cells from subsequent passages (4-6)
+started to lose this distinction between diseased and non-diseased origin. The
+dysregulated metabolites we identified were leucine, phenylalanine, lysine,
+cysteine, aspartic acid, glycerol-3-phosphate and the vitamin precursor to
+coenzyme A. Early passage DD cells exhibit a clear metabolic profile, in which
+central metabolic pathways appear to be involved. Experimental conditions have
+been identified in which these DD data are reproducible. The experimental
+reproducibility will be useful in DD diagnostics and for DD systems biology.
+
+DOI: 10.1039/c2mb25173f 
+PMID: 22772395  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+135. J Hand Surg Eur Vol. 2015 Feb;40(2):171-6. doi: 10.1177/1753193414535720. Epub
+2014 May 16.
+
+Genetic and environmental influences in Dupuytren's disease: a study of 30,330
+Danish twin pairs.
+
+Larsen S(1), Krogsgaard DG(2), Aagaard Larsen L(3), Iachina M(3), Skytthe A(3),
+Frederiksen H(4).
+
+Author information: 
+(1)Department of Orthopaedics, Odense University Hospital, Odense, Denmark.
+(2)Department of Orthopaedics, Odense University Hospital, Odense, Denmark
+dkrogsgaard@hotmail.com. (3)The Danish Twin Registry, Epidemiology Unit,
+University of Southern Denmark, Denmark. (4)Department of Haematology, Odense
+University Hospital, Odense, Denmark.
+
+Comment in
+    J Hand Surg Eur Vol. 2015 Feb;40(2):177-8.
+
+We aimed to assess the relative contribution of genes and environment in the
+aetiology of Dupuytren's disease by studying Danish twins born between 1870 and
+2000. Twins with a diagnosis (n = 365) and the subgroup who also had an operation
+(n = 259) after 1977 were identified through linkage with a nationwide hospital
+registry among 30,330 monozygotic and same-sexed dizygotic twin pairs. Since
+monozygotic twins share all their genes and dizygotic twins share on average half
+of their genetic material, greater phenotypic similarity is expected in
+monozygotic than in dizygotic twins if a genetic component is involved. The
+number of concordant male twin pairs with Dupuytren's disease was 17 and 7
+(monozygotic and dizygotic pairs, respectively), compared with 60 and 174
+discordant monozygotic and dizygotic pairs, yielding probandwise concordance
+rates of 0.37 (95% confidence interval (CI): 0.26 to 0.50) and 0.07 (95% CI: 0.04
+to 0.14), respectively. The heritability of Dupuytren's disease was approximately
+80%. We conclude that genetic factors play a major role in the development of
+Dupuytren's disease.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/1753193414535720 
+PMCID: PMC4810018
+PMID: 24835475  [PubMed - indexed for MEDLINE]

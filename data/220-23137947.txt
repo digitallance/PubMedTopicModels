@@ -1,0 +1,39 @@
+
+
+220. J Plast Reconstr Aesthet Surg. 2013 Jan;66(1):95-103. doi:
+10.1016/j.bjps.2012.08.019. Epub 2012 Nov 6.
+
+The consequences of different definitions for recurrence of Dupuytren's disease.
+
+Kan HJ(1), Verrijp FW, Huisstede BM, Hovius SE, van Nieuwenhoven CA, Selles RW.
+
+Author information: 
+(1)Department of Plastic and Reconstructive Surgery and Hand Surgery, Erasmus
+Medical Center, 3000 CA Rotterdam, The Netherlands. h.kan@erasmusmc.nl
+
+BACKGROUND: Recurrence rates are important in the evaluation of the effectiveness
+of treatment for Dupuytren's disease (DD). In the literature, recurrence rates
+vary between 0% and 100%. The definition of recurrence of DD after treatment is
+inconsistently used. The aim of this study is to review all definitions of
+recurrence after treatment of DD and to evaluate the impact of using these
+definitions on a single cohort of patients treated for DD.
+METHODS: A literature search was performed in PubMed and Embase to identify
+studies. Titles and abstracts were analysed to collect all articles that
+described recurrence rates or definitions of recurrence. Two independent
+reviewers selected relevant studies and extracted data. The different definitions
+of recurrence were applied on our data set of 66 patients.
+RESULTS: Of the 113 articles reporting recurrent rates of DD, 56 (49%) presented 
+a definition of recurrence. We could categorise the definitions into three
+groups. By applying the different definition on our data set of a randomised
+controlled trial, the recurrence rates ranged from 2% to 86%.
+CONCLUSIONS: In the literature, different definitions of recurrence of DD are
+used and many authors failed to define recurrence. This study shows that the wide
+range of reported recurrence rates may largely be contributed by inconsistency in
+recurrence definitions. As a result, it is difficult or even impossible to
+compare recurrence rates between different treatments reported in the literature.
+The study indicates that consensus on a recurrence definition is needed.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.bjps.2012.08.019 
+PMID: 23137947  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,47 @@
+
+
+99. J Hand Surg Am. 2011 Nov;36(11):1826-1834.e32. doi: 10.1016/j.jhsa.2011.08.004.
+Epub 2011 Oct 5.
+
+Cost-effectiveness of open partial fasciectomy, needle aponeurotomy, and
+collagenase injection for dupuytren contracture.
+
+Chen NC(1), Shauver MJ, Chung KC.
+
+Author information: 
+(1)Department of Orthopaedic Surgery and the Section of Plastic Surgery,
+University of Michigan Medical School, Ann Arbor, MI, USA. nealchen@yahoo.com
+
+Comment in
+    J Hand Surg Am. 2012 Feb;37(2):394; author reply 394-5.
+
+PURPOSE: We undertook a cost-utility analysis to compare traditional fasciectomy 
+for Dupuytren with 2 new treatments, needle aponeurotomy and collagenase
+injection.
+METHODS: We constructed an expected-value decision analysis model with an arm
+representing each treatment. A survey was administered to a cohort of 50
+consecutive subjects to determine utilities of different interventions. We
+conducted multiple sensitivity analyses to assess the impact of varying the rate 
+of disease recurrence in each arm of the analysis as well as the cost of the
+collagenase injection. The threshold for a cost-effective treatment is based on
+the traditional willingness-to-pay of $50,000 per quality-adjusted life years
+(QALY) gained.
+RESULTS: The cost of open partial fasciectomy was $820,114 per QALY gained over
+no treatment. The cost of needle aponeurotomy was $96,474 per QALY gained versus 
+no treatment. When we performed a sensitivity analysis and set the success rate
+at 100%, the cost of needle aponeurotomy was $49,631. When needle aponeurotomy
+was performed without surgical center or anesthesia costs and with reduced hand
+therapy, the cost was $36,570. When a complete collagenase injection series was
+priced at $250, the cost was $31,856 per QALY gained. When the injection series
+was priced at $945, the cost was $49,995 per QALY gained. At the market price of 
+$5,400 per injection, the cost was $166,268 per QALY gained.
+CONCLUSIONS: In the current model, open partial fasciectomy is not
+cost-effective. Needle aponeurotomy is cost-effective if the success rate is
+high. Collagenase injection is cost-effective when priced under $945.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Economic and Decision Analysis II.
+
+Copyright © 2011 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2011.08.004 
+PMID: 21981831  [PubMed - indexed for MEDLINE]

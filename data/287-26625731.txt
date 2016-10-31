@@ -1,0 +1,32 @@
+
+
+287. Diagn Interv Imaging. 2015 Dec;96(12):1247-60. doi: 10.1016/j.diii.2015.10.007.
+Epub 2015 Nov 25.
+
+Ultrasound of wrist and hand masses.
+
+Guerini H(1), Morvan G(2), Vuillemin V(2), Campagna R(3), Thevenin F(4),
+Larousserie F(5), Leclercq C(6), Le Viet D(6), Drapé JL(2).
+
+Author information: 
+(1)Léonard de Vinci Medical Imaging, 43, rue Cortambert, 75016 Paris, France;
+Department of Radiology B, Cochin Hospital, 27, rue du Faubourg-Saint-Jacques,
+75014 Paris, France. Electronic address: henri.guerini@gmail.com. (2)Léonard de
+Vinci Medical Imaging, 43, rue Cortambert, 75016 Paris, France. (3)Department of 
+Radiology B, Cochin Hospital, 27, rue du Faubourg-Saint-Jacques, 75014 Paris,
+France. (4)Léonard de Vinci Medical Imaging, 43, rue Cortambert, 75016 Paris,
+France; Department of Radiology B, Cochin Hospital, 27, rue du
+Faubourg-Saint-Jacques, 75014 Paris, France. (5)Department of Anatomical
+Pathology, Cochin Hospital, 27, rue du Faubourg-Saint-Jacques, 75014 Paris,
+France. (6)Hand Institute, Jouvenet Clinic, 6, Square Jouvenet, 75016 Paris,
+France.
+
+Ultrasound is a useful tool to investigate soft tissue masses in the wrist and
+hand. In most situations ultrasound helps distinguish between a cyst and a tissue
+mass. This article provides a simple clinical approach to the use of ultrasound
+imaging for the diagnosis and preoperative assessment of wrist and hand masses.
+
+Copyright © 2015. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.diii.2015.10.007 
+PMID: 26625731  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,53 @@
+
+
+50. BMC Med Genomics. 2012 May 4;5:15. doi: 10.1186/1755-8794-5-15.
+
+Fibroblasts from phenotypically normal palmar fascia exhibit molecular profiles
+highly similar to fibroblasts from active disease in Dupuytren's Contracture.
+
+Satish L(1), LaFramboise WA, Johnson S, Vi L, Njarlangattil A, Raykha C,
+Krill-Burger JM, Gallo PH, O'Gorman DB, Gan BS, Baratz ME, Ehrlich GD, Kathju S.
+
+Author information: 
+(1)Department of Surgery, Division of Plastic Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, USA. latsat@hotmail.com.
+
+BACKGROUND: Dupuytren's contracture (DC) is a fibroproliferative disorder
+characterized by the progressive development of a scar-like collagen-rich cord
+that affects the palmar fascia of the hand and leads to digital flexion
+contractures. DC is most commonly treated by surgical resection of the diseased
+tissue, but has a high reported recurrence rate ranging from 27% to 80%. We
+sought to determine if the transcriptomic profiles of fibroblasts derived from
+DC-affected palmar fascia, adjacent phenotypically normal palmar fascia, and
+non-DC palmar fascial tissues might provide mechanistic clues to understanding
+the puzzle of disease predisposition and recurrence in DC.
+METHODS: To achieve this, total RNA was obtained from fibroblasts derived from
+primary DC-affected palmar fascia, patient-matched unaffected palmar fascia, and 
+palmar fascia from non-DC patients undergoing carpal tunnel release (6 patients
+in each group). These cells were grown on a type-1 collagen substrate (to better 
+mimic their in vivo environments). Microarray analyses were subsequently
+performed using Illumina BeadChip arrays to compare the transcriptomic profiles
+of these three cell populations. Data were analyzed using Significance Analysis
+of Microarrays (SAM v3.02), hierarchical clustering, concordance mapping and Venn
+diagram.
+RESULTS: We found that the transcriptomic profiles of DC-disease fibroblasts and 
+fibroblasts from unaffected fascia of DC patients exhibited a much greater
+overlap than fibroblasts derived from the palmar fascia of patients undergoing
+carpal tunnel release. Quantitative real time RT-PCR confirmed the differential
+expression of select genes validating the microarray data analyses. These data
+are consistent with the hypothesis that predisposition and recurrence in DC may
+stem, at least in part, from intrinsic similarities in the basal gene expression 
+of diseased and phenotypically unaffected palmar fascia fibroblasts. These data
+also demonstrate that a collagen-rich environment differentially alters gene
+expression in these cells. In addition, Ingenuity pathway analysis of the
+specific biological pathways that differentiate DC-derived cells from carpal
+tunnel-derived cells has identified the potential involvement of microRNAs in
+this fibroproliferative disorder.
+CONCLUSIONS: These data show that the transcriptomic profiles of DC-disease
+fibroblasts and fibroblasts from unaffected palmar fascia in DC patients are
+highly similar, and differ significantly from the transcriptomic profiles of
+fibroblasts from the palmar fascia of patients undergoing carpal tunnel release.
+
+DOI: 10.1186/1755-8794-5-15 
+PMCID: PMC3375203
+PMID: 22559715  [PubMed - indexed for MEDLINE]

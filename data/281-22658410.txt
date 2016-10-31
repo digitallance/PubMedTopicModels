@@ -1,0 +1,39 @@
+
+
+281. J Diabetes Complications. 2012 Jul-Aug;26(4):313-8. doi:
+10.1016/j.jdiacomp.2012.04.009. Epub 2012 May 31.
+
+Deteriorating tactile sensation in patients with hand syndromes associated with
+diabetes: a two-year observational study.
+
+Redmond CL(1), Bain GI, Laslett LL, McNeil JD.
+
+Author information: 
+(1)University of Adelaide, Discipline of Medicine, Modbury Hospital, Smart Road, 
+Modbury, 5092, Australia. christine.redmond@adelaide.edu.au
+
+AIMS: To observe the natural history of hand function during a two-year period in
+participants with hand syndromes associated with diabetes and to determine
+factors related to changing function.
+METHODS: Hand function was measured over three annual visits using Disability of 
+the Arm, Shoulder and Hand (DASH) and SF-36v2 questionnaires, grip strength,
+light touch and 9-hole peg tests. Light touch was tested with WEST monofilaments 
+at 7 sites on the hand (score 35 to 0). Data were analyzed using
+repeated-measures ANOVA, Spearman's correlation, and Wilcoxon signed-rank tests.
+RESULTS: Participants (n=60) were aged 61 ± 10.5 years, 57% female, diagnosed
+with diabetes and at least one of four associated hand disorders. Presentations
+of carpal tunnel syndrome, or past release (n=27, 45%) and trigger finger (n=24, 
+40%) were common. Tactile sensation was reduced during the two-year period
+(median, range; 30 months, 25-40 months). Initial median (inter-quartile range)
+scores for the dominant hand of 25.5 (22-28.5) were reduced to 23 (21.5-27). This
+sensory loss was weakly associated with HbA1c (r=0.30, p=0.05) and occurred
+predominantly in participants with trigger finger (p=0.05).
+CONCLUSIONS: Light touch perception was reduced in longstanding diabetic hand
+syndromes. Tactile abnormalities that were detected by clinical examination
+progressed during a two year period and were related to metabolic control and
+musculoskeletal diagnosis.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jdiacomp.2012.04.009 
+PMID: 22658410  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+229. J Hand Surg Am. 2013 Jun;38(6):1209-14. doi: 10.1016/j.jhsa.2013.03.036.
+
+The impact of Dupuytren disease on patient activity and quality of life.
+
+Wilburn J(1), McKenna SP, Perry-Hinsley D, Bayat A.
+
+Author information: 
+(1)Galen Research Ltd, Manchester, United Kingdom.
+
+PURPOSE: To explore the impact of Dupuytren disease (DD) from the patients'
+perspective.
+METHODS: Audio-recorded interviews were conducted for patients with Dupuytren
+disease (DD) attending outpatient clinics. The interviews were transcribed and
+subjected to content analysis. This analysis highlighted key impact areas and
+common themes in individuals' personal experiences. These were then allocated to 
+categories specified by the World Health Organization International
+Classification of Functioning, Disability, and Health (impairments and activity
+limitations) and the needs-based model of quality of life (QoL).
+RESULTS: Qualitative unstructured interviews were conducted with 34 patients (74%
+men; age, 41-80 y; mean [SD], 64 [13] y). The sample had a wide range of severity
+and duration of DD (range, 0.5-40; mean [SD], 13 [10] y). Nine hundred
+fifty-three statements relating to the impact of DD were identified from the
+interview transcripts. These statements fell into 2 major categories of impact:
+activity limitations (10 themes including problems with dressing, gripping, and
+personal care) and QoL (6 need categories: physiological, safety and security,
+social, affection, esteem, and cognitive needs).
+CONCLUSIONS: Findings from the interviews suggest that DD affects both
+performance of activities and QoL. To determine accurately the effectiveness of
+DD interventions from the patients' perspective, it is important to determine
+their impacts on both activity limitations and QoL. We intend to develop valid,
+reproducible, and responsive DD-specific scales for this purpose.
+CLINICAL RELEVANCE: The study identifies key issues specific to DD that influence
+patients' functioning and QoL. The information reported will form the basis of
+DD-specific patient-reported outcomes measures for use in clinical practice and
+evaluations of interventions.
+
+Copyright © 2013 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2013.03.036 
+PMID: 23707018  [PubMed - indexed for MEDLINE]

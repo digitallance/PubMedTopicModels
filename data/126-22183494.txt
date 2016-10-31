@@ -1,0 +1,47 @@
+
+
+126. Plast Reconstr Surg. 2012 Apr;129(4):921-32. doi: 10.1097/PRS.0b013e3182442343.
+
+DNA copy number variations at chromosome 7p14.1 and chromosome 14q11.2 are
+associated with dupuytren's disease: potential role for MMP and Wnt signaling
+pathway.
+
+Shih B(1), Tassabehji M, Watson JS, Bayat A.
+
+Author information: 
+(1)Plastic and Reconstructive Surgery Research, Manchester Interdisciplinary
+Biocentre, University of Manchester, 131 Princess Street, Manchester M1 7DN,
+United Kingdom.
+
+BACKGROUND: Dupuytren's disease is a common fibroproliferative disorder with an
+unknown etiology. Emerging evidence suggests a strong genetic component involved 
+in the manifestation of the disease. This study aims to investigate the potential
+involvement of copy number variations in Dupuytren's disease pathogenesis.
+METHODS: Array-based comparative genomic hybridization (NimbleGen Human CGH 2.1
+M) was utilized to compare DNA from (1) nodules versus internal control
+(patient's blood; n = 4) and (2) nodules (n = 4) versus external control
+(commercial reference DNA pooled from 10 donors). Analysis was carried out using 
+Nexus 5.1 (BioDiscovery, El Segundo, Calif.) with the inclusion of additional
+results from previously published array-based comparative genomic hybridization. 
+Copy number variations were considered to be common in Dupuytren's disease if the
+overlap was statistically significant and they were present in the majority (75
+to 87.5 percent when compared with controls) of Dupuytren's disease nodules. The 
+copy number variations loci were also compared with recently published genome
+wide-association studies. Common copy number variations were further validated
+using quantitative polymerase chain reaction. DNA from 25 Dupuytren's disease
+cases and 30 external controls were used in the quantitative polymerase chain
+reaction validation. In addition, gene expression was compared between
+Dupuytren's disease nodules and internal controls (transverse palmar fascia; n = 
+7).
+RESULTS: Five common copy number variations, on chromosome 17q12, 1p31.1, 20p13, 
+7p14.1, and 14q11.2, were identified by array-based comparative genomic
+hybridization. Significantly higher copy numbers of copy number variations at
+chromosome 7p14.1 and 14q11.2 in Dupuytren's disease were confirmed in
+quantitative polymerase chain reaction validation. Matrix metalloproteinase-14
+and secreted frizzled-related protein 4 (near a polymorphism recently associated 
+with Dupuytren's disease) were significantly up-regulated in nodules.
+CONCLUSION: This study demonstrated an association between Dupuytren's disease
+and copy number variations at chromosomes 7p14.1 and 14q11.2.
+
+DOI: 10.1097/PRS.0b013e3182442343 
+PMID: 22183494  [PubMed - indexed for MEDLINE]

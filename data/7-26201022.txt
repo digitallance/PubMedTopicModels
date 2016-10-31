@@ -1,0 +1,55 @@
+
+
+7. Clin Sci (Lond). 2015 Oct 1;129(8):711-20. doi: 10.1042/CS20150088. Epub 2015 Jun
+11.
+
+Involvement of pro-inflammatory cytokines and growth factors in the pathogenesis 
+of Dupuytren's contracture: a novel target for a possible future therapeutic
+strategy?
+
+Bianchi E(1), Taurone S(1), Bardella L(2), Signore A(3), Pompili E(4), Sessa
+V(5), Chiappetta C(6), Fumagalli L(4), Di Gioia C(7), Pastore FS(8), Scarpa S(9),
+Artico M(10).
+
+Author information: 
+(1)Department of Sensory Organs, "Sapienza" University of Rome, Rome.
+(2)Department of Neurology and Psychiatry, "Sapienza" University of Rome, Rome.
+(3)Department of Oncological Sciences, S. Andrea Hospital, "Sapienza" University 
+of Rome, Rome. (4)Department of Anatomical, Histological, Forensic and Locomotor 
+System Sciences, "Sapienza" Univ. of Rome, Rome. (5)Division of Orthopedics, S.
+Giovanni Calibita Fatebenefratelli Hospital, Rome. (6)Department of
+Medical-Surgical Sciences and Biotechnologies, "Sapienza" University of Rome,
+Latina. (7)Department of Radiology, Oncology and Pathology, "Sapienza" University
+of Rome, Rome. (8)Department of Systems Medicine, "Tor Vergata" University of
+Rome, Rome. (9)Department of Experimental Medicine, "Sapienza" University of
+Rome, Rome, Italy. (10)Department of Sensory Organs, "Sapienza" University of
+Rome, Rome marco.artico@uniroma1.it.
+
+Dupuytren's contracture (DC) is a benign fibro-proliferative disease of the hand 
+causing fibrotic nodules and fascial cords which determine debilitating
+contracture and deformities of fingers and hands. The present study was designed 
+to characterize pro-inflammatory cytokines and growth factors involved in the
+pathogenesis, progression and recurrence of this disease, in order to find novel 
+targets for alternative therapies and strategies in controlling DC. The
+expression of pro-inflammatory cytokines and of growth factors was detected by
+immunohistochemistry in fibrotic nodules and normal palmar fascia resected
+respectively from patients affected by DC and carpal tunnel syndrome (CTS; as
+negative controls). Reverse transcription (RT)-PCR analysis and
+immunofluorescence were performed to quantify the expression of transforming
+growth factor (TGF)-β1, interleukin (IL)-1β and vascular endothelial growth
+factor (VEGF) by primary cultures of myofibroblasts and fibroblasts isolated from
+Dupuytren's nodules. Histological analysis showed high cellularity and high
+proliferation rate in Dupuytren's tissue, together with the presence of
+myofibroblastic isotypes; immunohistochemical staining for macrophages was
+completely negative. In addition, a strong expression of TGF-β1, IL-1β and VEGF
+was evident in the extracellular matrix and in the cytoplasm of fibroblasts and
+myofibroblasts in Dupuytren's nodular tissues, as compared with control tissues. 
+These results were confirmed by RT-PCR and by immunofluorescence in pathological 
+and normal primary cell cultures. These preliminary observations suggest that
+TGF-β1, IL-1β and VEGF may be considered potential therapeutic targets in the
+treatment of Dupuytren's disease (DD).
+
+© 2015 Authors; published by Portland Press Limited.
+
+DOI: 10.1042/CS20150088 
+PMID: 26201022  [PubMed - indexed for MEDLINE]

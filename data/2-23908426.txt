@@ -1,0 +1,37 @@
+
+
+2. Bone Joint J. 2013 Aug;95-B(8):1094-100. doi: 10.1302/0301-620X.95B8.31822.
+
+Cost-effectiveness in the management of Dupuytren's contracture. A Canadian
+cost-utility analysis of current and future management strategies.
+
+Baltzer H(1), Binhammer PA.
+
+Author information: 
+(1)Sunnybrook Health Sciences Centre, 2075 Bayview Avenue, Toronto, Ontario,
+Canada. heather.baltzer@utoronto.ca
+
+In Canada, Dupuytren's contracture is managed with partial fasciectomy or
+percutaneous needle aponeurotomy (PNA). Injectable collagenase will soon be
+available. The optimal management of Dupuytren's contracture is controversial and
+trade-offs exist between the different methods. Using a cost-utility analysis
+approach, our aim was to identify the most cost-effective form of treatment for
+managing Dupuytren's contracture it and the threshold at which collagenase is
+cost-effective. We developed an expected-value decision analysis model for
+Dupuytren's contracture affecting a single finger, comparing the
+cost-effectiveness of fasciectomy, aponeurotomy and collagenase from a societal
+perspective. Cost-effectiveness, one-way sensitivity and variability analyses
+were performed using standard thresholds for cost effective treatment ($50 000 to
+$100 000/QALY gained). Percutaneous needle aponeurotomy was the preferred
+strategy for managing contractures affecting a single finger. The
+cost-effectiveness of primary aponeurotomy improved when repeated to treat
+recurrence. Fasciectomy was not cost-effective. Collagenase was cost-effective
+relative to and preferred over aponeurotomy at $875 and $470 per course of
+treatment, respectively. In summary, our model supports the trend towards
+non-surgical interventions for managing Dupuytren's contracture affecting a
+single finger. Injectable collagenase will only be feasible in our publicly
+funded healthcare system if it costs significantly less than current United
+States pricing.
+
+DOI: 10.1302/0301-620X.95B8.31822 
+PMID: 23908426  [PubMed - indexed for MEDLINE]

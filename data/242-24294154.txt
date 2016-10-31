@@ -1,0 +1,41 @@
+
+
+242. Hand (N Y). 2012 Dec;7(4):364-9. doi: 10.1007/s11552-012-9461-x.
+
+Minimally invasive partial fasciectomy for Dupuytren's contractures.
+
+Gelman S(1), Schlenker R, Bachoura A, Jacoby SM, Lipman J, Shin EK, Culp RW.
+
+Author information: 
+(1)Division of Hand Surgery, Department of Orthopaedic Surgery, Thomas Jefferson 
+University Hospital, 834 Chestnut Street, Suite G114, Philadelphia, PA 19107 USA 
+; The Commonwealth Medical College, 525 Pine St, Scranton, PA 18509 USA.
+
+BACKGROUND: Numerous options exist for the treatment of Dupuytren's contracture. 
+This study describes the technique and early results of partial fasciectomy
+through a mini-incision approach as an additional treatment option for
+Dupuytren's disease.
+METHODS: This procedure involves the excision of diseased Dupuytren's tissue with
+the use of multiple 1 cm transverse incisions. Patient demographics, digit
+involvement, the number of incisions required to release each digit, and
+complications were recorded for all patients. Range of motion data was obtained
+from a subgroup of patients that had at least 6 months of follow-up. A paired t
+test was used to compare preoperative and postoperative contracture.
+RESULTS: Sixty-seven patients underwent 75 procedures that involved 119 digits.
+The mean patient age at the time of surgery was 63 years (range, 33-95 years). A 
+total of 32 digits (47 joints) were available for range of motion analysis. After
+a mean of 2.2 years following surgery, metacarpophalangeal joint contractures
+maintained correction (34° preoperatively, 19° postoperatively, p = 0.008). After
+a mean postoperative duration of 2.0 years, proximal interphalangeal joint
+contractures trended worse than preoperative levels (39° preoperatively, 45°
+postoperatively, p = 0.319). There was one major complication, which consisted of
+a nerve laceration that was identified and repaired intraoperatively.
+CONCLUSIONS: Partial fasciectomy through the described mini-incision approach
+provides an additional surgical option for patients who desire a less invasive
+surgical procedure than traditional fascietomy. Although this procedure is safe
+and effective at achieving immediate cord release, maintenance of correction for 
+proximal interphalangeal joint contractures remains problematic.
+
+DOI: 10.1007/s11552-012-9461-x 
+PMCID: PMC3508008
+PMID: 24294154  [PubMed]

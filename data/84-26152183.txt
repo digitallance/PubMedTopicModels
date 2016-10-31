@@ -1,0 +1,37 @@
+
+
+84. J Med Case Rep. 2015 Jul 8;9:158. doi: 10.1186/s13256-015-0634-4.
+
+Dupuytren's contractures associated with the BRAF inhibitor vemurafenib: a case
+report.
+
+Chan SW(1), Vorobiof DA(2).
+
+Author information: 
+(1)Sandton Oncology Centre, 159 Rivonia Road, Morningside, Sandton, Johannesburg,
+Gauteng, 2199, South Africa. dr.szewai.chan@gmail.com. (2)Sandton Oncology
+Centre, 159 Rivonia Road, Morningside, Sandton, Johannesburg, Gauteng, 2199,
+South Africa. voro@global.co.za.
+
+INTRODUCTION: Two previous cases of the development of Dupuytren's contractures
+were reported in association with BRAF inhibitor treatment for BRAF V600E
+mutation-positive metastatic melanoma and metastatic papillary thyroid carcinoma.
+We reported on a third case with a slower onset of presentation.
+CASE PRESENTATION: A 66-year-old white man was diagnosed with a BRAF V600E
+mutated metastatic cutaneous melanoma. He was commenced on oral vemurafenib 960
+mg twice daily. A marked response was achieved for his metastatic disease. He
+noticed a change of his hair characteristics and a feeling of "lumps" in both
+palms by 6 months. By 9 months, classical Dupuytren's contracture was apparent.
+CONCLUSIONS: Dupuytren's contracture is not a known side effect of BRAF inhibitor
+treatment. The timeline for the development of Dupuytren's contracture on BRAF
+inhibitor treatment is not well defined. Although the etiology of Dupuytren's
+contracture is unknown, an increase in tumor necrosis factor has been
+demonstrated to be a possible mechanism. BRAF inhibition has been shown to
+increase immune reaction in the tumor microenvironment and is associated with
+high serum tumor necrosis factor level. We propose that an increased level of
+tumor necrosis factor associated with BRAF inhibition may increase the risk of
+the development of Dupuytren's contractures.
+
+DOI: 10.1186/s13256-015-0634-4 
+PMCID: PMC4501278
+PMID: 26152183  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+309. Diabetes Metab Syndr Obes. 2013 May 7;6:197-207. doi: 10.2147/DMSO.S33943. Print 
+2013.
+
+Management of limited joint mobility in diabetic patients.
+
+Abate M(1), Schiavone C, Salini V, Andia I.
+
+Author information: 
+(1)Department of Medicine and Science of Aging, University G d'Annunzio,
+Chieti-Pescara, Italy.
+
+Several rheumatologic manifestations are more pronounced in subjects with
+diabetes, ie, frozen shoulder, rotator cuff tears, Dupuytren's contracture,
+trigger finger, cheiroarthropathy in the upper limb, and Achilles tendinopathy
+and plantar fasciitis in the lower limb. These conditions can limit the range of 
+motion of the affected joint, thereby impairing function and ability to perform
+activities of daily living. This review provides a short description of
+diabetes-related joint diseases, the specific pathogenetic mechanisms involved,
+and the role of inflammation, overuse, and genetics, each of which activates a
+complex sequence of biochemical alterations. Diabetes is a causative factor in
+tendon diseases and amplifies the damage induced by other agents as well.
+According to an accepted hypothesis, damaged joint tissue in diabetes is caused
+by an excess of advanced glycation end products, which forms covalent cross-links
+within collagen fibers and alters their structure and function. Moreover, they
+interact with a variety of cell surface receptors, activating a number of
+effects, including pro-oxidant and proinflammatory events. Adiposity and advanced
+age, commonly associated with type 2 diabetes mellitus, are further pathogenetic 
+factors. Prevention and strict control of this metabolic disorder is essential,
+because it has been demonstrated that limited joint motion is related to duration
+of the disease and hyperglycemia. Several treatments are used in clinical
+practice, but their mechanisms of action are not completely understood, and their
+efficacy is also debated.
+
+DOI: 10.2147/DMSO.S33943 
+PMCID: PMC3656815
+PMID: 23690694  [PubMed]

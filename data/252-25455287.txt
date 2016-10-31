@@ -1,0 +1,44 @@
+
+
+252. J Plast Reconstr Aesthet Surg. 2015 Feb;68(2):243-51. doi:
+10.1016/j.bjps.2014.10.011. Epub 2014 Oct 16.
+
+Linear regression analysis of Hospital Episode Statistics predicts a large
+increase in demand for elective hand surgery in England.
+
+Bebbington E(1), Furniss D(2).
+
+Author information: 
+(1)The School of Clinical Medicine, University of Oxford, The John Radcliffe
+Hospital, Oxford OX3 9DU, UK. (2)The Department of Plastic and Reconstructive
+Surgery, Oxford University Hospitals NHS Trust, Nuffield Orthopaedic Centre,
+Oxford OX3 7HE, UK; NDORMS, University of Oxford, Botnar Research Centre, Oxford 
+OX3 7HE, UK. Electronic address: dominic.furniss@doctors.org.uk.
+
+INTRODUCTION: We integrated two factors, demographic population shifts and
+changes in prevalence of disease, to predict future trends in demand for hand
+surgery in England, to facilitate workforce planning.
+METHODS: We analysed Hospital Episode Statistics data for Dupuytren's disease,
+carpal tunnel syndrome, cubital tunnel syndrome, and trigger finger from 1998 to 
+2011. Using linear regression, we estimated trends in both diagnosis and surgery 
+until 2030. We integrated this regression with age specific population data from 
+the Office for National Statistics in order to estimate how this will contribute 
+to a change in workload over time.
+RESULTS: There has been a significant increase in both absolute numbers of
+diagnoses and surgery for all four conditions. Combined with future population
+data, we calculate that the total operative burden for these four conditions will
+increase from 87,582 in 2011 to 170,166 (95% confidence interval 144,517-195,353)
+in 2030.
+DISCUSSION: The prevalence of these diseases in the ageing population, and
+increasing prevalence of predisposing factors such as obesity and diabetes, may
+account for the predicted increase in workload. The most cost effective
+treatments must be sought, which requires high quality clinical trials. Our
+methodology can be applied to other sub-specialties to help anticipate the need
+for future service provision.
+
+Copyright © 2014 British Association of Plastic, Reconstructive and Aesthetic
+Surgeons. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bjps.2014.10.011 
+PMCID: PMC4315884
+PMID: 25455287  [PubMed - indexed for MEDLINE]

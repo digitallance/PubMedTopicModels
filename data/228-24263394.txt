@@ -1,0 +1,43 @@
+
+
+228. Plast Reconstr Surg. 2014 Mar;133(3):593-603. doi:
+10.1097/01.prs.0000438455.37604.0f.
+
+A systematic review and meta-analysis on the prevalence of Dupuytren disease in
+the general population of Western countries.
+
+Lanting R(1), Broekstra DC, Werker PM, van den Heuvel ER.
+
+Author information: 
+(1)Groningen, The Netherlands From the Departments of Plastic Surgery and
+Epidemiology, University of Groningen, University Medical Center Groningen.
+
+Erratum in
+    Plast Reconstr Surg. 2014 May;133(5):1312.
+
+BACKGROUND: Dupuytren disease is a fibroproliferative disease of palmar fascia of
+the hand. Its prevalence has been the subject of several reviews; however, an
+accurate description of the prevalence range in the general population--and of
+the relation between age and disease--is lacking.
+METHODS: Embase and PubMed were searched using database-specific Medical Subject 
+Headings; titles and abstracts were searched for the words "Dupuytren,"
+"incidence," and "prevalence." Two reviewers independently assessed the articles 
+using inclusion and exclusion criteria, and rated the included studies with a
+quality assessment instrument. In a meta-analysis, the median prevalence, as a
+function of age by sex, was estimated, accompanied by 95 percent prediction
+intervals. The observed heterogeneity in prevalence was investigated with respect
+to study quality and geographic location.
+RESULTS: Twenty-three of 199 unique identified articles were included. The number
+of participants ranged from 37 to 97,537, and age ranged from 18 to 100 years.
+Prevalence varied from 0.6 to 31.6 percent. The quality of studies differed but
+could not explain the heterogeneity among studies. Mean prevalence was estimated 
+as 12, 21, and 29 percent at ages 55, 65, and 75 years, respectively, based on
+the relation between age and prevalence determined from 10 studies.
+CONCLUSIONS: The authors describe a prevalence range of Dupuytren disease in the 
+general population of Western countries. The relation between age and prevalence 
+of Dupuytren disease is given according to sex, including 95 percent prediction
+intervals. It is possible to determine disease prevalence at a certain age for
+the total population, and for men and women separately.
+
+DOI: 10.1097/01.prs.0000438455.37604.0f 
+PMID: 24263394  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,58 @@
+
+
+83. J Hand Surg Am. 2013 Jan;38(1):12-22. doi: 10.1016/j.jhsa.2012.09.028. Epub 2012 
+Nov 30.
+
+Dupuytren contracture recurrence following treatment with collagenase clostridium
+histolyticum (CORDLESS study): 3-year data.
+
+Peimer CA(1), Blazar P, Coleman S, Kaplan FT, Smith T, Tursi JP, Cohen B, Kaufman
+GJ, Lindau T.
+
+Author information: 
+(1)College of Human Medicine, Michigan State University, Marquette General
+Healthcare, Marquette, MI 49855, USA. clayton.peimer@mghs.org
+
+Comment in
+    J Hand Surg Am. 2015 Nov;40(11):2317.
+    J Hand Surg Am. 2015 Nov;40(11):2317-8.
+
+PURPOSE: To evaluate long-term efficacy and safety of collagenase clostridium
+histolyticum (CCH) after the third year of a 5-year nontreatment follow-up study,
+Collagenase Option for Reduction of Dupuytren Long-Term Evaluation of Safety
+Study.
+METHODS: This study enrolled Dupuytren contracture patients from 5 previous
+clinical studies. Beginning 2 years after their first CCH injection, we
+re-evaluated patients annually for joint contracture and safety. Recurrence in a 
+previously successfully treated joint (success = 0° to 5° contracture after CCH
+administration) was defined as 20° or greater worsening in contracture in the
+presence of a palpable cord or medical/surgical intervention to correct new or
+worsening contracture. We assessed partially corrected joints (joints reduced 20°
+or more from baseline contracture but not to 0° to 5°) for nondurable response,
+also defined as 20° or greater worsening of contracture or medical/surgical
+intervention.
+RESULTS: Of 1,080 CCH-treated joints (648 metacarpophalangeal [MCP]; 432 proximal
+interphalangeal [PIP]; n = 643 patients), 623 (451 MCP, 172 PIP) had achieved 0° 
+to 5° contracture in the original study. Of these joints, 35% (217 of 623)
+recurred (MCP 27%; PIP 56%). Of these recurrences, an intervention was performed 
+in 7%. Of the 1,080 CCH-treated joints, 301 were partially corrected in the
+original study. Of these, 50% (150 of 301; MCP: 38% [57 of 152]; PIP: 62% [93 of 
+149]) had nondurable response. We identified no new long-term or serious adverse 
+events attributed to CCH during follow-up. Anti-clostridial type I collagenase
+and/or anti-clostridial type II collagenase antibodies were reported for 96% or
+more of patients who received 2 or more CCH injections and 82% who received 1
+injection.
+CONCLUSIONS: The recurrence rate, which is comparable to other standard
+treatments, and the absence of long-term adverse events 3 years after initial
+treatment indicate that CCH is an effective and safe treatment for Dupuytren
+contracture. Most successfully treated joints had a contracture well below the
+threshold for surgical intervention 3 years after treatment. Recurrence rates
+among successfully treated joints were lower than nondurable response rates among
+partially corrected joints.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.
+
+Copyright © 2013 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2012.09.028 
+PMID: 23200951  [PubMed - indexed for MEDLINE]

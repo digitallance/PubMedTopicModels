@@ -1,0 +1,46 @@
+
+
+24. Plast Reconstr Surg. 2015 Jul;136(1):87-97. doi: 10.1097/PRS.0000000000001320.
+
+Collagenase Clostridium Histolyticum versus Limited Fasciectomy for Dupuytren's
+Contracture: Outcomes from a Multicenter Propensity Score Matched Study.
+
+Zhou C(1), Hovius SE, Slijper HP, Feitz R, Van Nieuwenhoven CA, Pieters AJ,
+Selles RW.
+
+Author information: 
+(1)Rotterdam and Hilversum, The Netherlands From the Departments of Plastic,
+Reconstructive, and Hand Surgery and Rehabilitation Medicine, Erasmus MC; and the
+Department of Hand and Wrist Surgery, Xpert Clinic.
+
+BACKGROUND: Controversy exists about the relative effectiveness of injectable
+collagenase (collagenase clostridium histolyticum) and limited fasciectomy in the
+treatment of Dupuytren's contracture. The authors compared the effectiveness of
+both techniques in actual clinical practice.
+METHODS: This study evaluated all subjects treated with collagenase clostridium
+histolyticum or limited fasciectomy for metacarpophalangeal and/or proximal
+interphalangeal joint contractures between 2011 and 2014 at seven practice sites.
+The authors compared the degree of residual contracture (active extension
+deficit), Michigan Hand Outcomes Questionnaire scores, and adverse events at
+follow-up visits occurring between 6 and 12 weeks after surgery or the last
+injection with the use of propensity score matching.
+RESULTS: In 132 matched subjects who were treated with collagenase (n = 66) or
+fasciectomy (n = 66), the degree of residual contracture at follow-up for
+affected metacarpophalangeal joints was not significantly different (13 degrees
+versus 6 degrees; p = 0.095) and affected proximal interphalangeal joints had
+significantly worse residual contracture in the collagenase group compared with
+those in the fasciectomy group (25 degrees versus 15 degrees; p = 0.010).
+Collagenase subjects experienced fewer serious adverse events than did
+fasciectomy subjects and reported larger improvements in the Michigan Hand
+Outcomes Questionnaire subscores evaluating satisfaction with hand function,
+activities of daily living, and work performance.
+CONCLUSIONS: This propensity score-matched study showed that collagenase
+clostridium histolyticum was not significantly different from limited fasciectomy
+in reducing metacarpophalangeal joint contractures, whereas proximal
+interphalangeal joint contractures showed slightly better reduction following
+limited fasciectomy. Collagenase provided a more rapid recovery of hand function 
+than did fasciectomy and was associated with fewer serious adverse events.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, III.
+
+DOI: 10.1097/PRS.0000000000001320 
+PMID: 25829153  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,50 @@
+
+
+227. J Hand Surg Am. 2014 Oct;39(10):1942-7. doi: 10.1016/j.jhsa.2014.07.018. Epub
+2014 Aug 20.
+
+Steroid injection and needle aponeurotomy for Dupuytren disease: long-term
+follow-up of a randomized controlled trial.
+
+McMillan C(1), Binhammer P(2).
+
+Author information: 
+(1)Division of Plastic and Reconstructive Surgery, Sunnybrook Health Sciences
+Centre, Toronto, Ontario, Canada. (2)Division of Plastic and Reconstructive
+Surgery, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada. Electronic 
+address: p.binhammer@utoronto.ca.
+
+PURPOSE: To compare long-term outcomes and retreatment rates for patients with
+Dupuytren disease who underwent needle aponeurotomy (NA) combined with a series
+of triamcinolone acetonide injections or underwent NA alone as part of a prior
+randomized controlled trial.
+METHODS: During this follow-up study, 44 of 47 participants in the original study
+were examined as needed between 6 and 53 months from their initial procedure.
+Those who had not been reassessed within 18 months of the original NA were asked 
+to return for follow-up. The average total active extension deficit (TAED) of
+previously treated joints was compared between groups 7 to 12, 13 to 24, 25 to
+36, and 37 to 48 months following treatment. Timing of retreatment (if performed)
+was recorded.
+RESULTS: Forty-four participants returned for assessment an average of 4.8 times 
+over 53 months. Mean TAED was significantly less in needle aponeurotomy
+triamcinolone injection patients at 6 months and between 13 and 24 months.
+Sixty-two percent of NA group patients and 30% of needle aponeurotomy
+triamcinolone injection patients returned for a second treatment on the same
+digit(s) (retreatment). This difference was not significant. Mean time to
+retreatment and mean TAED immediately prior to retreatment did not differ
+significantly between groups. Kaplan-Meier survival estimates demonstrated a
+significantly higher percentage of NA group patients expected to return for
+retreatment by 24 but not by 36 months. Younger age, more than one joint treated 
+at the initial NA, and TAED severity throughout the follow-up period were
+associated with earlier retreatment.
+CONCLUSIONS: Serial triamcinolone injections combined with NA was associated with
+lower TAED for up to 24 months. A larger study would more accurately quantify the
+potential benefits of combining triamcinolone injections with NA for treatment of
+Dupuytren disease.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.
+
+Copyright © 2014 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2014.07.018 
+PMID: 25149899  [PubMed - indexed for MEDLINE]

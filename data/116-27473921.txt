@@ -1,0 +1,51 @@
+
+
+116. J Hand Surg Am. 2016 Sep;41(9):873-80. doi: 10.1016/j.jhsa.2016.06.014. Epub 2016
+Jul 27.
+
+Comparison of Treatment Outcome After Collagenase and Needle Fasciotomy for
+Dupuytren Contracture: A Randomized, Single-Blinded, Clinical Trial With a 1-Year
+Follow-Up.
+
+Strömberg J(1), Ibsen-Sörensen A(2), Fridén J(3).
+
+Author information: 
+(1)Department of Hand Surgery, Sahlgrenska University Hospital, Gothenburg,
+Sweden; Centre for Advanced Reconstruction of Extremities, Sahlgrenska University
+Hospital, Gothenburg, Sweden. Electronic address: joakim.stromberg@vgregion.se.
+(2)Department of Hand Surgery, Sahlgrenska University Hospital, Gothenburg,
+Sweden. (3)Department of Hand Surgery, Sahlgrenska University Hospital,
+Gothenburg, Sweden; Centre for Advanced Reconstruction of Extremities,
+Sahlgrenska University Hospital, Gothenburg, Sweden.
+
+PURPOSE: This study compared the efficacy of collagenase treatment and needle
+fasciotomy for contracture of the metacarpophalangeal (MCP) joint in Dupuytren
+disease.
+METHODS: This is a prospective, single-blinded, randomized study with follow-up 1
+week and 1 year after treatment. One hundred and forty patients with an MCP
+contracture of 20° or more in a single finger were enrolled, of whom 69 patients 
+were randomized to collagenase treatment and 71 patients to needle fasciotomy.
+The patients were followed at 1 week and were examined by a physiotherapist after
+1 year. Measurements of joint movement and grip strength were recorded as well as
+patient-perceived outcomes measured by the Unité Rhumatologique des Affections de
+la Main (URAM) questionnaire and a visual analog scale (VAS) for the estimation
+of procedural pain and subjective treatment efficacy.
+RESULTS: Eighty-eight percent of the patients in the collagenase group and 90% of
+the patients in the needle fasciotomy group had a reduction in their MCP
+contracture to less than 5° 1 week after treatment, and the median gains in
+passive MCP movement were 48° and 46°, respectively. The median VAS score for
+procedural pain was 4.9 of 10 in the collagenase group and 2.7 of 10 in the
+needle fasciotomy group. After 1 year, 90% of the patients in both groups had
+full extension of the treated MCP joint. One patient in each group had a
+recurrence of the contracture. The median improvement in URAM score was 8 units
+in both groups and the VAS estimation of treatment efficacy by the patients was
+8.7 of 10 in both groups.
+CONCLUSIONS: There was no significant difference between the treatment outcomes
+after collagenase and needle fasciotomy treatment after 1 year.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic I.
+
+Copyright © 2016 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2016.06.014 
+PMID: 27473921  [PubMed - in process]

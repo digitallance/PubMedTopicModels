@@ -1,0 +1,40 @@
+
+
+245. J Hand Surg Eur Vol. 2016 Jul 29. pii: 1753193416660045. [Epub ahead of print]
+
+Functional outcome and complications following surgery for Dupuytren's disease: a
+multi-centre cross-sectional study.
+
+Rodrigues JN(1), Zhang W(2), Scammell BE(2), Chakrabarti I(3), Russell PG(4),
+Fullilove S(5), Davidson D(6), Davis TR(2).
+
+Author information: 
+(1)Nuffield Department of Orthopaedics, University of Oxford, Oxford, UK
+j.n.rodrigues@doctors.org.uk. (2)Division of Rheumatology, Orthopaedics and
+Dermatology, University of Nottingham & Nottingham University Hospitals NHS
+Trust, Nottingham, UK. (3)Rotherham General Hospital, Rotherham, UK.
+(4)Pulvertaft Hand Centre, Royal Derby Hospital, Derby, UK. (5)Derriford
+Hospital, Plymouth, UK. (6)St John's Hospital at Howden, Livingston, UK.
+
+Variables associated with recurrent Dupuytren's disease, or a 'diathesis', have
+been investigated, but those associated with functional outcome and complications
+are less well studied. Outcomes 1 or 5 years after an aponeurotomy, fasciectomy
+or dermofasciectomy were assessed by patient interview and examination at five UK
+centres. A total of 432 procedures were studied. The reoperation rate did not
+differ at 1 year (p = 0.396, Chi-square test with Monte Carlo simulation), but
+was higher after aponeurotomy in the 5-year group (30%, versus 6% after
+fasciectomy and 0% after dermofasciectomy, p = 0.003, Chi square test with Monte 
+Carlo simulation). Loss of function (DASH>15) did not differ between procedures
+at 5 years, even when reoperation and other variables were controlled. Diabetes, 
+female gender and previous ipsilateral surgery were associated with poorer
+function in logistic regression analysis. The variables associated with poor
+function after treatments differ from diathesis variables. Aponeurotomy had lower
+complication rates than fasciectomy and dermofasciectomy. This may counterbalance
+the former's higher recurrence rate and explain why aponeurotomy demonstrated
+similar long-term functional outcome compared with excisional surgery in this
+study.LEVEL OF EVIDENCE: III.
+
+© The Author(s) 2016.
+
+DOI: 10.1177/1753193416660045 
+PMID: 27474501  [PubMed - as supplied by publisher]

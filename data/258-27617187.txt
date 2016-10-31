@@ -1,0 +1,44 @@
+
+
+258. Curr Mol Biol Rep. 2016;2(3):133-140. Epub 2016 Jul 14.
+
+Connective Tissue Degeneration: Mechanisms of Palmar Fascia Degeneration
+(Dupuytren's Disease).
+
+Karkampouna S(1), Kreulen M(2), Obdeijn MC(3), Kloen P(4), Dorjée AL(5),
+Rivellese F(6), Chojnowski A(7), Clark I(8), Kruithof-de Julio M(1).
+
+Author information: 
+(1)Department of Urology, Leiden University Medical Center, Albinusdreef 2,
+Leiden, ZA 2333 The Netherlands ; Urology Research Laboratory, Department of
+Urology and Department of Clinical Research, University of Bern, Murtenstrasse
+35, Bern, 3008 Switzerland. (2)Department of Plastic Surgery, Rode Kruis
+Ziekenhuis, Vondellaan 13, Beverwijk, 1942 LE The Netherlands. (3)Department of
+Plastic Reconstructive and Hand Surgery, Academic Medical Center, Meibergdreef 9,
+Amsterdam, 1100 DD The Netherlands. (4)Department of Orthopedic Surgery, Academic
+Medical Center, Meibergdreef 9, Amsterdam, 1100 DD The Netherlands. (5)Department
+of Rheumatology, Leiden University Medical Center, Albinusdreef 2, Leiden, 2333
+ZA The Netherlands. (6)Department of Rheumatology, Leiden University Medical
+Center, Albinusdreef 2, Leiden, 2333 ZA The Netherlands ; Centre for Experimental
+Medicine and Rheumatology, William Harvey Research Institute, Barts and The
+London School of Medicine and Dentistry, Queen Mary University of London, London,
+UK. (7)Institute of Orthopaedics, Norfolk and Norwich University Hospital,
+Norwich, UK. (8)Biomedical Research Centre, School of Biological Sciences,
+University of East Anglia, Norwich, UK.
+
+Dupuytren's disease is a connective tissue disorder of the hand causing excessive
+palmar fascial fibrosis with associated finger contracture and disability. The
+aetiology of the disease is heterogeneous, with both genetic and environmental
+components. The connective tissue is abnormally infiltrated by myofibroblasts
+that deposit collagen and other extracellular matrix proteins. We describe the
+clinical profile of Dupuytren's disease along with current therapeutic schemes.
+Recent findings on molecular and cellular parameters that are dysregulated in
+Dupuytren's disease, which may contribute to the onset of the disease, and the
+role of resident inflammation promoting fibrosis, are highlighted. We review
+recent literature focusing on non-myofibroblast cell types (stem cell-like
+cells), their pro-inflammatory and pro-fibrotic role that may account for
+abnormal wound healing response.
+
+DOI: 10.1007/s40610-016-0045-3 
+PMCID: PMC4996878
+PMID: 27617187  [PubMed]

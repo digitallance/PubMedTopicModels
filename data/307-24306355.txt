@@ -1,0 +1,39 @@
+
+
+307. Eur J Epidemiol. 2014 Jan;29(1):63-71. doi: 10.1007/s10654-013-9869-9. Epub 2013 
+Dec 5.
+
+Same-sex marriage, autoimmune thyroid gland dysfunction and other autoimmune
+diseases in Denmark 1989-2008.
+
+Frisch M(1), Nielsen NM, Pedersen BV.
+
+Author information: 
+(1)Department of Epidemiology Research, Statens Serum Institut, 5 Artillerivej,
+DK-2300, Copenhagen S, Denmark, mfr@ssi.dk.
+
+Autoimmune diseases have been little studied in gay men and lesbians. We followed
+4.4 million Danes, including 9,615 same-sex married (SSM) persons, for 47
+autoimmune diseases in the National Patient Registry between 1989 and 2008.
+Poisson regression analyses provided first hospitalization rate ratios (RRs)
+comparing rates between SSM individuals and persons in other marital status
+categories. SSM individuals experienced no unusual overall risk of autoimmune
+diseases. However, the risk of autoimmune thyroid dysfunction was increased,
+notably Hashimoto's thyroiditis (women(SSM), RR = 2.92; 95% confidence interval
+(CI) 1.74-4.55) and Graves' disease (men(SSM), RR = 1.88; 95% CI 1.08-3.01).
+There was also an excess of primary biliary cirrhosis (women(SSM), RR = 4.09; 95%
+CI 1.01-10.7), and of psoriasis (men(SSM), RR = 2.48; 95% CI 1.77-3.36),
+rheumatic fever (men(SSM), RR = 7.55; 95% CI 1.87-19.8), myasthenia gravis
+(men(SSM), RR = 5.51; 95% CI 1.36-14.4), localized scleroderma (men(SSM), RR =
+7.16; 95% CI 1.18-22.6) and pemphigoid (men(SSM), RR = 6.56; 95% CI 1.08-20.6),
+while Dupuytren's contracture was reduced (men(SSM), RR = 0.64; 95% CI
+0.39-0.99). The excess of psoriasis was restricted to same-sex married men with
+HIV/AIDS (men(SSM), RR = 10.5; 95% CI 6.44-15.9), whereas Graves' disease
+occurred in excess only among same-sex married men without HIV/AIDS (men(SSM), RR
+= 1.99; 95% CI 1.12-3.22). Lesbians and immunologically competent gay men in
+same-sex marriage face no unusual overall risk of autoimmune diseases. However,
+the observed increased risk of thyroid dysfunction in these lesbians and gay men 
+deserves further study.
+
+DOI: 10.1007/s10654-013-9869-9 
+PMID: 24306355  [PubMed - indexed for MEDLINE]

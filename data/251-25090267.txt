@@ -1,0 +1,36 @@
+
+
+251. Clin Invest Med. 2014 Aug 1;37(4):E262-7.
+
+IGF2 expression and β-catenin levels are increased in Frozen Shoulder Syndrome.
+
+Raykha CN, Crawford JD, Burry AF, Drosdowech DS, Faber KJ, Gan BS, O'Gorman
+DB(1).
+
+Author information: 
+(1). dogorman@uwo.ca.
+
+PURPOSE: Frozen Shoulder Syndrome is a fibrosis of the shoulder joint capsule
+that is clinically associated with Dupuytren's disease, a fibrosis of the palmar 
+fascia. Little is known about any commonalities in the pathophysiology of these
+connective tissue fibroses. β-catenin, a protein that transactivates gene
+expression, and levels of IGF2 mRNA, encoding insulin-like growth factor-II, are 
+elevated in Dupuytren's disease. The aim of this study was to determine if
+correlating changes in β-catenin levels and IGF2 expression are evident in Frozen
+Shoulder Syndrome.
+METHODS: Tissue from patients with Frozen Shoulder Syndrome and rotator cuff tear
+were obtained during shoulder arthroscopies. Total protein extracts were prepared
+from tissue aliquots and β-catenin immunoreactivity was assessed by Western
+immunoblotting. In parallel, primary fibroblasts were derived from these tissues 
+and assessed for IGF2 expression by quantitative PCR.
+RESULTS: β-catenin levels were significantly increased in Frozen Shoulder
+Syndrome relative to rotator cuff tear when assessed by Western immunoblotting
+analyses. IGF2 mRNA levels were significantly increased in primary fibroblasts
+derived from frozen shoulder syndrome tissues relative to fibroblasts derived
+from rotator cuff tissues.
+CONCLUSIONS: As in Dupuytren's disease, β-catenin levels and IGF2 expression are 
+elevated in Frozen Shoulder Syndrome. These findings support the hypothesis that 
+these connective tissue fibroses share a common pathophysiology.
+
+
+PMID: 25090267  [PubMed - indexed for MEDLINE]

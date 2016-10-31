@@ -1,0 +1,45 @@
+
+
+54. J Med Econ. 2012;15(4):664-71. doi: 10.3111/13696998.2012.670678. Epub 2012 Mar
+21.
+
+Direct and indirect costs associated with Dupuytren's contracture.
+
+Macaulay D(1), Ivanova J, Birnbaum H, Sorg R, Skodny P.
+
+Author information: 
+(1)Analysis Group, Inc., New York, NY 10020, USA. dmacaulay@analysisgroup.com
+
+OBJECTIVE: To compare direct (medical and drug) and indirect (work loss) costs
+between privately insured US employees with Dupuytren's contracture (DC) and
+demographically matched controls without DC.
+METHODS: Employees aged 18-64 with ≥ 1 DC diagnosis (ICD-9-CM: 728.6, 718.44)
+with service dates 1/1/2000-3/31/2009 were selected from a de-identified,
+privately insured claims database (n∼3,000,000). The index date was defined as
+the most recent DC diagnosis with continuous eligibility for 6 months prior
+(baseline period) and 1 year after (study period) diagnosis. Employees with DC
+were matched 1:1 on age, region, gender, and index date to controls without DC,
+Peyronie's, or Ledderhose disease diagnoses in their claims histories.
+Descriptive analyses compared demographic characteristics, comorbidities,
+resource utilization, direct costs, and indirect costs inflated to 2009 dollars.
+RESULTS: DC employees (n=1406, mean age 49 years) with matched controls met the
+inclusion criteria. DC employees compared with controls had significantly (all
+p<0.05) higher baseline comorbidities, including hyperlipidemia (21.1% vs 15.6%),
+hypothyroidism (3.5% vs 2.0%), cancer (3.1% vs 1.5%), and diabetes (8.1% vs
+3.6%). During the study period, DC employees had significantly (all p<0.01)
+higher rates of inpatient stays (7.7% vs 5.3%), emergency department visits
+(19.8% vs 13.9%), outpatient visits (100.0% vs 78.4%), physical therapy visits
+(30.2% vs 7.2%), and any prescription use (85.0% vs 69.2%), as well as higher
+mean work loss days (14.2 vs 7.3). DC employees had on average significantly (all
+p<0.01) higher annual direct costs ($5974 vs $3175), indirect costs ($2737 vs
+$1309), and total costs ($8712 vs $4485) compared with controls during the study 
+period.
+LIMITATIONS: Findings did not account for lost productivity at work and were
+based on a privately insured, employed population, which may not be generalizable
+to all DC patients.
+CONCLUSIONS: Employees with DC had substantially higher comorbidity rates,
+utilization, and direct and indirect costs compared with demographically matched 
+controls.
+
+DOI: 10.3111/13696998.2012.670678 
+PMID: 22369346  [PubMed - indexed for MEDLINE]

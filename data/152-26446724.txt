@@ -1,0 +1,69 @@
+
+
+152. BMC Med Genomics. 2015 Oct 7;8:59. doi: 10.1186/s12920-015-0135-8.
+
+RNA sequencing reveals a depletion of collagen targeting microRNAs in Dupuytren's
+disease.
+
+Riester SM(1), Arsoy D(2), Camilleri ET(3), Dudakovic A(4), Paradise CR(5), Evans
+JM(6), Torres-Mora J(7), Rizzo M(8), Kloen P(9), Julio MK(10), van Wijnen AJ(11),
+Kakar S(12).
+
+Author information: 
+(1)Department of Orthopedic Surgery, Mayo Clinic, 200 First Street SW, Rochester,
+MN, 55905, USA. riester.scott@mayo.edu. (2)Department of Orthopedic Surgery, Mayo
+Clinic, 200 First Street SW, Rochester, MN, 55905, USA. arsoy.diren@mayo.edu.
+(3)Department of Orthopedic Surgery, Mayo Clinic, 200 First Street SW, Rochester,
+MN, 55905, USA. camilleri.emily@mayo.edu. (4)Department of Orthopedic Surgery,
+Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA.
+dudakovic.amel@mayo.edu. (5)Department of Orthopedic Surgery, Mayo Clinic, 200
+First Street SW, Rochester, MN, 55905, USA. paradise.christopher@mayo.edu.
+(6)Department of Biomedical Statistics and Informatics, Mayo Clinic Rochester,
+Rochester, MN, USA. evans.jared@mayo.edu. (7)Department of Anatomic Pathology,
+Mayo Clinic, Rochester, MN, USA. torresmora.jorge@mayo.edu. (8)Department of
+Orthopedic Surgery, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA. 
+rizzo.marco@mayo.edu. (9)Department of Orthopedic Surgery, Academic Medical
+Center, Amsterdam, The Netherlands. p.kloen@amc.uva.nl. (10)Department of
+Urology, Leiden University Medical Center, Leiden, The Netherlands.
+m.de_julio@lumc.nl. (11)Department of Orthopedic Surgery, Mayo Clinic, 200 First 
+Street SW, Rochester, MN, 55905, USA. vanwijnen.andre@mayo.edu. (12)Department of
+Orthopedic Surgery, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA. 
+kakar.sanjeev@mayo.edu.
+
+Erratum in
+    BMC Med Genomics. 2016;9(1):34.
+
+BACKGROUND: Dupuytren's disease is an inherited disorder in which patients
+develop fibrotic contractures of the hand. Current treatment strategies include
+surgical excision or enzymatic digestion of fibrotic tissue. MicroRNAs, which are
+key posttranscriptional regulators of genes expression, have been shown to play
+an important regulatory role in disorders of fibrosis. Therefore in this
+investigation, we apply high throughput next generation RNA sequencing strategies
+to characterize microRNA expression in diseased and healthy palmar fascia to
+elucidate molecular mechanisms responsible for pathogenic fibrosis.
+METHODS: We applied high throughput RNA sequencing techniques to quantify the
+expression of all known human microRNAs in Dupuytren's and control palmar fascia.
+MicroRNAs that were differentially expressed between diseased and healthy tissue 
+samples were used for computational target prediction using the bioinformatics
+tool ComiR. Molecular pathways that were predicted to be differentially expressed
+based on computational analysis were validated by performing RT-qPCR on RNA
+extracted from diseased and non-diseased palmar fascia biopsies.
+RESULTS: A comparison of microRNAs expressed in Dupuytren's fascia and control
+fascia identified 74 microRNAs with a 2-fold enrichment in Dupuytren's tissue,
+and 32 microRNAs with enrichment in control fascia. Computational target
+prediction for differentially expressed microRNAs indicated preferential
+targeting of collagens and extracellular matrix related proteins in control
+palmar fascia. RT-qPCR confirmed the decreased expression of microRNA targeted
+collagens in control palmar fascia tissues.
+DISCUSSION: Control palmar fascia show decreased expression of mRNAs encoding
+collagens that are preferentially targeted by microRNAs enriched in non-diseased 
+fascia. Thus alterations in microRNA regulatory networks may play an important
+role in driving the pathogenic fibrosis seen in Dupuytren's disease via direct
+regulatory effects on extracellular matrix protein synthesis.
+CONCLUSION: Dupuytren's fascia and healthy palmar fascia can be distinguished by 
+unique microRNA profiles, which are predicted to preferentially target collagens 
+and other extracellular matrix proteins.
+
+DOI: 10.1186/s12920-015-0135-8 
+PMCID: PMC4597401
+PMID: 26446724  [PubMed - indexed for MEDLINE]

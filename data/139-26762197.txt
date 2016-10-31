@@ -1,0 +1,51 @@
+
+
+139. BMC Musculoskelet Disord. 2016 Jan 13;17:20. doi: 10.1186/s12891-016-0884-3.
+
+What are we measuring? A critique of range of motion methods currently in use for
+Dupuytren's disease and recommendations for practice.
+
+Pratt AL(1), Ball C(2).
+
+Author information: 
+(1)Division of Occupational Therapy and Community Nursing, College of Health and 
+Life Sciences, Brunel University, Kingston Lane, Uxbridge, UB8 3PH, UK.
+anna.pratt@Brunel.ac.uk. (2)Kennedy Institute, University of Oxford, Roosevelt
+Drive, Oxford, OX3 7FY, UK. cathy.ball@kennedy.ox.ac.uk.
+
+BACKGROUND: Range of motion is the most frequently reported measure used in
+practice to evaluate outcomes. A goniometer is the most reliable tool to assess
+range of motion yet, the lack of consistency in reporting prevents comparison
+between studies. The aim of this study is to identify how range of motion is
+currently assessed and reported in Dupuytren's disease literature. Following
+analysis recommendations for practice will be made to enable consistency in
+future studies for comparability. This paper highlights the variation in range of
+motion reporting in Dupuytren's disease.
+METHODS: A Participants, Intervention, Comparison, Outcomes and Study design
+format was used for the search strategy and search terms. Surgery, needle
+fasciotomy or collagenase injection for primary or recurrent Dupuytren's disease 
+in adults were included if outcomes were monitored using range of motion to
+record change. A literature search was performed in May 2013 using subject
+heading and free-text terms to also capture electronic publications ahead of
+print. In total 638 publications were identified and following screening 90
+articles met the inclusion criteria. Data was extracted and entered onto a
+spreadsheet for analysis. A thematic analysis was carried out to establish any
+duplication, resulting in the final range of motion measures identified.
+RESULTS: Range of motion measurement lacked clarity, with goniometry reportedly
+used in only 43 of the 90 studies, 16 stated the use of a range of motion
+protocol. A total of 24 different descriptors were identified describing range of
+motion in the 90 studies. While some studies reported active range of motion,
+others reported passive or were unclear. Eight of the 24 categories were
+identified through thematic analysis as possibly describing the same measure,
+'lack of joint extension' and accounted for the most frequently used.
+CONCLUSIONS: Published studies lacked clarity in reporting range of motion,
+preventing data comparison and meta-analysis. Percentage change lacks context and
+without access to raw data, does not allow direct comparison of baseline
+characteristics. A clear description of what is being measured within each study 
+was required. It is recommended that range of motion measuring and reporting for 
+Dupuytren's disease requires consistency to address issues that fall into 3 main 
+categories: Definition of terms, Protocol statement, Outcome reporting.
+
+DOI: 10.1186/s12891-016-0884-3 
+PMCID: PMC4712477
+PMID: 26762197  [PubMed - indexed for MEDLINE]

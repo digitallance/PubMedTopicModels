@@ -1,0 +1,41 @@
+
+
+146. Joint Bone Spine. 2011 Dec;78(6):625-8. doi: 10.1016/j.jbspin.2011.01.008. Epub
+2011 Feb 25.
+
+Multi-needle aponeurotomy for advanced Dupuytren's disease: preliminary results
+of safety and efficacy (MNA 1 study).
+
+Beaudreuil J(1), Lermusiaux JL, Teyssedou JP, Lahalle S, Lasbleiz S, Bernabé B,
+Lellouche H, Orcel P, Bardin T.
+
+Author information: 
+(1)Unité rhumatologique des affections de la main, service de rhumatologie,
+Université Paris-7, Paris, France. johann.beaudreuil@lrb.aphp.fr
+
+AIM: To assess the safety and efficacy of multi-needle aponeurotomy (MNA) for
+advanced Duputren's disease.
+METHODS: This prospective study included patients with age more than 17 years,
+Dupuytren's contracture with palmo-digital or poly-digital involvement, presumed 
+NA number needed to treat>4, and availability for at least 1-month follow-up
+after MNA. Outcome measures were Tubiana score and passive extension deficit,
+after MNA and at 1 and 6 months; self-assessed disability and satisfaction at 1
+and 6 months; and adverse events (AEs).
+RESULTS: Thirty patients were included. MNA was performed on 37 hands and 99
+rays. Among 25 assessed MNA sessions for treatment-related discomfort, patients
+considered 22 (88%) not at all to moderately painful. Six minor AEs, representing
+2 for every 100 NAs, were reported. Tubiana scores at baseline (5.3±2.3, n=35)
+were improved after treatment (1.7±1.8, n=32, P<0.0001), at 1 month (2.2±1.4,
+n=26, P<0.0001) and at 6 months (2.8±2.7, n=19, P<0.01). Passive extension
+deficit was greatly reduced after treatment and persisted at follow-up.
+Disability scores at baseline (27.6±26.9, n=37) were reduced at 1 month
+(13.2±19.5, n=26, P=0.02) and at 6 months (5.2±11.6, n=20, P<0.001). Patients
+were highly satisfied at 1 month (100%, n=25) and 6 months (95%, n=19).
+CONCLUSION: MNA appears safe and effective for advanced Dupuytren's disease. It
+could become a treatment of reference and contribute to reducing the need for
+surgery in this indication.
+
+Copyright © 2011 Société française de rhumatologie. All rights reserved.
+
+DOI: 10.1016/j.jbspin.2011.01.008 
+PMID: 21353618  [PubMed - indexed for MEDLINE]

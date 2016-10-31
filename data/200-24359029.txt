@@ -1,0 +1,37 @@
+
+
+200. Acta Orthop. 2014 Feb;85(1):97-101. doi: 10.3109/17453674.2013.871138. Epub 2013 
+Dec 20.
+
+Expression of gap junction proteins connexins 26, 30, and 43 in Dupuytren's
+disease.
+
+Holzer LA(1), Cör A, Holzer G.
+
+Author information: 
+(1)Department of Orthopaedic Surgery , Medical University of Graz, Graz ,
+Austria.
+
+BACKGROUND AND PURPOSE: Dupuytren's disease (DD) is a benign fibroproliferative
+process of the palmar aponeurosis showing similarities to wound healing.
+Communication of cells involved in wound healing is mediated by the composition
+of gap junction (GJ) proteins. We investigated the expression of 3 GJ proteins,
+connexins 26, 30, and 43 (Cx26, Cx30, and Cx43) in DD.
+PATIENTS AND METHODS: Fragments of Dupuytren's tissue from 31 patients (mean age 
+56 (30-76) years, 24 male) were analyzed immunohistochemically and compared to
+control tissue for expression of the GJ proteins Cx26, Cx30, and Cx43 and also
+alfa-smooth muscle actin (α-SMA).
+RESULTS: 14 of 31 samples could be attributed to the involutional phase (α-SMA
+positive) whereas 17 samples had to be considered cords in the residual phase
+(α-SMA negative). Expression of Cx26 and Cx43 was seen in 12 of the 14 samples
+from the involutional phase, and Cx30 was seen in 7 of these. Only 4 of the 17
+samples from the residual phase showed any Cx, and there was none in the
+controls.
+INTERPRETATION: The high expression of GJ proteins Cx26, Cx30, and Cx43 in α-SMA 
+positive myofibroblast-rich nodules, which are characteristic of the active
+involutional phase of DD, suggests that connexins could be a novel treatment
+target for the treatment of DD.
+
+DOI: 10.3109/17453674.2013.871138 
+PMCID: PMC3940999
+PMID: 24359029  [PubMed - indexed for MEDLINE]

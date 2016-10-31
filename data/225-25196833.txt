@@ -1,0 +1,43 @@
+
+
+225. Clin Exp Dermatol. 2014 Dec;39(8):894-9. doi: 10.1111/ced.12424. Epub 2014 Sep 5.
+
+The prevalence of Dupuytren contractures in patients with psoriasis.
+
+Patel M(1), Freeman NR, Dhaliwal S, Wright N, Daoud Y, Ryan C, Dibella AV, Menter
+A.
+
+Author information: 
+(1)Department of Dermatology, Baylor Research Institute, Dallas, TX, USA.
+
+BACKGROUND: Dupuytren contracture (DC) is a fibrocontractile disease of the
+palms, affecting approximately 4% of the population, while psoriasis is an
+immune-mediated disease, affecting 2% of the population. Through clinical
+observation in our psoriasis clinic, we found an apparent increased prevalence of
+DC in patients with psoriasis compared with the general population. This has not 
+previously been statistically verified in a clinical study.
+AIM: To evaluate the prevalence of DC in the full range of clinical psoriasis
+phenotypes.
+METHODS: In total, 98 patients with psoriasis attending our psoriasis clinic were
+examined for DC, based on predetermined criteria. In addition, 84 patients with
+DC, obtained from a specialist hand clinic, were assessed using a validated
+psoriasis questionnaire. We utilized Bayes theorem and bootstrap simulation to
+calculate the conditional prevalence of DC, then we used the results to compare
+the prevalence of DC between patients with psoriasis and a nonpsoriasis
+population.
+RESULTS: The percentage of patients with DC was 19.6% in the psoriasis population
+and 3.6% in the nonpsoriasis population. Development of DC showed a phenotypic
+predilection, with 39.1% of patients with predominantly palmoplantar involvement 
+and 38.9% of patients with intertriginous psoriasis developing DC compared with
+12.7% of patients with psoriasis who did not have these two phenotypical
+presentations.
+CONCLUSIONS: Our data show a positive correlation between psoriasis and DC.
+Patients with the palmoplantar phenotype of psoriasis were more likely to develop
+DC. By understanding this relationship, dermatologists may diagnose DC early in
+its onset in patients with psoriasis, prompting referral to hand surgeons when
+appropriate.
+
+© 2014 British Association of Dermatologists.
+
+DOI: 10.1111/ced.12424 
+PMID: 25196833  [PubMed - indexed for MEDLINE]

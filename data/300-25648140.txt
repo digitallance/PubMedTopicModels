@@ -1,0 +1,37 @@
+
+
+300. BioDrugs. 2015 Feb;29(1):31-55. doi: 10.1007/s40259-015-0116-7.
+
+Enzymes approved for human therapy: indications, mechanisms and adverse effects.
+
+Baldo BA(1).
+
+Author information: 
+(1), 11 Bent Street, Lindfield, NSW, 2070, Australia, babaldo@iinet.net.au.
+
+Research and drug developments fostered under orphan drug product development
+programs have greatly assisted the introduction of efficient and safe
+enzyme-based therapies for a range of rare disorders. The introduction and
+regulatory approval of 20 different recombinant enzymes has enabled, often for
+the first time, effective enzyme-replacement therapy for some lysosomal storage
+disorders, including Gaucher (imiglucerase, taliglucerase, and velaglucerase),
+Fabry (agalsidase alfa and beta), and Pompe (alglucosidase alfa) diseases and
+mucopolysaccharidoses I (laronidase), II (idursulfase), IVA (elosulfase), and VI 
+(galsulfase). Approved recombinant enzymes are also now used as therapy for
+myocardial infarction (alteplase, reteplase, and tenecteplase), cystic fibrosis
+(dornase alfa), chronic gout (pegloticase), tumor lysis syndrome (rasburicase),
+leukemia (L-asparaginase), some collagen-based disorders such as Dupuytren's
+contracture (collagenase), severe combined immunodeficiency disease (pegademase
+bovine), detoxification of methotrexate (glucarpidase), and vitreomacular
+adhesion (ocriplasmin). The development of these efficacious and safe
+enzyme-based therapies has occurred hand in hand with some remarkable advances in
+the preparation of the often specifically designed recombinant enzymes; the
+manufacturing expertise necessary for commercial production; our understanding of
+underlying mechanisms operative in the different diseases; and the mechanisms of 
+action of the relevant recombinant enzymes. Together with information on these
+mechanisms, safety findings recorded so far on the various adverse events and
+problems of immunogenicity of the recombinant enzymes used for therapy are
+presented.
+
+DOI: 10.1007/s40259-015-0116-7 
+PMID: 25648140  [PubMed - indexed for MEDLINE]

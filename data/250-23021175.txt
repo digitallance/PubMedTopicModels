@@ -1,0 +1,44 @@
+
+
+250. J Hand Surg Am. 2012 Oct;37(10):2106-11. doi: 10.1016/j.jhsa.2012.07.017.
+
+Dupuytren diathesis and genetic risk.
+
+Dolmans GH(1), de Bock GH, Werker PM.
+
+Author information: 
+(1)Department of Plastic Surgery, University Medical Center Groningen, University
+of Groningen, Groningen, The Netherlands. g.h.c.g.dolmans@plchir.umcg.nl
+
+PURPOSE: Dupuytren disease (DD) is a benign fibrosing disorder of the hand and
+fingers. Recently, we identified 9 single nucleotide polymorphisms (SNPs)
+associated with DD in a genome-wide association study. These SNPs can be used to 
+calculate a genetic risk score for DD. The aim of this study was to test whether 
+certain clinical characteristics (including the DD diathesis features) of
+patients with DD are associated with a high genetic risk score.
+METHODS: Between 2007 and 2010, we prospectively invited all DD patients (1,120
+in total) to participate. Clinical characteristics were noted using patient- and 
+doctor-completed questionnaires, and blood was obtained for DNA analysis. We
+analyzed a total of 933 subjects with genetic and clinical data. The 9 previously
+identified DD SNPs were used to calculate a weighted genetic risk score. Patients
+were categorized into high and low genetic risk score groups, according to their 
+weighted genetic risk score. Logistic regression was performed to study the
+association of clinical characteristics with a high genetic risk score.
+RESULTS: In a univariate regression model, patients with an age of onset of DD
+younger than 50 years, a family history positive for DD, knuckle pads, and
+Ledderhose disease were statistically significantly associated with a high
+genetic risk score. In an additional analysis using high and low genetic risk
+groups that deviate further from the median, Ledderhose disease was no longer
+significantly associated with DD.
+CONCLUSIONS: Patients with DD who present with these diathesis features, and
+predominantly patients with knuckle pads, are more likely to carry more risk
+alleles for the discovered DD SNPs than patients without these diathesis
+features.
+CLINICAL RELEVANCE: These markers may prove useful in predicting disease
+progression or recurrence.
+
+Copyright © 2012 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2012.07.017 
+PMID: 23021175  [PubMed - indexed for MEDLINE]

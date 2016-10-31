@@ -1,0 +1,32 @@
+
+
+210. J Invest Dermatol. 2013 Dec;133(12):2664-71. doi: 10.1038/jid.2013.219. Epub 2013
+May 7.
+
+Isometric contraction of Dupuytren's myofibroblasts is inhibited by blocking
+intercellular junctions.
+
+Verhoekx JS(1), Verjee LS, Izadi D, Chan JK, Nicolaidou V, Davidson D, Midwood
+KS, Nanchahal J.
+
+Author information: 
+(1)1] Kennedy Institute of Rheumatology, University of Oxford, London, UK [2]
+Department of Plastic and Reconstructive Surgery, Erasmus Medical Centre,
+Rotterdam, The Netherlands.
+
+Myofibroblasts (MFs) are responsible for both physiological wound and scar
+contraction. However, it is not known whether these cells act individually to
+contract the surrounding matrix or whether they behave in a coordinated manner.
+Therefore, we studied intercellular junctions of primary human MFs derived from
+patients with Dupuytren's disease, a fibrotic disorder of the dermis and
+subdermal tissues of the palm. The cells were maintained in anchored
+three-dimensional collagen lattices to closely mimic conditions in vivo. We found
+that selective blockade of adherens, mechanosensitive, or gap junctions
+effectively inhibited contraction of the collagen matrices and downregulated the 
+MF phenotype. Our data indicate that MFs in part function as a coordinated
+cellular syncytium, and disruption of intercellular communication may provide a
+therapeutic target in diseases characterized by an overabundance of these
+contractile cells.
+
+DOI: 10.1038/jid.2013.219 
+PMID: 23652794  [PubMed - indexed for MEDLINE]

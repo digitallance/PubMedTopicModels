@@ -1,0 +1,43 @@
+
+
+147. Cell Physiol Biochem. 2012;30(4):927-42. doi: 10.1159/000341470. Epub 2012 Sep
+12.
+
+Microarray analysis of Dupuytren's disease cells: the profibrogenic role of the
+TGF-β inducible p38 MAPK pathway.
+
+Ratkaj I(1), Bujak M, Jurišić D, Baus Lončar M, Bendelja K, Pavelić K, Kraljević 
+Pavelić S.
+
+Author information: 
+(1)University of Rijeka, Department of Biotechnology, Rijeka, Croatia.
+
+BACKGROUND: Dupuytren's disease (DD) is a nodular palmar fibromatosis that causes
+irreversible permanent contracture of fingers and results in the loss of hand
+function. Surgery still remains the only available solution for DD patients but
+cannot permanently cure the disease nor reduce high recurrence rates. With this
+rationale, we designed a study aimed at an improved understanding of the
+molecular mechanisms underlying DD. Our major focus was an analysis of the global
+gene expression profile and signalling pathways in DD cells with the aim of
+identifying novel biomarkers and/or therapeutic targets.
+METHODS: Primary cells were cultured from surgically removed diseased and healthy
+tissue. Microarray expression analysis (HG-U133A array, Affymetrix) and qPCR was 
+performed with total RNA isolated from primary DD cells. Mechanistic studies
+involving inhibition of p38 phosphorylation were performed on normal human
+fibroblasts' and primary DD cells' in vitro models. Expression of stem cell
+markers in primary fibroblasts/myofibroblasts was assessed as well.
+RESULTS: We identified 3 p38MAPK signalling pathway regulatory genes, THBS1,
+GADD45α and NUAK1, all involved in cellular proliferation and production of the
+extracellular matrix proteins. Inhibition of the p38MAPK signalling pathway
+induced down-regulation of myofibroblast markers, α-smooth muscle actin and
+palladin. A stem-cell like subpopulation positive for CD90 marker was identified 
+among primary DD cells.
+CONCLUSION: The study reveals involvement of the p38 MAPK pathway as a possible
+signalling cascade in the pathogenesis of Dupuytren's disease. Moreover, a
+particular stem cell-like CD90(+) subpopulation was identified that might
+contribute to DD development.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000341470 
+PMID: 22965824  [PubMed - indexed for MEDLINE]

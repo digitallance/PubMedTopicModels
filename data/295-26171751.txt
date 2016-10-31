@@ -1,0 +1,46 @@
+
+
+295. Plast Reconstr Surg. 2015 Nov;136(5):981-9. doi: 10.1097/PRS.0000000000001698.
+
+The Collagenase of the Bacterium Clostridium histolyticum for the Treatment of
+Capsular Fibrosis after Silicone Implants.
+
+Fischer S(1), Hirsch T, Diehm Y, Kiefer J, Bueno EM, Kueckelhaus M, Kremer T,
+Hirche C, Kneser U, Pomahac B.
+
+Author information: 
+(1)Boston, Mass.; and Ludwigshafen and Bochum, Germany From the Department of
+Surgery, Division of Plastic Surgery, Brigham and Women's Hospital, Harvard
+Medical School; the Department of Hand-, Plastic and Reconstructive Surgery, Burn
+Trauma Center, BG Trauma Center Ludwigshafen, University of Heidelberg; and the
+Department of Plastic and Reconstructive Surgery, Burn Centre, BG University
+Hospital Bergmannsheil, Ruhr University Bochum.
+
+BACKGROUND: The main part of the fibrotic capsule in capsular contracture is
+collagen. The collagenase of the bacterium Clostridium histolyticum is U.S. Food 
+and Drug Administration approved for the treatment of Dupuytren contracture and
+might be capable of dissolving the fibrotic capsule surrounding silicone
+implants.
+METHODS: One hundred twenty days after insertion of miniature silicone implants
+the authors performed in vitro studies (n = 14) for optimum dosage-finding and
+subsequent in vivo studies (n = 36) to evaluate application method and
+efficiency. Data analysis involved histologic measurements of capsule thickness
+and collagen density; 7-T magnetic resonance imaging-based in vivo imaging; and
+polymerase chain reaction analysis of inflammatory, profibrotic, and antifibrotic
+markers.
+RESULTS: Compared with the control group, each dosage showed significantly
+thinner capsules after in vitro incubation. Skin digestion occurred in 0, 1 (7
+percent), and 11 cases (80 percent) after incubation with 0.3, 0.9, and 1.8
+mg/ml, respectively. In vivo application showed a dosage-dependent decrease in
+capsule formation, which was more prominent in lower capsule parts, seen by
+magnetic resonance imaging. In vivo skin perforation was seen in two (17 percent)
+and six cases (50 percent) after injection of 0.3 mg/ml and 0.9 mg/ml,
+respectively. Profibrotic and inflammatory markers were significantly
+up-regulated 10 days after collagenase injection.
+CONCLUSIONS: The collagenase of C. histolyticum is capable of dissolving the
+fibrotic capsule surrounding silicone implants. Skin perforation occurred most
+likely because of mechanical irritation after complete digestion of the capsule. 
+Further studies are required to pave the way for safe clinical application.
+
+DOI: 10.1097/PRS.0000000000001698 
+PMID: 26171751  [PubMed - indexed for MEDLINE]

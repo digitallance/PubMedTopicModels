@@ -1,0 +1,41 @@
+
+
+153. Biochim Biophys Acta. 2013 Oct;1832(10):1511-9. doi:
+10.1016/j.bbadis.2013.04.018. Epub 2013 Apr 24.
+
+IGF-II and IGFBP-6 regulate cellular contractility and proliferation in
+Dupuytren's disease.
+
+Raykha C(1), Crawford J, Gan BS, Fu P, Bach LA, O'Gorman DB.
+
+Author information: 
+(1)Cell & Molecular Biology Laboratory, Hand & Upper Limb Centre, Canada.
+craykha@hotmail.com
+
+Dupuytren's disease (DD) is a common and heritable fibrosis of the palmar fascia 
+that typically manifests as permanent finger contractures. The molecular
+interactions that induce the development of hyper-contractile fibroblasts, or
+myofibroblasts, in DD are poorly understood. We have identified IGF2 and IGFBP6, 
+encoding insulin-like growth factor (IGF)-II and IGF binding protein (IGFBP)-6
+respectively, as reciprocally dysregulated genes and proteins in primary cells
+derived from contracture tissues (DD cells). Recombinant IGFBP-6 inhibited the
+proliferation of DD cells, patient-matched control (PF) cells and normal palmar
+fascia (CT) cells. Co-treatments with IGF-II, a high affinity IGFBP-6 ligand,
+were unable to rescue these effects. A non-IGF-II binding analog of IGFBP-6 also 
+inhibited cellular proliferation, implicating IGF-II-independent roles for
+IGFBP-6 in this process. IGF-II enhanced the proliferation of CT cells, but not
+DD or PF cells, and significantly enhanced DD and PF cell contractility in
+stressed collagen lattices. While IGFBP-6 treatment did not affect cellular
+contractility, it abrogated the IGF-II-induced contractility of DD and PF cells
+in stressed collagen lattices. IGF-II also significantly increased the
+contraction of DD cells in relaxed lattices, however this effect was not evident 
+in relaxed collagen lattices containing PF cells. The disparate effects of IGF-II
+on DD and PF cells in relaxed and stressed contraction models suggest that IGF-II
+can enhance lattice contractility through more than one mechanism. This is the
+first report to implicate IGFBP-6 as a suppressor of cellular proliferation and
+IGF-II as an inducer of cellular contractility in this connective tissue disease.
+
+Copyright © 2013 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2013.04.018 
+PMID: 23623986  [PubMed - indexed for MEDLINE]

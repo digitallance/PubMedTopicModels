@@ -1,0 +1,38 @@
+
+
+44. Hand (N Y). 2014 Dec;9(4):447-58. doi: 10.1007/s11552-014-9645-7.
+
+Postapproval clinical experience in the treatment of Dupuytren's contracture with
+collagenase clostridium histolyticum (CCH): the first 1,000 days.
+
+Schulze SM(1), Tursi JP(2).
+
+Author information: 
+(1)Delmarva Hand Specialists, 34434 King Street Row, Suite 2, Lewes, DE 19958
+USA. (2)Clinical Development, Auxilium Pharmaceuticals, 640 Lee Road,
+Chesterbrook, PA 19087 USA.
+
+Dupuytren's contracture is a benign fibromatosis of the palmar and digital fascia
+of the hand of uncertain etiology, resulting in nodules and cords beneath the
+skin of the palm of the hands that may lead to the development of contractures.
+Surgical intervention is often considered when metacarpophalangeal (MP) joint
+contracture is 30° or more, or when there is any degree of proximal
+interphalangeal (PIP) joint contracture. Collagenase clostridium histolyticum
+(CCH) is a nonsurgical, minimally invasive enzymatic drug indicated for the
+treatment of adult patients with Dupuytren's contracture (DC) and palpable cord. 
+CCH has been available for approximately 3.5 years, and postapproval experience
+indicates that the effectiveness of CCH is equivalent to or better than efficacy 
+observed in clinical trials, as seen by lower injection rates to achieve clinical
+success. Postapproval experience has shown a risk-benefit profile that favors CCH
+for patients not indicated for surgery based on current recommendations and shows
+also that treating earlier-stage vs later-stage joint contracture results in
+significantly better outcomes on average. Postapproval surveillance reveals a
+safety profile similar to that observed in clinical trials. Nonserious adverse
+events are mainly local reactions; tendon rupture, a serious adverse event, is
+reported rarely in the clinical practice setting and at a lower rate than in
+clinical trials. Risk Evaluation and Mitigation Strategy (REMS) training is
+designed to mitigate benefit vs risk to achieve safe and effective use of CCH.
+
+DOI: 10.1007/s11552-014-9645-7 
+PMCID: PMC4235912
+PMID: 25414604  [PubMed]

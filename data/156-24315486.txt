@@ -1,0 +1,57 @@
+
+
+156. J Hand Surg Am. 2014 Jan;39(1):57-64. doi: 10.1016/j.jhsa.2013.10.002. Epub 2013 
+Dec 4.
+
+Efficacy and safety of concurrent collagenase clostridium histolyticum injections
+for multiple Dupuytren contractures.
+
+Coleman S(1), Gilpin D(2), Kaplan FT(2), Houston A(2), Kaufman GJ(2), Cohen
+BM(2), Jones N(2), Tursi JP(2).
+
+Author information: 
+(1)Brisbane Hand and Upper Limb Clinic, Brisbane, Queensland, Australia; the
+Indiana Hand to Shoulder Center, Indianapolis, IN; the Caboolture Clinical
+Research Centre, Caboolture, Queensland, Australia; Auxilium Pharmaceuticals,
+Inc., Chesterbrook, PA; and Auxilium Pharmaceuticals, Inc., Windsor, United
+Kingdom.. Electronic address: sgcoleman@optusnet.com.au. (2)Brisbane Hand and
+Upper Limb Clinic, Brisbane, Queensland, Australia; the Indiana Hand to Shoulder 
+Center, Indianapolis, IN; the Caboolture Clinical Research Centre, Caboolture,
+Queensland, Australia; Auxilium Pharmaceuticals, Inc., Chesterbrook, PA; and
+Auxilium Pharmaceuticals, Inc., Windsor, United Kingdom.
+
+PURPOSE: To assess the safety and efficacy of 2 concurrent injections of
+collagenase clostridium histolyticum (CCH) in the same hand to treat multiple
+Dupuytren flexion contractures.
+METHODS: In a multicenter, open-label phase IIIb study, 60 patients received two 
+0.58-mg CCH doses injected into cords affecting 2 joints in the same hand during 
+1 visit, followed by finger extension approximately 24 hours later. Efficacy at
+postinjection day 30 (change in flexion contracture and active range of motion,
+patient satisfaction, physician-rated improvement, and rates of clinical success 
+[flexion contracture 5° or less]) and adverse events were summarized.
+RESULTS: The concurrent injections were most commonly administered in cords
+affecting metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints on 
+the same finger (47%) or 2 MCP joints on different fingers of the same hand
+(37%). Mean total (sum of the 2 treated joints) flexion contracture decreased
+76%, from 87° to 24° (MCP joints: 86%; PIP joints: 66%). Mean total range of
+motion increased from 100° to 161°. Clinical success was 76% for MCP joints and
+33% for PIP joints. Most patients were very satisfied (60%) or quite satisfied
+(28%) with treatment. Most investigators rated treated joints as very much
+improved (55%) or much improved (37%). The most common treatment-related adverse 
+events (> 75% of patients) were contusion, pain in extremity, and edema
+peripheral (local edema). Most adverse events were mild to moderate in severity. 
+Serious complications included 1 pulley rupture related to study medication and 1
+flexor tendon rupture (following conclusion of the study). There were no systemic
+complications.
+CONCLUSIONS: Results suggest that 2 affected joints can be effectively and safely
+treated with concurrent CCH injections. There was an increased incidence of some 
+adverse events with concurrent treatment (pruritus, lymphadenopathy, blood
+blister, and skin laceration) compared with treatment of a single joint. High
+degrees of patient satisfaction and physician-rated improvement were reported.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.
+
+Copyright © 2014 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2013.10.002 
+PMID: 24315486  [PubMed - indexed for MEDLINE]

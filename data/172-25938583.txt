@@ -1,0 +1,46 @@
+
+
+172. J Vis Exp. 2015 Apr 18;(98). doi: 10.3791/52534.
+
+Human Dupuytren's Ex Vivo Culture for the Study of Myofibroblasts and
+Extracellular Matrix Interactions.
+
+Karkampouna S(1), Kloen P(2), Obdeijn MC(3), Riester SM(4), van Wijnen AJ(5),
+Kruithof-de Julio M(6).
+
+Author information: 
+(1)Department of Molecular Cell Biology, Cancer Genomics Centre and Centre for
+Biomedical Genetics, Leiden University Medical Center. (2)Department of
+Orthopedic Surgery, Academic Medical Center. (3)Department of Plastic,
+Reconstructive and Hand Surgery, Academic Medical Center. (4)Department of
+Orthopedic Surgery, Mayo Clinic. (5)Department of Orthopedic Surgery, Mayo
+Clinic; Department of Biochemistry and Molecular Biology, Mayo Clinic.
+(6)Department of Molecular Cell Biology, Cancer Genomics Centre and Centre for
+Biomedical Genetics, Leiden University Medical Center; Department of Dermatology,
+Leiden University Medical Center; m.de_julio@lumc.nl.
+
+Organ fibrosis or "scarring" is known to account for a high death toll due to the
+extensive amount of disorders and organs affected (from cirrhosis to
+cardiovascular diseases). There is no effective treatment and the in vitro tools 
+available do not mimic the in vivo situation rendering the progress of the out of
+control wound healing process still enigmatic. To date, 2D and 3D cultures of
+fibroblasts derived from DD patients are the main experimental models available. 
+Primary cell cultures have many limitations; the fibroblasts derived from DD are 
+altered by the culture conditions, lack cellular context and interactions, which 
+are crucial for the development of fibrosis and weakly represent the derived
+tissue. Real-time PCR analysis of fibroblasts derived from control and DD samples
+show that little difference is detectable. 3D cultures of fibroblasts include
+addition of extracellular matrix that alters the native conditions of these
+cells. As a way to characterize the fibrotic, proliferative properties of these
+resection specimens we have developed a 3D culture system, using intact human
+resections of the nodule part of the cord. The system is based on transwell
+plates with an attached nitrocellulose membrane that allows contact of the tissue
+with the medium but not with the plastic, thus, preventing the alteration of the 
+tissue. No collagen gel or other extracellular matrix protein substrate is
+required. The tissue resection specimens maintain their viability and
+proliferative properties for 7 days. This is the first "organ" culture system
+that allows human resection specimens from DD patients to be grown ex vivo and
+functionally tested, recapitulating the in vivo situation.
+
+DOI: 10.3791/52534 
+PMID: 25938583  [PubMed - indexed for MEDLINE]

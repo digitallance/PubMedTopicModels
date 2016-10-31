@@ -1,0 +1,39 @@
+
+
+201. J Plast Surg Hand Surg. 2014 Feb;48(1):28-33. doi: 10.3109/2000656X.2013.794349. 
+Epub 2013 May 13.
+
+The Southampton Dupuytren's Scoring Scheme.
+
+Mohan A(1), Vadher J, Ismail H, Warwick D.
+
+Author information: 
+(1)Orthopaedic Registrar, Department of Orthopaedics, Southampton University
+Hospitals , Southampton , UK.
+
+The aim of this study was to construct and validate a simple patient-related
+outcome score to quantify the disability caused by Dupuytren's disease (DD), thus
+enabling prioritisation of treatment, to allow reliable audit of surgical outcome
+and to support future research. The Southampton Dupuytren's Scoring System (SDSS)
+was developed in a staged fashion according to the recommendations of The Derby
+Outcomes Conference. (1) Item generation; (2) Item reduction; (3) Internal
+consistency; (4) Test-re-test; (5) Field management; (6) Sensitivity to change
+standardised response mean; and (7) Criterion validity: ability of the SDSS to
+measure what it is supposed to measure. Internal consistency measured with
+Cronbach's alpha indicated acceptable reliability. The test-re-test correlation
+coefficient showed high reliability with SDSS. Field-testing showed SDSS ratings 
+to be higher than the QuickDASH (Disability of the arm, shoulder and hand)
+ratings evaluated by the patients who answered both questionnaires. Standardised 
+response mean was more sensitive for SDSS compared with QuickDASH showing
+sensitivity to change. Criterion validity was used to assess if the SDSS was
+measuring what it is supposed to measure comparing the SDSS with QuickDASH. A
+highly significant correlation was found between the two scoring systems. SDSS is
+a disease-specific patient-related outcome measure with a good internal
+consistency and performs better than QuickDASH in terms of test-re-test
+reliability and sensitivity to change. SDSS shows better field-testing attributes
+suggesting that it is a relatively more patient and practitioner friendly scoring
+system. This study proposes to the SDSS is a useful patient-related outcome
+measure for DD.
+
+DOI: 10.3109/2000656X.2013.794349 
+PMID: 24428161  [PubMed - indexed for MEDLINE]

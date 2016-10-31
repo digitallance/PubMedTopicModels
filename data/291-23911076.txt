@@ -1,0 +1,41 @@
+
+
+291. J Hand Ther. 2013 Oct-Dec;26(4):332-42; quiz 342. doi: 10.1016/j.jht.2013.06.002.
+Epub 2013 Aug 1.
+
+Do patient-reported outcome measures capture functioning aspects and
+environmental factors important to individuals with injuries or disorders of the 
+hand?
+
+Coenen M(1), Kus S, Rudolf KD, Müller G, Berno S, Dereskewitz C, MacDermid J.
+
+Author information: 
+(1)Department of Medical Informatics, Biometry and Epidemiology (IBE), Chair for 
+Public Health and Health Services Research, Research Unit for Biopsychosocial
+Health, Ludwig-Maximilians-Universität (LMU), Munich, Germany; ICF Research
+Branch (in cooperation with the WHO Collaborating Centre for the Family of
+International Classifications in Germany (at DIMDI)), Switzerland.
+
+STUDY DESIGN: Qualitative study.
+INTRODUCTION: Clinical outcome evaluation needs to consider the patient
+perspective for an in-depth understanding of functioning and disability.
+PURPOSE OF THE STUDY: To explore whether patient-reported outcome measures
+(PROMs) used in the field of hand injuries or hand disorders, capture functioning
+aspects and environmental factors important to the patients.
+METHODS: We performed a qualitative study and a systematic literature review. The
+focus group sessions were recorded, transcribed verbatim, and the identified
+concepts were linked to the ICF. We searched in MEDLINE for reviews, related to
+injuries or disorders of the hand, reporting on PROMs. We linked the items of the
+identified PROMs to the ICF and compared the qualitative data with the content of
+the PROMs.
+RESULTS: Statements from 45 individuals who participated in eight focus groups
+were linked to 97 categories of the ICF. From 15 reviews included, eight PROMs
+were selected. The selected PROMs capture 34 of the categories retrieved from the
+qualitative data.
+CONCLUSIONS: PROMs used in the context of hand injuries or hand disorders capture
+only in parts the functioning aspects important to the patients.
+
+Copyright © 2013 Hanley & Belfus. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jht.2013.06.002 
+PMID: 23911076  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,45 @@
+
+
+113. J Orthop Res. 2014 Apr;32(4):515-23. doi: 10.1002/jor.22535. Epub 2013 Nov 30.
+
+Down-regulation of collagen synthesis and matrix metalloproteinase expression in 
+myofibroblasts from Dupuytren nodule using adenovirus-mediated relaxin gene
+therapy.
+
+Kang YM(1), Choi YR, Yun CO, Park JO, Suk KS, Kim HS, Park MS, Lee BH, Lee HM,
+Moon SH.
+
+Author information: 
+(1)BK21 PLUS Project for Medical Science, Yonsei University College of Medicine, 
+Seoul, Republic of, Korea.
+
+Erratum in
+    J Orthop Res. 2014 Jul;32(7):974.
+
+Dupuytren's disease is a fibroproliferative connective tissue disorder
+characterized by contracture of the palmer fascia of the hand. Relaxin (RLN) is a
+multifunctional factor which contributes to the remodeling of the pelvic ligament
+by inhibiting fibrosis and inflammatory activities. The aim of this study was to 
+investigate the effect of the RLN gene on the inhibition of fibrosis in
+myofibroblastic cells. Myofibroblast cells with adenovirus LacZ (Ad-LacZ) as a
+marker gene or adenovirus relaxin (Ad-RLN) as therapeutic gene showed transgene
+expressions in beta-galactosidase assay and Western blot analysis.
+Myofibroblastic cells with Ad-RLN demonstrated a 22% and 48% reduction in
+collagen I and III mRNA expressions respectively, a 50% decrease in MMP-1, 70%
+decrease in MMP-2, 80% decrease in MMP-9, and a 15% reduction in MMP-13 protein
+expression compared with cultures with viral control and saline control. In
+addition, myofibroblastic cells with Ad-RLN showed a 40% decrease in TIMP 1 and a
+15% increase in TIMP 3 protein expression at 48 h compared to cultures with viral
+control and saline control. Also, myofibroblastic cell with Ad-RLN demonstrated a
+74% inhibition of fibronectin and a 52% decrease in total collagen synthesis at
+48 h compared with cultures with viral control and saline control. In conclusion,
+the RLN gene render antifibrogenic effect on myofibroblastic cells from
+Dupuytren's nodule via direct inhibition of collagen synthesis not through
+collagenolytic pathway such as MMP-1, -13, TIMP 1, and 3. Therefore relaxin can
+be an alternative therapeutic strategy in initial stage of Dupuytren's disease by
+its antifibrogenic effect.
+
+© 2013 Orthopaedic Research Society. Published by Wiley Periodicals, Inc.
+
+DOI: 10.1002/jor.22535 
+PMID: 24293067  [PubMed - indexed for MEDLINE]

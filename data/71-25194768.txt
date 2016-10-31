@@ -1,0 +1,47 @@
+
+
+71. J Hand Surg Am. 2014 Oct;39(10):1933-1941.e1. doi: 10.1016/j.jhsa.2014.07.010.
+Epub 2014 Sep 4.
+
+Prospective randomized controlled trial comparing 1- versus 7-day manipulation
+following collagenase injection for dupuytren contracture.
+
+Mickelson DT(1), Noland SS(2), Watt AJ(2), Kollitz KM(2), Vedder NB(2), Huang
+JI(2).
+
+Author information: 
+(1)Department of Orthopaedic Surgery and Sports Medicine, University of
+Washington, Seattle, WA. Electronic address: dtm11@uw.edu. (2)Department of
+Orthopaedic Surgery and Sports Medicine, University of Washington, Seattle, WA.
+
+PURPOSE: To compare the efficacy, tolerance, and safety of manual manipulation at
+day 7 to day 1 following collagenase Clostridium histolyticum (CCH) injection for
+Dupuytren contracture.
+METHODS: Eligible patients were randomized to manipulation at day 1 versus day 7 
+following CCH injection. Preinjection, premanipulation, postmanipulation, and
+30-day follow-up metacarpophalangeal (MCP) and proximal interphalangeal (PIP)
+joint contractures were measured. Pain scores were recorded at each time point.
+Data were stratified per cohort based on primary joint treated (MCP vs PIP).
+Means were compared using paired and unpaired t-tests.
+RESULTS: Forty-three patients with 46 digits were eligible and were randomized to
+1-day (22 digits) and 7-day (24 digits) manipulation. For MCP joints, there were 
+no significant differences in flexion contractures between 1- and 7-day cohorts
+for initial (47° vs 46°), postmanipulation (0° vs 2°), or 30-day follow-up (1° vs
+2°) measurements. Premanipulation, the residual contracture was significantly
+lower in the 7-day group (23° vs 40°). For PIP joints, there were no significant 
+differences between 1- and 7-day cohorts for initial (63° vs 62°),
+premanipulation (56° vs 52°), postmanipulation (13° vs 15°), or 30-day (14° vs
+16°) measurements. There were no significant differences in pain or skin tears
+between the 2 groups. No flexor tendon ruptures were observed.
+CONCLUSIONS: The effectiveness of CCH in achieving correction of Dupuytren
+contractures was preserved when manipulation was performed on day 7, with no
+differences in correction, pain, or skin tears. These data suggest that
+manipulation can be scheduled at the convenience of the patient and surgeon
+within the first 7 days after injection.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic I.
+
+Copyright © 2014 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2014.07.010 
+PMID: 25194768  [PubMed - indexed for MEDLINE]

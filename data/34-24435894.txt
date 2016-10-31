@@ -1,0 +1,47 @@
+
+
+34. BMJ Open. 2014 Jan 15;4(1):e004166. doi: 10.1136/bmjopen-2013-004166.
+
+Costs for collagenase injections compared with fasciectomy in the treatment of
+Dupuytren's contracture: a retrospective cohort study.
+
+Atroshi I(1), Strandberg E, Lauritzson A, Ahlgren E, Waldén M.
+
+Author information: 
+(1)Department of Orthopedics Hässleholm-Kristianstad-Ystad, Hässleholm Hospital, 
+Hässleholm, Sweden.
+
+OBJECTIVES: To compare collagenase injections and surgery (fasciectomy) for
+Dupuytren's contracture (DC) regarding actual total direct treatment costs and
+short-term outcomes.
+DESIGN: Retrospective cohort study.
+SETTING: Orthopaedic department of a regional hospital in Sweden.
+PARTICIPANTS: Patients aged 65 years or older with previously untreated DC of 30°
+or greater in the metacarpophalangeal (MCP) and/or proximal interphalangeal (PIP)
+joints of the small, ring or middle finger. The collagenase group comprised 16
+consecutive patients treated during the first 6 months following the introduction
+of collagenase as treatment for DC at the study centre. The controls were 16
+patients randomly selected among those operated on with fasciectomy at the same
+centre during the preceding 3 years.
+INTERVENTIONS: Treatment with collagenase was given during two standard
+outpatient clinic visits (injection of 0.9 mg, distributed at multiple sites in a
+palpable cord, and next-day finger extension under local anaesthesia) followed by
+night-time splinting. Fasciectomy was carried out in the operating room (day
+surgery) under general or regional anaesthesia using standard technique, followed
+by therapy and splinting.
+PRIMARY AND SECONDARY OUTCOME MEASURES: Actual total direct costs (salaries of
+all medical personnel involved in care, medications, materials and other relevant
+costs), and total MCP and PIP extension deficit (degrees) measured by hand
+therapists at 6-12 weeks after the treatment.
+RESULTS: Collagenase injection required fewer hospital outpatient visits to a
+therapist and nurse than fasciectomy. Total treatment cost for collagenase
+injection was US$1418.04 and for fasciectomy US$2102.56. The post-treatment
+median (IQR) total extension deficit was 10 (0-30) for the collagenase group and 
+10 (0-34) for the fasciectomy group.
+CONCLUSIONS: Treatment of DC with one collagenase injection costs 33% less than
+fasciectomy with equivalent efficacy at 6 weeks regarding reduction in
+contracture.
+
+DOI: 10.1136/bmjopen-2013-004166 
+PMCID: PMC3902506
+PMID: 24435894  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,36 @@
+
+
+47. Rev Bras Reumatol. 2014 Jan-Feb;54(1):38-43.
+
+The contribution of HLA molecules to Dupuytren's contracture in a Southeast
+Brazilian population.
+
+[Article in English, Portuguese]
+
+Usó SM(1), Sanson AC(2), Covolo-Santana Fde S(2), Marcos EV(1), Marques T(3),
+Cury Filho M(3), Ura S(4).
+
+Author information: 
+(1)Faculdade de Medicina, Universidade Estadual Paulista, Botucatu, SP, Brasil.
+(2)Faculdade de Medicina, Instituto Lauro de Souza Lima, Bauru, SP, Brasil.
+(3)Departamento de Reabilitação, Instituto Lauro de Souza Lima, Bauru, SP,
+Brasil. (4)Instituto Lauro de Souza Lima, Bauru, SP, Brasil.
+
+PURPOSE: The aim of the present study was to investigate the HLA phenotype in
+Dupuytren's contracture (DC) patients in order to verify the correlation of these
+alleles with risk factors for development of DC in the Brazilian population.
+METHODS: This was a case-controlled study of 25 DC patients and 443 healthy
+individuals with no history of HLA-associated diseases. HLA class I and class II 
+typing was performed using the polymerase chain reaction sequence-specific primer
+method.
+RESULTS: The HLAB*18 phenotype was observed in 32% of the patients and 10.5% of
+controls. However, P values did not remain significant after correction.
+DISCUSSION: Although we observed an increased tendency of DC patients to possess 
+the HLA-B*18 allele, the results were not statistically significant after
+correction. This allele was higher in patients of Italian and/or Spanish
+ethnicity, localities with frequencies higher than 18.0% and 14.0% respectively. 
+Further investigation with a larger cohort of DC patients is required to confirm 
+the potential role of HLA in this disease.
+
+
+PMID: 24878790  [PubMed - indexed for MEDLINE]

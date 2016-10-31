@@ -1,0 +1,41 @@
+
+
+121. Joint Bone Spine. 2015 Jul;82(4):264-6. doi: 10.1016/j.jbspin.2015.01.010. Epub
+2015 Apr 6.
+
+Impact on costs of switching one-ray aponeurectomy to percutaneous needle
+aponeurotomy in Dupuytren's disease: A model analysis.
+
+Maravic M(1), Beaudreuil J(2).
+
+Author information: 
+(1)Service de rhumatologie, hôpital Lariboisière, université Paris 7, AP-HP, 2,
+rue Ambroise-Paré, 75010 Paris, France. Electronic address:
+mmaravic2010@gmail.com. (2)Service de rhumatologie, hôpital Lariboisière,
+université Paris 7, AP-HP, 2, rue Ambroise-Paré, 75010 Paris, France.
+
+OBJECTIVE: To assess the cost of switching surgical aponeurectomy to percutaneous
+needle aponeurotomy in one-ray Dupuytren's disease.
+METHODS: A model analysis was performed with a cross-sectional national survey of
+public and private French hospitals in 2012. All stays for one-ray aponeurectomy 
+were "virtually" replaced with 1, 2 or 3 outpatient sessions of percutaneous
+needle aponeurotomy. The costs were based on the hospital cost (tariff per
+disease-related group) and on common classification of medical procedures
+performed in outpatient care for 2013.
+RESULTS: Dupuytren's disease represented 18,707 hospitalizations (€26 million
+[2013 euros]) in France in 2012, 8534 hospitalizations for one-ray aponeurectomy 
+(€11.9 million). By replacing surgical aponeurectomy with percutaneous needle
+aponeurotomy for one-ray Dupuytren's disease, 91% to 97% and 56% to 59% of the
+treatment costs could be saved using hospitalizations for one-ray aponeurectomy
+or total hospital costs, respectively, as reference.
+CONCLUSIONS: Replacing aponeurectomy with percutaneous needle aponeurotomy for
+one-ray Dupuytren's disease could greatly reduce the treatment costs for all
+Dupuytren's disease. Effective alternatives to surgery for Dupuytren's disease,
+such as needle aponeurotomy in an outpatient setting should be considered in the 
+economic perspective.
+
+Copyright © 2015 Société française de rhumatologie. Published by Elsevier SAS.
+All rights reserved.
+
+DOI: 10.1016/j.jbspin.2015.01.010 
+PMID: 25857217  [PubMed - indexed for MEDLINE]

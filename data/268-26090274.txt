@@ -1,0 +1,41 @@
+
+
+268. Plast Reconstr Surg Glob Open. 2015 Jun 5;3(5):e384. doi:
+10.1097/GOX.0000000000000338. eCollection 2015.
+
+Clinical Results of Percutaneous Needle Fasciotomy for Dupuytren's Disease in
+Japanese Patients.
+
+Abe Y(1), Tokunaga S(1).
+
+Author information: 
+(1)Department of Orthopedic Surgery, Graduate School of Medicine, Chiba
+University, Chiba, Japan.
+
+BACKGROUND: Clinical results of percutaneous needle fasciotomy (PNF) in Japanese 
+patients with Dupuytren's disease are reported.
+METHODS: In this prospective study, 51 patients (103 fingers: 1 index, 9 middle, 
+47 ring, and 46 small) underwent PNF at 99 metacarpophalangeal (MCP) and 68
+proximal interphalangeal (PIP) joints. Patients were assessed postoperatively
+after 1 day, at 1, 2, 4, 6, and 8 weeks, and at 3, 6, 9, and 12 months.
+Correction of contracture was measured in degrees, and an improvement index (%
+improvement) was described previously by Tonkin et al. A correction of the
+contracture to 5° or less at each joint and at each digital ray represented a
+successful correction. The recurrence rates in MCP and PIP joints were also
+evaluated. Correlations between the Tubiana classification stage and successful
+correction, % improvement, and recurrence rate were evaluated. The relationships 
+between recurrence rate and the diathesis score (more/less than 5 points) and
+between recurrence rate and age at surgery (<50/≥50 years) were also examined.
+RESULTS: In MCP and PIP joints, the improvement maintained at final follow-up was
+89% and 57%, respectively, with successful corrections in 89% and 76%,
+respectively. PNF corrected digital rays at various Tubiana stages: stage 1 =
+100%, stage 2 = 82%, stage 3 = 46%, and stage 4 = 0%. Improvements were preserved
+in stage 1 = 83%; stage 2 = 62%; stage 3 = 58%, and stage 4 = 60%. Recurrence of 
+Dupuytren's disease was significant for the PIP joint, severe Tubiana stage, and 
+younger patients.
+CONCLUSIONS: Clinical results of PNF in Japanese patients with Dupuytren's
+contractures were similar to those of whites.
+
+DOI: 10.1097/GOX.0000000000000338 
+PMCID: PMC4457247
+PMID: 26090274  [PubMed]

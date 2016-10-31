@@ -1,0 +1,51 @@
+
+
+184. Man Ther. 2015 Aug;20(4):580-6. doi: 10.1016/j.math.2015.01.010. Epub 2015 Jan
+29.
+
+Intra- and inter-observer agreement on diagnosis of Dupuytren disease,
+measurements of severity of contracture, and disease extent.
+
+Broekstra DC(1), Lanting R(2), Werker PM(3), van den Heuvel ER(4).
+
+Author information: 
+(1)University of Groningen, University Medical Center Groningen, Department of
+Plastic Surgery, HPC BB81, P.O. Box 30.001, 9700 RB, Groningen, The Netherlands. 
+Electronic address: d.c.broekstra@umcg.nl. (2)University of Groningen, University
+Medical Center Groningen, Department of Plastic Surgery, HPC BB81, P.O. Box
+30.001, 9700 RB, Groningen, The Netherlands. Electronic address:
+r.lanting@umcg.nl. (3)University of Groningen, University Medical Center
+Groningen, Department of Plastic Surgery, HPC BB81, P.O. Box 30.001, 9700 RB,
+Groningen, The Netherlands. Electronic address: p.m.n.werker@umcg.nl.
+(4)University of Groningen, University Medical Center Groningen, Department of
+Epidemiology, Groningen, The Netherlands. Electronic address:
+e.r.v.d.heuvel@tue.nl.
+
+INTRODUCTION: Dupuytren disease (DD) is a fibrosing disease affecting the palmar 
+aponeurosis, and is mostly treated by surgery based on measurement of severity of
+flexion contracture of the fingers. Literature concerning the measurement
+reliability is scarce. This study aimed to determine the intra- and
+inter-observer agreement of four variables for diagnosing DD, determining
+severity of contracture, and disease extent. One of them is a new measurement on 
+the area of nodules and cords for measuring the disease extent in early disease
+stages.
+METHODS: An agreement study (n = 54) was performed by two trained investigators. 
+Agreement was calculated per finger, based on an intraclass correlation
+coefficient (ICC) using a latent variable model on subjects for diagnosis and
+Tubiana stage. For total passive extension deficit (TPED) and the area of nodules
+and cords, agreement was calculated with an ICC using a one-way random effects
+model with subject as random effect.
+RESULTS: Inter-observer agreement was very good for diagnosing DD (ICC:
+95.5%-99.9%) and good to very good for classifying Tubiana stage (ICC:
+73.5%-94.9%). Agreements for area and TPED were moderate (middle finger) to very 
+good (ICC: 48.4%-98.6% and 45.0%-99.5%, respectively). Intra-observer agreement
+was slightly higher on average than inter-observer agreement.
+CONCLUSION: Overall, the intra- and inter-observer agreement in diagnosing DD,
+and determining the severity of flexion contracture is high. Also, the newly
+introduced variable area of nodules and cords has high intra- and inter-observer 
+agreement, indicating that it is suitable to measure disease extent.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.math.2015.01.010 
+PMID: 25682557  [PubMed - in process]

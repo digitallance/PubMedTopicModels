@@ -1,0 +1,46 @@
+
+
+161. BMC Musculoskelet Disord. 2013 Apr 10;14:131. doi: 10.1186/1471-2474-14-131.
+
+Optimal functional outcome measures for assessing treatment for Dupuytren's
+disease: a systematic review and recommendations for future practice.
+
+Ball C(1), Pratt AL, Nanchahal J.
+
+Author information: 
+(1)Kennedy Institute, University of Oxford, Aspenlea Road, London W6 8LH, UK.
+cathy.ball@kennedy.ox.ac.uk
+
+BACKGROUND: Dupuytren's disease of the hand is a common condition affecting the
+palmar fascia, resulting in progressive flexion deformities of the digits and
+hence limitation of hand function. The optimal treatment remains unclear as
+outcomes studies have used a variety of measures for assessment.
+METHODS: A literature search was performed for all publications describing
+surgical treatment, percutaneous needle aponeurotomy or collagenase injection for
+primary or recurrent Dupuytren's disease where outcomes had been monitored using 
+functional measures.
+RESULTS: Ninety-one studies met the inclusion criteria. Twenty-two studies
+reported outcomes using patient reported outcome measures (PROMs) ranging from
+validated questionnaires to self-reported measures for return to work and
+self-rated disability. The Disability of Arm, Shoulder and Hand (DASH) score was 
+the most utilised patient-reported function measure (n=11). Patient satisfaction 
+was reported by eighteen studies but no single method was used consistently.
+Range of movement was the most frequent physical measure and was reported in all 
+91 studies. However, the methods of measurement and reporting varied, with
+seventeen different techniques being used. Other physical measures included grip 
+and pinch strength and sensibility, again with variations in measurement
+protocols. The mean follow-up time ranged from 2 weeks to 17 years.
+CONCLUSIONS: There is little consistency in the reporting of outcomes for
+interventions in patients with Dupuytren's disease, making it impossible to
+compare the efficacy of different treatment modalities. Although there are
+limitations to the existing generic patient reported outcomes measures, a
+combination of these together with a disease-specific questionnaire, and physical
+measures of active and passive individual joint Range of movement (ROM), grip and
+sensibility using standardised protocols should be used for future outcomes
+studies. As Dupuytren's disease tends to recur following treatment as well as
+extend to involve other areas of the hand, follow-up times should be standardised
+and designed to capture both short and long term outcomes.
+
+DOI: 10.1186/1471-2474-14-131 
+PMCID: PMC3637830
+PMID: 23575442  [PubMed - indexed for MEDLINE]

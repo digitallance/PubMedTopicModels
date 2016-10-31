@@ -1,0 +1,41 @@
+
+
+195. Biochim Biophys Acta. 2012 Jun;1822(6):897-905. doi:
+10.1016/j.bbadis.2012.02.001. Epub 2012 Feb 9.
+
+MMP-14 and MMP-2 are key metalloproteases in Dupuytren's disease
+fibroblast-mediated contraction.
+
+Wilkinson JM(1), Davidson RK, Swingler TE, Jones ER, Corps AN, Johnston P, Riley 
+GP, Chojnowski AJ, Clark IM.
+
+Author information: 
+(1)School of Biological Sciences, University of East Anglia, Norwich Research
+Park, NR4 7TJ, UK.
+
+Dupuytren's disease (DD) is a common fibrotic condition of the palmar fascia,
+leading to deposition of collagen-rich cords and progressive flexion of the
+fingers. The molecular mechanisms underlying the disease are poorly understood.
+We have previously shown altered expression of extracellular matrix-degrading
+proteases (matrix metalloproteases, MMPs, and 'a disintegrin and metalloprotease 
+domain with thrombospondin motifs', ADAMTS, proteases) in palmar fascia from DD
+patients compared to control and shown that the expression of a sub-set of these 
+genes correlates with post-operative outcome. In the current study we used an in 
+vitro model of collagen contraction to identify the specific proteases which
+mediate this effect. We measured the expression of all MMPs, ADAMTSs and their
+inhibitors in fibroblasts derived from the palmar fascia of DD patients, both in 
+monolayer culture and in the fibroblast-populated collagen lattice (FPCL) model
+of cell-mediated contraction. Key proteases, previously identified in our tissue 
+studies, were expressed in vitro and regulated by tension in the FPCL, including 
+MMP1, 2, 3, 13 and 14. Knockdown of MMP2 and MMP14 (but not MMP1, 3 and 13)
+inhibited cell-mediated contraction, and knockdown of MMP14 inhibited proMMP-2
+activation. Interestingly, whilst collagen is degraded during the FPCL assay,
+this is not altered upon knockdown of any of the proteases examined. We conclude 
+that MMP-14 (via its ability to activate proMMP-2) and MMP-2 are key proteases in
+collagen contraction mediated by fibroblasts in DD patients. These proteases may 
+be drug targets or act as biomarkers for disease progression.
+
+© 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2012.02.001 
+PMID: 22342364  [PubMed - indexed for MEDLINE]

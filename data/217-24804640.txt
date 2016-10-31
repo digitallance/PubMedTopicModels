@@ -1,0 +1,40 @@
+
+
+217. Plast Reconstr Surg. 2014 Sep;134(3):483-90. doi: 10.1097/PRS.0000000000000429.
+
+Patterns of Dupuytren disease in fingers: studying correlations with a
+multivariate ordinal logit model.
+
+Lanting R(1), Nooraee N, Werker PM, van den Heuvel ER.
+
+Author information: 
+(1)Groningen, The Netherlands From the Departments of Plastic Surgery and
+Epidemiology, University of Groningen, University Medical Center Groningen.
+
+BACKGROUND: Dupuytren disease affects fingers in a variable fashion. Knowledge
+about specific disease patterns (phenotype) based on location and severity of the
+disease is lacking.
+METHODS: In this cross-sectional study, 344 primary affected hands with Dupuytren
+disease were physically examined. The Pearson correlation coefficient between the
+coexistence of Dupuytren disease in pairs of fingers was calculated, and
+agglomerative hierarchical clustering was applied to identify possible clusters
+of affected fingers. With a multivariate ordinal logit model, the authors studied
+the correlation on severity, taking into account age and sex, and tested
+hypotheses on independence between groups of fingers.
+RESULTS: The ring finger was most frequently affected by Dupuytren disease, and
+contractures were seen in 15.1 percent of affected rays. The severity of thumb
+and index finger, middle and ring fingers, and middle and little fingers was
+significantly correlated. Occurrences in pairs of fingers were highest in the
+middle and ring fingers and lowest in the thumb and index finger. Correlation
+between the ring and little fingers and a correlation between fingers from the
+ulnar and radial sides could not be demonstrated.
+CONCLUSIONS: Rays on the ulnar side of the hand are predominantly affected. The
+middle finger is substantially correlated with other fingers on the ulnar side,
+and the thumb and index finger are correlated; however, there was no evidence
+that the ulnar side and the radial side were correlated in any way, which
+suggests that occurrence on one side of the hand does not predict Dupuytren
+disease on the other side of the hand.
+CLINCIAL QUESTION/LEVEL OF EVIDENCE: Risk, III.
+
+DOI: 10.1097/PRS.0000000000000429 
+PMID: 24804640  [PubMed - indexed for MEDLINE]

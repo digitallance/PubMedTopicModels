@@ -1,0 +1,52 @@
+
+
+193. Phys Ther. 2015 May;95(5):750-7. doi: 10.2522/ptj.20130590. Epub 2014 Dec 18.
+
+Construct validity of the canadian occupational performance measure in
+participants with tendon injury and Dupuytren disease.
+
+van de Ven-Stevens LA(1), Graff MJ(2), Peters MA(3), van der Linde H(4), Geurts
+AC(5).
+
+Author information: 
+(1)L.A.W. van de Ven-Stevens, MSc, OT, CHT-NL, Department of Rehabilitation, 898,
+Radboud Institute for Health Sciences, Radboud University Medical Centre, PO Box 
+9101, 6500 HB Nijmegen, the Netherlands. L.vandeVen-Stevens@home.nl. (2)M.J.L.
+Graff, PhD, OT, Department of Rehabilitation, Radboud Institute for Health
+Sciences, Radboud University Medical Centre. (3)M.A.M. Peters, MSc, Department of
+Rehabilitation, Radboud Institute for Health Sciences, Radboud University Medical
+Centre. (4)H. van der Linde, PhD, MD, Department of Rehabilitation, Radboud
+Institute for Health Sciences, Radboud University Medical Centre. (5)A.C.H.
+Geurts, PhD, MD, Department of Rehabilitation, Radboud Institute for Health
+Sciences, Radboud University Medical Centre.
+
+BACKGROUND: In patient-centered practice, instruments need to assess outcomes
+that are meaningful to patients with hand conditions. It is unclear which
+assessment tools address these subjective perspectives best.
+OBJECTIVE: The aim of this study was to establish the construct validity of the
+Canadian Occupational Performance Measure (COPM) in relation to the Disabilities 
+of Arm, Shoulder, and Hand (DASH) questionnaire and the Michigan Hand Outcomes
+Questionnaire (MHQ) in people with hand conditions. It was hypothesized that COPM
+scores would correlate with DASH and MHQ total scores only to a moderate degree
+and that the COPM, DASH questionnaire, and MHQ would all correlate weakly with
+measures of hand impairments.
+DESIGN: This was a validation study.
+METHODS: The COPM, DASH questionnaire, and MHQ were scored, and then hand
+impairments were measured (pain [numerical rating scale], active range of motion 
+[goniometer], grip strength [dynamometer], and pinch grip strength [pinch
+meter]). People who had received postsurgery rehabilitation for flexor tendon
+injuries, extensor tendon injuries, or Dupuytren disease were eligible.
+RESULTS: Seventy-two participants were included. For all diagnosis groups, the
+Pearson coefficient of correlation between the DASH questionnaire and the MHQ was
+higher than .60, whereas the correlation between the performance scale of the
+COPM and either the DASH questionnaire or the MHQ was lower than .51.
+Correlations of these assessment tools with measures of hand impairments were
+lower than .46.
+LIMITATIONS: The small sample sizes may limit the generalization of the results.
+CONCLUSIONS: The results supported the hypotheses and, thus, the construct
+validity of the COPM after surgery in people with hand conditions.
+
+© 2015 American Physical Therapy Association.
+
+DOI: 10.2522/ptj.20130590 
+PMID: 25524872  [PubMed - indexed for MEDLINE]

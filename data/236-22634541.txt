@@ -1,0 +1,40 @@
+
+
+236. Clin Med Res. 2012 Aug;10(3):122-6. doi: 10.3121/cmr.2012.1063. Epub 2012 May 25.
+
+Evaluation of a mitochondrial DNA mutation in maternally inherited and sporadic
+cases of Dupuytren disease.
+
+Anderson ER(1), Burmester JK, Caldwell MD.
+
+Author information: 
+(1)Department of General Surgery, Marshfield Clinic, Wisconsin 54449, USA.
+anderson.eric@marshfieldclinic.org
+
+OBJECTIVE: The purpose was to test the hypothesis that Dupuytren disease (DD) is 
+associated with a previously reported mutation in mitochondrial DNA at position
+2839.
+METHODS: Two hundred sixty-nine cases of DD and an equal number of matched
+controls were identified in Marshfield Clinic's Personalized Medicine Research
+Project (PMRP). Clinical data used to describe the cohort were abstracted from
+the electronic medical records of the population. Genetic analysis of all the
+cases and controls was done using a custom synthesis TaqMan assay, while genetic 
+analysis of sixteen of the above cases with a familial history of DD was
+performed by mitochondrial DNA sequencing at position C2839A.
+RESULTS: Cases and controls were evenly distributed with 167 (62%) men and 102
+(38%) women. The majority, 264 (98%) of the cases and controls were white
+non-Hispanic. Of the 269 cases, 16 were found to have a familial history of DD.
+Two cases had a maternal history, eight a paternal history, five an affected
+sibling, and one a paternal grandfather. All cases and controls were found to
+have only the C allele at the site of the reported mitochondrial C2839A
+polymorphism.
+CONCLUSIONS: The previously reported mitochondrial mutation was not present in
+our small, maternally inherited cohort or in the total population of 538 cases
+and controls. This finding does not support the reported incidence of this
+polymorphism in 90% of the affected population with a maternal inheritance, and
+calls into question the role of the C2839A mitochondrial DNA polymorphism in
+familial or sporadic cases of DD.
+
+DOI: 10.3121/cmr.2012.1063 
+PMCID: PMC3421422
+PMID: 22634541  [PubMed - indexed for MEDLINE]

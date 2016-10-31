@@ -1,0 +1,50 @@
+
+
+97. Hand (N Y). 2015 Jun;10(2):260-5. doi: 10.1007/s11552-014-9704-0.
+
+Clinical outcomes following collagenase injections compared to fasciectomy in the
+treatment of Dupuytren's contracture.
+
+Muppavarapu RC(1), Waters MJ(2), Leibman MI(3), Belsky MR(3), Ruchelsman DE(4).
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Tufts University School of Medicine,
+Boston, MA USA ; 2000 Washington Street Blue Building, Suite 201, Newton, MA
+02462 USA. (2)Royal Adelaide Hospital, Adelaide, South Australia 5000 Australia. 
+(3)Hand Surgery, P.C., Newton-Wellesley Hospital, Tufts University School of
+Medicine, Boston, MA USA. (4)Hand Surgery, P.C., Newton-Wellesley Hospital, Tufts
+University School of Medicine, Boston, MA USA ; Division of Hand Surgery,
+Newton-Wellesley Hospital, Newton, MA USA ; Hand and Upper Extremity Surgery,
+Department of Orthopaedic Surgery, Massachusetts General Hospital/Harvard Medical
+School, Boston, MA USA.
+
+INTRODUCTION: The aim of this study is to compare the efficacy of collagenase
+injections with that of fasciectomy in the treatment of Dupuytren's contracture.
+METHODS: This is a case-control retrospective study. We reviewed the electronic
+medical records from January 2009 through January 2013, identifying 142
+consecutive patients who underwent either fasciectomy or collagenase injection.
+Exclusion criteria for both groups were age <18 years, pregnant women, and
+arthroplasty or arthrodesis of the treated joint. Follow-up data beyond 1-year
+duration was available for 117 of the patients: 44 patients who had undergone
+fasciectomy, and 73 patients who had received collagenase injection. The primary 
+outcome measure in this study was resolution of joint contracture to 0-5° deficit
+of full extension. Data was analyzed using two-sample t tests for continuous data
+and chi-square test for categorical data. A significant P value was set at <0.05.
+RESULTS: At the latest follow-up, significantly more joints treated with
+fasciectomy met the primary outcome measure. Metacarpophalangeal (MP) joints
+responded better than the proximal interphalangeal (PIP) joints for both
+treatments. At the latest follow-up (14.2 months for collagenase, 16.3 months for
+fasciectomy), 46 % of MP joints treated with collagenase and 68 % of MP joints
+treated with fasciectomy maintained resolution of joint contracture. Sub-analysis
+of the affected joints based on the severity of initial contracture demonstrated 
+that MP and PIP joints with contractures <45° responded better than more severely
+contracted joints (>45°).
+CONCLUSIONS: Fasciectomy yields a greater mean magnitude of correction for
+digital contractures at the latest follow-up when compared to collagenase. Both
+treatments were more effective for treatment of MP joint contracture compared to 
+PIP joint contracture.
+LEVEL OF EVIDENCE: Level III, therapeutic.
+
+DOI: 10.1007/s11552-014-9704-0 
+PMCID: PMC4447679
+PMID: 26034441  [PubMed]

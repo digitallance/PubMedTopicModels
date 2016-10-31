@@ -1,0 +1,40 @@
+
+
+169. Joint Bone Spine. 2012 Jan;79(1):7-12. doi: 10.1016/j.jbspin.2011.05.027. Epub
+2011 Jul 30.
+
+Genetics of Dupuytren's disease.
+
+Michou L(1), Lermusiaux JL, Teyssedou JP, Bardin T, Beaudreuil J, Petit-Teixeira 
+E.
+
+Author information: 
+(1)Service de rhumatologie du CHUQ-CHUL, centre de recherche du CHUQ-CHUL,
+département de médecine, université Laval, 2705 boulevard Laurier, G1V4G2 Québec,
+Canada. laetitia.michou@crchul.ulaval.ca
+
+Dupuytren's disease (DD) is a progressive fibrosis of the palmar fascia
+characterized by the formation of a nodule, which evolves into a cord. DD is the 
+most common hereditary disease of the connective tissue preferentially affecting 
+Caucasoids originating from Northern Europe. Some environmental factors are
+associated with DD, namely alcohol consumption, tobacco exposure and, possibly,
+manual activities. Diabetes and epilepsy are the most frequently reported
+DD-associated diseases. The genetic mode of inheritance is not well understood,
+but seems to be heterogeneous: most frequently, autosomal dominant with variable 
+penetrance, and rarely recessive autosomal or maternal (matrilinear), suggesting 
+a mitochondrial heredity. Initially, a suggestion of linkage with the DUPC1 locus
+at 16q was proposed. Then, among the genomic variations observed in DD,
+alterations in the copy number of genes in chromosomal regions 10q22, 16p12.1 and
+17p12, associations with the HLA-DRB1*15 allele and a mutation in the rRNA 16s
+identified in forms with a matrilinear heredity, were reported. Finally, a
+genome-wide study has shown a genetic association of DD with 6, 11 and 16
+chromosomes. Pathophysiology of DD involves mainly myofibroblasts and the
+extracellular matrix of collagen. Gene and protein expression studies have
+confirmed the central role of the β catenin of the TGFβ pathways in the
+pathogenesis of DD.
+
+Copyright © 2011 Société française de rhumatologie. Published by Elsevier SAS.
+All rights reserved.
+
+DOI: 10.1016/j.jbspin.2011.05.027 
+PMID: 21803632  [PubMed - indexed for MEDLINE]

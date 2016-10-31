@@ -1,0 +1,44 @@
+
+
+187. Med Hypotheses. 2012 Mar;78(3):385-8. doi: 10.1016/j.mehy.2011.11.023. Epub 2011 
+Dec 23.
+
+Concurrent inhibition of TGF-β and mitogen driven signaling cascades in
+Dupuytren's disease - non-surgical treatment strategies from a signaling point of
+view.
+
+Krause C(1), Kloen P.
+
+Author information: 
+(1)Institute for Chemistry and Biochemistry, Free University of Berlin, Berlin,
+Germany. carola.krause@fu-berlin.de
+
+Dupuytren's disease (DD) is a benign progressive fibro-proliferative disorder of 
+the fascia palmaris of the hand. Currently, treatment consists of surgical
+excision with a relatively high recurrence rate and risk of complications. To
+improve long-term outcome of DD treatment, research focus has shifted towards
+molecular targets for DD as an alternative to surgery. Therefore, complete and
+exact understanding of the cause of DD is needed. Transforming growth factor
+(TGF)-β is considered a key player in DD. We recently showed that increased TGF-β
+expression in DD correlates not only with elevated expression and activation of
+downstream Smad effectors, but also with overactive ERK1/2 MAP kinase signaling. 
+Both TGF-β/Smad and non-Smad signaling pathways increase expression of key
+fibrotic markers and contractility of Dupuytren's myofibroblasts. What is not yet
+known is whether these two signaling cascades each accelerate DD autonomously,
+successively or in conjunction. Elucidation of this mechanism will help develop
+new potential non-surgical treatments. We hypothesize that TGF-β-induced
+short-term activation of the MAPK pathway leads to an autonomous non-Smad driven 
+fibrosis. Therefore, successful treatment strategies will target not only
+TGF-β/Smad, but also intracellular MAPK signaling. In this review we discuss
+possible scenarios in which such a drift from TGF-β induced Smad signaling to
+autonomous non-Smad signaling could be observed in DD. The potential therapeutic 
+effects of small cytokine signaling cascades inhibitors, such as TGF-β type I
+receptor-, (pan-) tyrosine- or ERK1/2 MAP-kinase inhibitor will be highlighted.
+To abrogate the fibrotic trait and the recurrence of DD, we speculate on
+sequential and co-application of such molecules in order to provide possible new 
+non-operative strategies for DD.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.mehy.2011.11.023 
+PMID: 22196988  [PubMed - indexed for MEDLINE]

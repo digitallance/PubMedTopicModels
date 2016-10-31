@@ -1,0 +1,44 @@
+
+
+120. Plast Reconstr Surg. 2016 Oct;138(4):837-46. doi: 10.1097/PRS.0000000000002560.
+
+Comparative Effectiveness of Percutaneous Needle Aponeurotomy and Limited
+Fasciectomy for Dupuytren's Contracture: A Multicenter Observational Study.
+
+Zhou C(1), Selles RW, Slijper HP, Feitz R, van Kooij Y, Moojen TM, Hovius SE.
+
+Author information: 
+(1)Rotterdam and Hilversum, The Netherlands From the Departments of Plastic,
+Reconstructive, and Hand Surgery and Rehabilitation Medicine, Erasmus MC
+University Medical Center; and Hand and Wrist Surgery, Xpert Clinic.
+
+BACKGROUND: Percutaneous needle aponeurotomy is a less invasive surgical
+alternative to limited fasciectomy for Dupuytren's contracture, but appeared less
+efficacious in a previous randomized clinical trial. This study compared the
+effectiveness of both techniques in contemporary clinical practice.
+METHODS: The authors evaluated prospectively gathered data from all patients who 
+were treated with percutaneous needle aponeurotomy or limited fasciectomy between
+2011 and 2014 at six hand surgery practice sites in The Netherlands. The degree
+of total active extension deficit, Michigan Hand Outcomes Questionnaire
+subscores, and complications evaluated at 6 to 12 weeks after treatment were
+compared after propensity score-based inverse-probability weighting to account
+for the differences in baseline characteristics between the treatment groups.
+RESULTS: After inverse-probability weighting, 78 percutaneous needle aponeurotomy
+patients and 103 limited fasciectomy patients remained with similar
+characteristics (88 percent Tubiana grade I or II). The degree of total residual 
+extension deficit at follow-up was similar between the weighted groups
+(percutaneous needle aponeurotomy, 21 degrees; limited fasciectomy, 18 degrees; p
+= 0.330). Furthermore, percutaneous needle aponeurotomy was associated with a
+lower mild complication rate (percutaneous needle aponeurotomy, 5.2 percent;
+limited fasciectomy, 24.3 percent; p < 0.001) and larger increases in the
+subdomain scores of satisfaction (p < 0.001), work performance (p < 0.001),
+activities of daily living (p = 0.009), and overall hand function (p = 0.001).
+CONCLUSIONS: This multicenter observational study found that, among patients with
+mildly to moderately affected digits, percutaneous needle aponeurotomy reduced
+contractures as effectively as limited fasciectomy does in clinical practice.
+Furthermore, percutaneous needle aponeurotomy provided a more rapid functional
+recovery and had a lower rate of mild complications.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, III.
+
+DOI: 10.1097/PRS.0000000000002560 
+PMID: 27307334  [PubMed - in process]

@@ -1,0 +1,52 @@
+
+
+178. Joint Bone Spine. 2014 Oct;81(5):441-4. doi: 10.1016/j.jbspin.2014.01.007. Epub
+2014 Feb 22.
+
+URAM scale for functional assessment in Dupuytren's disease: a comparative study 
+of its properties.
+
+Bernabé B(1), Lasbleiz S(2), Gerber RA(3), Cappelleri JC(3), Yelnik A(4), Orcel
+P(2), Bardin T(2), Beaudreuil J(5).
+
+Author information: 
+(1)Unité Rhumatologique des Affections de la Main (URAM), Service de
+Rhumatologie, Hôpital Lariboisière, AP-HP, Université Paris 7, Paris, France;
+Service de Médecine Physique et de Réadaptation, Hôpital Fernand-Widal, AP-HP,
+Université Paris 7, Paris, France. (2)Unité Rhumatologique des Affections de la
+Main (URAM), Service de Rhumatologie, Hôpital Lariboisière, AP-HP, Université
+Paris 7, Paris, France. (3)Pfizer Inc, Groton, CT, USA. (4)Service de Médecine
+Physique et de Réadaptation, Hôpital Fernand-Widal, AP-HP, Université Paris 7,
+Paris, France. (5)Unité Rhumatologique des Affections de la Main (URAM), Service 
+de Rhumatologie, Hôpital Lariboisière, AP-HP, Université Paris 7, Paris, France. 
+Electronic address: johann.beaudreuil@lrb.aphp.fr.
+
+OBJECTIVE: To test the convergent validity and ease of use of the Unité
+Rhumatologique des Affections de la Main (URAM) scale for patients with
+Dupuytren's disease.
+METHODS: Patients were prospectively included. We compared the convergent
+validity of the URAM scale, the Cochin Hand Function Scale (CHFS) and the
+Disabilities of the Arm, Shoulder and Hand (DASH) questionnaire, in terms of
+their correlation with the Tubiana score and self-assessed disability on a visual
+analog scale (VAS). Pearson's correlation was used for the convergent validity
+study. The response time for questionnaire completion was the outcome for ease of
+implementation.
+RESULTS: We included 53 patients with Dupuytren's disease in the convergent
+validity study and 30 other patients with the disease in the time-response
+assessment. The URAM scale showed strong convergence with the Tubiana scale
+(r=0.64) and self-assessed disability on a VAS (r=0.69). Convergence with the
+Tubiana and self-assessed disability was higher for the URAM scale than the CHFS 
+or DASH questionnaire. The mean [SD] response time was shorter for the URAM scale
+than the CHFS or DASH questionnaire (42 [20] vs 71 [35] and 103 [59] s,
+respectively, P<0.0001).
+CONCLUSIONS: The results reinforce the psychometric merits of the URAM scale.
+Furthermore, the response time for assessing disability was shorter with the URAM
+scale than the CHFS or DASH questionnaire. This evidence supports the high
+recommendation for the use of the URAM scale in clinical practice and clinical
+studies to assess disability in Dupuytren's disease.
+
+Copyright © 2014 Société française de rhumatologie. Published by Elsevier SAS.
+All rights reserved.
+
+DOI: 10.1016/j.jbspin.2014.01.007 
+PMID: 24565887  [PubMed - indexed for MEDLINE]

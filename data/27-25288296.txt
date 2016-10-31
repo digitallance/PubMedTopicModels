@@ -1,0 +1,30 @@
+
+
+27. Hand Surg. 2014;19(3):481-90. doi: 10.1142/S0218810414300058.
+
+Dupuytren's contracture: emerging insight into a Viking disease.
+
+Nunn AC(1), Schreuder FB.
+
+Author information: 
+(1)Department of Older People's Medicine, Norfolk and Norwich University
+Hospital, Norwich, Norfolk, UK.
+
+Dupuytren's disease is a fibroproliferative condition of the palm, with a
+predilection for men, which has affected Northern Europeans since the Viking
+conquests. Although strongly heritable, clear evidence exists for environmental
+factors that modify the underlying genetic risk, such as diabetes, heavy
+drinking, and smoking. Evidence also exists for epilepsy (probably due to
+treatment with certain anti-epileptic drugs), and Human Immunodeficiency Virus
+infection. Recent large studies have shown no relationship with manual labour or 
+vibrating tools. Two theories have emerged regarding the pathogenic mechanism:
+the first attributes the aberrant healing process that characterises Dupuytren's 
+to free radicals, generated as a result of microangiopathy, whereas the second
+cites a genetic tendency toward apoptosis-resistant myofibroblasts. Despite only 
+one study demonstrating linkage, emerging data from genome-wide association
+studies highlight a series of single nucleotide polymorphisms near members of the
+Wnt signalling pathway, and transcriptional profiling studies have consistently
+identified certain components of the extracellular matrix.
+
+DOI: 10.1142/S0218810414300058 
+PMID: 25288296  [PubMed - indexed for MEDLINE]

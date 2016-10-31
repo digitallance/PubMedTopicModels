@@ -1,0 +1,35 @@
+
+
+207. Acta Orthop. 2013 Aug;84(4):420-5. doi: 10.3109/17453674.2013.814011. Epub 2013
+Jul 3.
+
+Expression of VEGF, its receptors, and HIF-1α in Dupuytren's disease.
+
+Holzer LA(1), Cör A, Pfandlsteiner G, Holzer G.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Medical University of Graz, Graz, Austria.
+
+BACKGROUND AND PURPOSE: Dupuytren's disease (DD) is a benign fibroproliferative
+process that affects the palmar fascia. The pathology of DD shows similarities
+with wound healing and tumor growth; hypoxia and angiogenesis play important
+roles in both. We investigated the role of angiogenic proteins in DD.
+PATIENTS AND METHODS: The expression of vascular endothelial growth factor
+(VEGF), its receptors vascular endothelial growth factor receptor 1 (VEGFR1) and 
+vascular endothelial growth factor receptor 2 (VEGFR2), hypoxia-inducible factor 
+alfa (HIF-1α), and alfa-smooth muscle actin (α-SMA) were analyzed
+immunohistochemically in fragments of excised Dupuytren's tissue from 32
+patients. We compared these values to values for expression in a control group.
+RESULTS: 15 of 32 samples could be attributed to the involutional phase (α-SMA
+positive), whereas 17 samples were considered to be cords at the residual phase
+(α-SMA negative). In the involutional phase, the HIF-1α and VEGFR2 expression was
+statistically significantly higher than in the residual phase and in the
+controls.
+INTERPRETATION: Both the VEGFR2 receptor and HIF-1α were expressed in α-SMA
+positive myofibroblast-rich nodules with characteristics of DD in the active
+involutional phase. Thus, hypoxia and (subsequently) angiogenesis may have a role
+in the pathophysiology of DD.
+
+DOI: 10.3109/17453674.2013.814011 
+PMCID: PMC3768045
+PMID: 23992143  [PubMed - indexed for MEDLINE]

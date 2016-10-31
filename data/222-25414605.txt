@@ -1,0 +1,38 @@
+
+
+222. Hand (N Y). 2014 Dec;9(4):459-65. doi: 10.1007/s11552-014-9638-6.
+
+The incidence of postoperative flare reaction and tissue complications in
+Dupuytren's disease using tension-free immobilization.
+
+Rivlin M(1), Osterman M(2), Jacoby SM(2), Skirven T(2), Ukomadu U(3), Osterman
+AL(2).
+
+Author information: 
+(1)Rothman Institute, Thomas Jefferson University, Philadelphia, PA USA. (2)The
+Philadelphia Hand Center, Thomas Jefferson University, Philadelphia, PA USA.
+(3)Thomas Jefferson University, Philadelphia, PA USA.
+
+PURPOSE: Open fasciectomy represents a standard treatment of Dupuytren's disease.
+Although patients are commonly immobilized in extension to prevent postoperative 
+contracture formation, immobilizing the extremity under tension may precipitate a
+flare reaction and scar-related complications. This study explores the incidence 
+of flare reaction and other complications with postoperative tension-free
+splinting after fasciectomy for Dupuytren's contracture.
+METHODS: We retrospectively reviewed patients' charts that consisted of 228
+procedures in 191 patients who underwent surgery by the senior author between
+2000 and 2010. Postoperative notes were reviewed for wound healing problems, scar
+appearance, flare reaction, and complications. The grading system defined by
+Evans et al. was used to standardize flare reaction and scar complications.
+RESULTS: Using tension-free splinting, the incidence of flare reaction was 3.5 % 
+(8/228). The eight patients that had flare reactions had mild involvement, and no
+severe reaction was observed. Fifteen patients had hypertrophic scars, eight had 
+hypersensitive scars, and six had recurrent contractures.
+CONCLUSIONS: The incidence of flare reaction using tension-free immobilization
+postoperatively was low in our study. According to our findings, wound healing
+problems are rare when tensionless splinting is utilized. Type of study/level of 
+evidence Case series, Level IV, Therapeutic study.
+
+DOI: 10.1007/s11552-014-9638-6 
+PMCID: PMC4235907
+PMID: 25414605  [PubMed]

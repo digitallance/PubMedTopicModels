@@ -1,0 +1,43 @@
+
+
+103. Plast Reconstr Surg. 2016 Sep;138(3):649-55. doi: 10.1097/PRS.0000000000002472.
+
+Predictors of Patient Satisfaction with Hand Function after Fasciectomy for
+Dupuytren's Contracture.
+
+Zhou C(1), Hovius SE, Slijper HP, Zuidam MJ, Smit X, Feitz R, Selles RW.
+
+Author information: 
+(1)Rotterdam and Hilversum, The Netherlands From the Departments of Plastic,
+Reconstructive and Hand Surgery and Rehabilitation Medicine, Erasmus MC; and the 
+Department of Hand and Wrist Surgery, Xpert Clinic.
+
+BACKGROUND: This study examined patient satisfaction with hand function after
+fasciectomy for Dupuytren's contracture and determined which preoperative
+patient- and disease-specific factors predicted this satisfaction.
+METHODS: Demographics and disease-specific factors were assessed from a
+prospective cohort of 194 patients who completed the Michigan Hand Outcomes
+Questionnaire preoperatively and underwent limited fasciectomy between 2011 and
+2014 at six hand surgery practice sites. To evaluate satisfaction with hand
+function, patients were asked to complete the Michigan Hand Outcomes
+Questionnaire during the first year after fasciectomy. After patients were
+classified into a satisfied and an unsatisfied category using the question that
+specifically pertains to satisfaction with hand function, the authors applied
+multivariate logistic regression modeling to identify independent predictors of
+patient satisfaction.
+RESULTS: At an average of 10 months (range, 6 to 12 months) after fasciectomy, 84
+percent (n = 163) of the patients were satisfied with their hand function. In
+multivariate analyses adjusting for the degree of postoperative residual
+contracture (p < 0.001) and complications (p < 0.001), a higher preoperative
+Michigan Hand Outcomes Questionnaire hand appearance subscore and male gender
+predicted a higher likelihood of becoming satisfied after fasciectomy. Other
+patient- and disease-specific factors did not show evidence for an association
+with patient satisfaction.
+CONCLUSIONS: The findings of this study suggest that providers should consider
+assessing concerns about the appearance of the hand in patients with Dupuytren's 
+contracture. They also highlight the importance of complication prevention and
+full contracture correction from the patient's perspective.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Risk, III.
+
+DOI: 10.1097/PRS.0000000000002472 
+PMID: 27556605  [PubMed - in process]

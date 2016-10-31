@@ -1,0 +1,81 @@
+
+
+17. Health Technol Assess. 2015 Oct;19(90):1-202. doi: 10.3310/hta19900.
+
+Collagenase clostridium histolyticum for the treatment of Dupuytren's
+contracture: systematic review and economic evaluation.
+
+Brazzelli M(1), Cruickshank M(1), Tassie E(2), McNamee P(2), Robertson C(1),
+Elders A(1), Fraser C(1), Hernandez R(2), Lawrie D(3), Ramsay C(1).
+
+Author information: 
+(1)Health Services Research Unit, University of Aberdeen, Aberdeen, UK. (2)Health
+Economics Research Unit, University of Aberdeen, Aberdeen, UK. (3)NHS Grampian,
+Aberdeen Royal Infirmary, Aberdeen, UK.
+
+BACKGROUND: Dupuytren's disease is a slowly progressive condition of the hand,
+characterised by the formation of nodules in the palm that gradually develop into
+fibrotic cords. Contracture of the cords produces deformities of the fingers.
+Surgery is recommended for moderate and severe contractures, but complications
+and/or recurrences are frequent. Collagenase clostridium histolyticum (CCH) has
+been developed as a minimally invasive alternative to surgery for some patients.
+OBJECTIVES: To assess the clinical effectiveness and cost-effectiveness of
+collagenase as an alternative to surgery for adults with Dupuytren's contracture 
+with a palpable cord.
+DATA SOURCES: We searched all major electronic databases from 1990 to February
+2014.
+REVIEW METHODS: Randomised controlled trials (RCTs), non-randomised comparative
+studies and observational studies involving collagenase and/or surgical
+interventions were considered. Two reviewers independently extracted data and
+assessed risk of bias of included studies. A de novo Markov model was developed
+to assess cost-effectiveness of collagenase, percutaneous needle fasciotomy (PNF)
+and limited fasciectomy (LF). Results were reported as incremental cost per
+quality-adjusted life-year (QALY) gained. Deterministic and probabilistic
+sensitivity analyses were undertaken to investigate model and parameter
+uncertainty.
+RESULTS: Five RCTs comparing collagenase with placebo (493 participants), three
+RCTs comparing surgical techniques (334 participants), two non-randomised studies
+comparing collagenase and surgery (105 participants), five non-randomised
+comparative studies assessing various surgical procedures (3571 participants) and
+15 collagenase case series (3154 participants) were included. Meta-analyses of
+RCTs assessing CCH versus placebo were performed. Joints randomised to
+collagenase were more likely to achieve clinical success. Collagenase-treated
+participants experienced significant reduction in contracture and an increased
+range of motion compared with placebo-treated participants. Participants treated 
+with collagenase also experienced significantly more adverse events, most of
+which were mild or moderate. Four serious adverse events were observed in the
+collagenase group: two tendon ruptures, one pulley rupture and one complex
+regional pain syndrome. Two tendon ruptures were also reported in two collagenase
+case series. Non-randomised studies comparing collagenase with surgery produced
+variable results and were at high risk of bias. Serious adverse events across
+surgery studies were low. Recurrence rates ranged from 0% (at 90 days) to 100%
+(at 8 years) for collagenase and from 0% (at 2.7 years for fasciectomy) to 85%
+(at 5 years for PNF) for surgery. The results of the de novo economic analysis
+show that PNF was the cheapest treatment option, whereas LF generated the
+greatest QALY gains. Collagenase was more costly and generated fewer QALYs
+compared with LF. LF was £1199 more costly and generated an additional 0.11 QALYs
+in comparison with PNF. The incremental cost-effectiveness ratio was £10,871 per 
+QALY gained. Two subgroup analyses were conducted for a population of patients
+with moderate and severe disease and up to two joints affected. In both subgroup 
+analyses, collagenase remained dominated.
+LIMITATIONS: The main limitation of the review was the lack of head-to-head RCTs 
+comparing collagenase with surgery and the limited evidence base for estimating
+the effects of specific surgical procedures (fasciectomy and PNF). Substantial
+differences across studies further limited the comparability of available
+evidence. The economic model was derived from a naive indirect comparison and was
+hindered by a lack of suitable data. In addition, there was considerable
+uncertainty about the appropriateness of many assumptions and parameters used in 
+the model.
+CONCLUSIONS: Collagenase was significantly better than placebo. There was no
+evidence that collagenase was clinically better or worse than surgical
+treatments. LF was the most cost-effective choice to treat moderate to severe
+contractures, whereas collagenase was not. However, the results of the
+cost-utility analysis are based on a naive indirect comparison of clinical
+effectiveness, and a RCT is required to confirm or refute these findings.
+STUDY REGISTRATION: This study is registered as PROSPERO CRD42013006248.
+FUNDING: The National Institute for Health Research Health Technology Assessment 
+programme.
+
+DOI: 10.3310/hta19900 
+PMCID: PMC4781188
+PMID: 26524616  [PubMed - indexed for MEDLINE]

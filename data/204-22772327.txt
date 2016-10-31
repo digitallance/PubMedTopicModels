@@ -1,0 +1,34 @@
+
+
+204. Ann Rheum Dis. 2012 Sep;71(9):1440-7. doi: 10.1136/annrheumdis-2012-201295. Epub 
+2012 Jul 6.
+
+Whole genome and global expression profiling of Dupuytren's disease: systematic
+review of current findings and future perspectives.
+
+Shih B(1), Watson S, Bayat A.
+
+Author information: 
+(1)Correspondence to Dr Ardeshir Bayat, School of Translational Medicine,
+Manchester Interdisciplinary Biocentre, University of Manchester, 131 Princess
+Street, Manchester, M1 7DN, England, UK.
+
+Dupuytren's disease (DD) is a common fibroproliferative disorder affecting the
+palmar fascia, which may lead to permanent contracture of the affected digit.
+Profiling studies investigating DD at whole-genomic, transcriptomic and proteomic
+levels have been carried out, from which large numbers of candidate genes
+potentially involved in DD have been reported. This review focuses on identifying
+genes reported by multiple studies or validated by multiple experimental
+techniques, as well as signalling pathways suggested to contribute to DD.
+Meta-analysis was also carried out on three microarray datasets. Twenty-one genes
+were found to be reported as dysregulated in multiple gene expression
+microarrays, seven of which have been further validated by other experimental
+methods. Sixty-four genes determined to be dsyregulated by meta-analysis
+correlate to those reported by published microarray studies. In addition, several
+pathways have been proposed to be involved in DD by whole-genome or global
+expression profiling. Further investigation in these genes and pathways, and
+correlating them to genotypes or environmental factors for DD, may aid in further
+elucidation of mechanisms involved in DD pathogenesis.
+
+DOI: 10.1136/annrheumdis-2012-201295 
+PMID: 22772327  [PubMed - indexed for MEDLINE]

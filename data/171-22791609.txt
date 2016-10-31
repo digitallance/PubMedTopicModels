@@ -1,0 +1,29 @@
+
+
+171. J Hand Surg Eur Vol. 2013 May;38(4):424-9. doi: 10.1177/1753193412453359. Epub
+2012 Jul 11.
+
+Sibling recurrence risk in Dupuytren's disease.
+
+Capstick R(1), Bragg T, Giele H, Furniss D.
+
+Author information: 
+(1)Nuffield Department of Surgical Sciences, University of Oxford, UK.
+
+Dupuytren's disease is a complex condition, with both genetic and environmental
+factors contributing to its aetiology. We aimed to quantify the extent to which
+genetic factors predispose to the disease, through the calculation of sibling
+recurrence risk (ls), and to calculate the proportion of heritability accounted
+for by currently known genetic loci. From 174 siblings of patients with
+surgically confirmed disease, 100 were randomly selected. Controls were recruited
+from patients attending an ophthalmology outpatient clinic for eye conditions
+unrelated to diabetes. There were no statistically significant differences in
+baseline characteristics between the case and control groups. In siblings, 47%
+had Dupuytren's disease, compared with 10% of controls, giving a ls of 4.5.
+Currently known loci that predispose to Dupuytren's disease account for 12.1% of 
+the total heritability of the disease. Dupuytren's disease was significantly more
+common in siblings than in controls. These results accurately quantify the
+magnitude of the genetic predisposition to Dupuytren's disease.
+
+DOI: 10.1177/1753193412453359 
+PMID: 22791609  [PubMed - indexed for MEDLINE]

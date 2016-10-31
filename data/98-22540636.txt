@@ -1,0 +1,52 @@
+
+
+98. BMC Musculoskelet Disord. 2012 Apr 27;13:61. doi: 10.1186/1471-2474-13-61.
+
+Multiple concurrent collagenase clostridium histolyticum injections to
+Dupuytren's cords: an exploratory study.
+
+Coleman S(1), Gilpin D, Tursi J, Kaufman G, Jones N, Cohen B.
+
+Author information: 
+(1)Brisbane Hand and Upper Limb Clinic, Brisbane, Queensland, Australia.
+sgcoleman@optusnet.com.au
+
+BACKGROUND: Dupuytren's contracture (DC) is a progressive fibroproliferative
+disorder characterized by development of nodules and collagen cords within the
+palmar fascia of the hand. Collagenase clostridium histolyticum (CCH) is
+currently approved in adults with DC for the nonsurgical treatment of a single
+palpable cord during a 30-day treatment cycle. This open-label pilot study was
+designed to examine the safety, efficacy, and multiple-dose pharmacokinetics of
+injecting two cords (affected joints) with multiple doses of CCH concurrently
+into the same hand in subjects with DC and multiple contractures.
+METHODS: Twelve subjects with DC were enrolled, each with ≥3 contractures caused 
+by palpable cords. Efficacy assessments were taken 30 days after treatment and
+adverse events (AEs) were recorded throughout. In the first treatment period, all
+subjects were injected with a single dose of CCH (0.58 mg) into a single cord.
+The same subjects entered a second treatment period 30 days later, where two
+different cords (affected joints) were injected concurrently on the same hand. A 
+finger extension procedure was performed 24 hours after each administration of
+CCH to disrupt the enzymatically weakened cord.
+RESULTS: For metacarpophalangeal (MP) joints, mean contracture reduction per
+joint treated was 29.0 ± 20.7 degrees following single injection vs 30.3 ± 10.9
+degrees per treated joint following multiple injections. For proximal
+interphalangeal (PIP) joints, mean reduction in contracture was 30.7 ± 21.1 and
+22.1 ± 4.9 degrees per treated joint, respectively, for the two periods. All
+patients (100%) were either "quite satisfied" or "very satisfied" following
+either treatment cycle. The most common treatment-related AEs were edema
+peripheral, contusion, and pain in the treated extremity; the differences in
+severity for local effects of the injections were minimal between treatment
+periods. No serious treatment-related AEs or systemic complications were
+reported.
+CONCLUSION: These results provide preliminary evidence that two cords (affected
+joints) can be treated concurrently with CCH with similar efficacy and safety as 
+cords treated individually in a sequential fashion. Multiple concurrent
+injections would eliminate the 30-day wait between single treatments and allow
+for rapid and effective treatment of patients with multiple affected joints, a
+significant advantage for both patient and physician.
+TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry
+#ACTRN12610001045000.
+
+DOI: 10.1186/1471-2474-13-61 
+PMCID: PMC3409044
+PMID: 22540636  [PubMed - indexed for MEDLINE]

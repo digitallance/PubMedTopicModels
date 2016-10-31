@@ -1,0 +1,55 @@
+
+
+206. Plast Reconstr Surg. 2013 Dec;132(6):964e-76e. doi:
+10.1097/01.prs.0000434410.40217.23.
+
+Dupuytren disease: European hand surgeons, hand therapists, and physical medicine
+and rehabilitation physicians agree on a multidisciplinary treatment guideline:
+results from the HANDGUIDE study.
+
+Huisstede BM(1), Hoogvliet P, Coert JH, Fridén J; European HANDGUIDE Group.
+
+Collaborators: Antonio L, Arandes J, Calcagni M, Degreef I, Forsman M, Jung M,
+Larson S, Levadoux M, van Loon J, Mackenney E, Mathoulin C, Odinsson A, Schuurman
+A, Watson S, Weis T, Wilbrand S, Aglen T, Berkhout T, Boel S, Clift Z, Cotroneo
+C, Flodmark C, Hilmand B, Le Lardic C, Larson D, De Luca E, Lurie T, Marincek M, 
+Mayor C, Mee S, Neving M, Petelet M, Puggaard H, Vergouwen L, Videler A, Duruoz
+T, Felc A, Gonçalves L, van der Sluis C.
+
+Author information: 
+(1)Rotterdam, The Netherlands; and Gothenburg, Sweden From the Department of
+Rehabilitation Medicine and Physical Therapy and the Department of Plastic and
+Reconstructive Surgery and Hand Surgery, Erasmus MC-University Medical Center
+Rotterdam; the Department of Hand Surgery, Sahlgrenska University Hospital; and
+the Institute of Clinical Sciences, Sahlgrenska Academy, University of
+Gothenburg.
+
+BACKGROUND: Multidisciplinary treatment guidelines for Dupuytren disease can aid 
+in optimizing the quality of care for patients with this disorder. Therefore,
+this study aimed to achieve consensus on a multidisciplinary treatment guideline 
+for Dupuytren disease.
+METHODS: A European Delphi consensus strategy was initiated. A systematic review 
+reporting on the effectiveness of interventions was conducted and used as an
+evidence-based starting point for this study. In total, 39 experts (hand
+surgeons, hand therapists, and physical medicine and rehabilitation physicians)
+participated in the Delphi consensus strategy. Each Delphi round consisted of a
+questionnaire, an analysis, and a feedback report.
+RESULTS: After four Delphi rounds, consensus was achieved on the description,
+symptoms, and diagnosis of Dupuytren disease. No nonsurgical interventions were
+included in the guideline. Needle and open fasciotomy, and a limited fasciectomy 
+and dermofasciectomy, were seen as suitable surgical techniques for Dupuytren
+disease. Factors relevant for choosing one of these surgical techniques were
+identified and divided into patient-related (age, comorbidity), disease-related
+(palpable cord, previous surgery in the same area, skin involvement, time of
+recovery, recurrences), and surgeon-related (years of experience) factors.
+Associations of these factors with the choice of a specific surgical technique
+were reported in the guideline. Postsurgical rehabilitation should always include
+instructions and exercise therapy; postsurgical splinting should be performed on 
+indication. Relevant details for the use of surgical and postsurgical
+interventions were described.
+CONCLUSION: This treatment guideline is likely to promote further discussion on
+related clinical and scientific issues and may therefore contribute to better
+treatment of patients with Dupuytren disease.
+
+DOI: 10.1097/01.prs.0000434410.40217.23 
+PMID: 24281643  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,49 @@
+
+
+254. Am J Pathol. 2015 Dec;185(12):3326-37. doi: 10.1016/j.ajpath.2015.08.011. Epub
+2015 Oct 10.
+
+YAP1 Is a Driver of Myofibroblast Differentiation in Normal and Diseased
+Fibroblasts.
+
+Piersma B(1), de Rond S(1), Werker PM(2), Boo S(3), Hinz B(3), van Beuge MM(1),
+Bank RA(4).
+
+Author information: 
+(1)Department of Pathology and Medical Biology, University of Groningen,
+University Medical Center Groningen, Matrix Research Group, Groningen, The
+Netherlands. (2)Department of Plastic Surgery, University of Groningen,
+University Medical Center Groningen, Groningen, The Netherlands. (3)Laboratory of
+Tissue Repair and Regeneration, Matrix Dynamics Group, Faculty of Dentistry,
+University of Toronto, Toronto, Ontario, Canada. (4)Department of Pathology and
+Medical Biology, University of Groningen, University Medical Center Groningen,
+Matrix Research Group, Groningen, The Netherlands. Electronic address:
+r.a.bank@umcg.nl.
+
+Dupuytren disease is a fibrotic disorder characterized by contraction of
+myofibroblast-rich cords and nodules in the hands. The Hippo member
+Yes-associated protein 1 (YAP1) is activated by tissue stiffness and the
+profibrotic transforming growth factor-β1, but its role in cell fibrogenesis is
+yet unclear. We hypothesized that YAP1 regulates the differentiation of dermal
+fibroblasts into highly contractile myofibroblasts and that YAP1 governs the
+maintenance of a myofibroblast phenotype in primary Dupuytren cells. Knockdown of
+YAP1 in transforming growth factor-β1-stimulated dermal fibroblasts decreased the
+formation of contractile smooth muscle α-actin stress fibers and the deposition
+of collagen type I, which are hallmark features of myofibroblasts. Translating
+our findings to a clinically relevant model, we found that YAP1 deficiency in
+Dupuytren disease myofibroblasts resulted in decreased expression of ACTA2,
+COL1A1, and CCN2 mRNA, but this did not result in decreased protein levels.
+YAP1-deficient Dupuytren myofibroblasts showed decreased contraction of a
+collagen hydrogel. Finally, we showed that YAP1 levels and nuclear localization
+were elevated in affected Dupuytren disease tissue compared with matched control 
+tissue and partly co-localized with smooth muscle α-actin-positive cells. In
+conclusion, our data show that YAP1 is a regulator of myofibroblast
+differentiation and contributes to the maintenance of a synthetic and contractile
+phenotype, in both transforming growth factor-β1-induced myofibroblast
+differentiation and primary Dupuytren myofibroblasts.
+
+Copyright © 2015 American Society for Investigative Pathology. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajpath.2015.08.011 
+PMID: 26458763  [PubMed - indexed for MEDLINE]

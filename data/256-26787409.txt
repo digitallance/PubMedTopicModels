@@ -1,0 +1,45 @@
+
+
+256. J Hand Surg Am. 2016 Mar;41(3):354-61; quiz 361. doi: 10.1016/j.jhsa.2015.10.027.
+Epub 2016 Jan 16.
+
+Clusters in Short-term Disease Course in Participants With Primary Dupuytren
+Disease.
+
+Lanting R(1), van den Heuvel ER(2), Werker PM(3).
+
+Author information: 
+(1)Department of Plastic Surgery, University Medical Center Groningen, University
+of Groningen, Groningen, The Netherlands. Electronic address: r.lanting@umcg.nl. 
+(2)Department of Mathematics and Computer Science, Eindhoven University of
+Technology, Eindhoven, The Netherlands. (3)Department of Plastic Surgery,
+University Medical Center Groningen, University of Groningen, Groningen, The
+Netherlands.
+
+PURPOSE: The course of Dupuytren disease (DD) is thought to be progressive;
+however, the course differs for each patient. The purpose of this study was to
+study the rate and pattern of progression of DD.
+METHODS: We prospectively analyzed the course of DD at intervals of 3 to 6 months
+in 247 Dutch participants with primary DD by measuring the surface area of
+nodules and cords and the total passive extension deficit. The association
+between surface area and Tubiana stage was tested with generalized estimating
+equations. Latent class models were used to study different clusters in changes
+regarding the course of the disease.
+RESULTS: The variance in disease course between participants was large. Regarding
+the change in surface area (in all fingers) and total passive extension deficit
+(in the ring and little finger), different clusters were observed. Progression of
+disease was seen but there were also signs of stability and even regression.
+Patients with a smaller surface area at baseline were more likely to exhibit
+regression.
+CONCLUSIONS: This study showed that DD is not always progressive and that up to
+75% of patients have a different short-term disease course, such as stability or 
+even regression of disease. This should be taken into account when evaluating the
+effects of treatment for early-phase DD and in the design of future studies.
+Furthermore, this information may be useful when counseling patients.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Prognostic II.
+
+Copyright © 2016 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2015.10.027 
+PMID: 26787409  [PubMed - in process]

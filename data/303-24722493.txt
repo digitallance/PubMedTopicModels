@@ -1,0 +1,54 @@
+
+
+303. Diabetes Care. 2014 Jul;37(7):1863-9. doi: 10.2337/dc13-2361. Epub 2014 Apr 10.
+
+Musculoskeletal complications in type 1 diabetes.
+
+Larkin ME(1), Barnie A(2), Braffett BH(3), Cleary PA(3), Diminick L(3), Harth
+J(4), Gatcomb P(5), Golden E(6), Lipps J(7), Lorenzi G(8), Mahony C(9), Nathan
+DM(9); Diabetes Control and Complications Trial/Epidemiology of Diabetes
+Interventions and Complications Research Group.
+
+Author information: 
+(1)Massachusetts General Hospital Diabetes Research Center, Harvard University,
+Boston, MA mlarkin1@partners.org. (2)Mt. Sinai Hospital, University of Toronto,
+Toronto, Ontario, Canada. (3)The Biostatistics Center, The George Washington
+University, Rockville, MD. (4)University of Western Ontario, London, Ontario,
+Canada. (5)Yale School of Medicine, Yale University, New Haven, CT. (6)Joslin
+Diabetes Center, Boston, MA. (7)Division of Diabetes, Endocrinology, &
+Metabolism, Vanderbilt University, Nashville, TN. (8)Department of Medicine,
+University of California San Diego, La Jolla, CA. (9)Massachusetts General
+Hospital Diabetes Research Center, Harvard University, Boston, MA.
+
+OBJECTIVE: The development of periarticular thickening of skin on the hands and
+limited joint mobility (cheiroarthropathy) is associated with diabetes and can
+lead to significant disability. The objective of this study was to describe the
+prevalence of cheiroarthropathy in the well-characterized Diabetes Control and
+Complications Trial/Epidemiology of Diabetes Interventions and Complications
+(DCCT/EDIC) cohort and examine associated risk factors, microvascular
+complications, and the effect of former DCCT therapy (intensive [INT] vs.
+conventional [CONV]) on its development.
+RESEARCH DESIGN AND METHODS: This cross-sectional analysis was performed in 1,217
+participants (95% of the active cohort) in EDIC years 18/19 after an average of
+24 years of follow-up. Cheiroarthropathy-defined as the presence of any one of
+the following: adhesive capsulitis, carpal tunnel syndrome, flexor tenosynovitis,
+Dupuytren's contracture, or a positive prayer sign-was assessed using a targeted 
+medical history and standardized physical examination. A self-administered
+questionnaire (Disabilities of the Arm, Shoulder and Hand [DASH]) assessed
+functional disability.
+RESULTS: Cheiroarthropathy was present in 66% of subjects (64% of the INT group
+and 68% of the CONV group; P = 0.1640) and was associated with age, sex, diabetes
+duration, skin intrinsic fluorescence, HbA1c, neuropathy, and retinopathy (P <
+0.005 for each). DASH functional disability scores were worse among subjects with
+cheiroarthropathy (P < 0.0001).
+CONCLUSIONS: Cheiroarthropathy is common in people with type 1 diabetes of long
+duration (∼30 years) and is related to longer duration and higher levels of
+glycemia. Clinicians should include cheiroarthropathy in their routine history
+and physical examination of patients with type 1 diabetes because it causes
+clinically significant functional disability.
+
+© 2014 by the American Diabetes Association.
+
+DOI: 10.2337/dc13-2361 
+PMCID: PMC4067398
+PMID: 24722493  [PubMed - indexed for MEDLINE]

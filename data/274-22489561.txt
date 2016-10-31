@@ -1,0 +1,44 @@
+
+
+274. J Sex Med. 2012 May;9(5):1430-4. doi: 10.1111/j.1743-6109.2012.02704.x. Epub 2012
+Apr 10.
+
+WNT2 locus is involved in genetic susceptibility of Peyronie's disease.
+
+Dolmans GH(1), Werker PM, de Jong IJ, Nijman RJ; LifeLines Cohort Study, Wijmenga
+C, Ophoff RA.
+
+Author information: 
+(1)Department of Plastic Surgery, University Medical Center Groningen and
+University of Groningen, Groningen, the Netherlands.
+
+INTRODUCTION: Peyronie's disease (PD) is a fibromatosis of the penis, with a
+pathology very similar to what is seen in the hand (palmar fascia) in Dupuytren's
+disease (DD). Recently, we performed a genome-wide association study and
+identified nine genetic loci containing common variants associated with DD. Seven
+of these loci mapped within or near genes of the canonical WNT pathway and each
+locus yielded relatively large odds ratios (ORs) for DD disease status.
+AIM: Given the clinical overlap between PD and DD, we examined whether the nine
+DD susceptibility loci are also involved in PD.
+METHODS: An association study was performed using a case/control design. From
+2007 to 2010, we prospectively included 111 men who had been clinically diagnosed
+with PD. Control subjects (N = 490 males) were randomly drawn from a
+population-based cohort from the same region of the Netherlands. Allele
+frequencies in the 111 PD cases and 490 controls were compared using a
+1-degree-of-freedom basic chi-square test. A P value < 0.05 after Bonferroni
+correction for the nine tested single nucleotide polymorphisms (SNPs) was
+considered statistically significant (i.e., P < 0.0056).
+MAIN OUTCOME MEASURE: Association of genetic markers (SNPs) with PD.
+RESULTS: We observed significant association with SNP rs4730775 at the
+wingless-type MMTV integration site family member 2 (WNT2) locus on chromosome 7 
+(P = 0.0015, OR 0.61), but found no evidence for the other eight loci being
+involved with PD despite the large effect size seen for some of these variants in
+DD. The WNT2 association was even more significant after we removed 15 patients
+with comorbid DD.
+CONCLUSIONS: WNT2 is a susceptibility locus for PD and our finding provides
+evidence for a partly shared genetic susceptibility between PD and DD.
+
+© 2012 International Society for Sexual Medicine.
+
+DOI: 10.1111/j.1743-6109.2012.02704.x 
+PMID: 22489561  [PubMed - indexed for MEDLINE]

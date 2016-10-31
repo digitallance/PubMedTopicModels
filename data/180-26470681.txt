@@ -1,0 +1,49 @@
+
+
+180. Transl Res. 2015 Dec;166(6):762-771.e3. doi: 10.1016/j.trsl.2015.09.006. Epub
+2015 Sep 25.
+
+Wnt pathway in Dupuytren disease: connecting profibrotic signals.
+
+van Beuge MM(1), Ten Dam EJ(2), Werker PM(3), Bank RA(4).
+
+Author information: 
+(1)Department of Pathology and Medical Biology, University Medical Center
+Groningen, University of Groningen, Groningen, The Netherlands. Electronic
+address: m.m.van.beuge@umcg.nl. (2)Department of Pathology and Medical Biology,
+University Medical Center Groningen, University of Groningen, Groningen, The
+Netherlands; Department of Plastic Surgery, University Medical Center Groningen, 
+Groningen, The Netherlands. (3)Department of Plastic Surgery, University Medical 
+Center Groningen, Groningen, The Netherlands. (4)Department of Pathology and
+Medical Biology, University Medical Center Groningen, University of Groningen,
+Groningen, The Netherlands.
+
+A role of Wnt signaling in Dupuytren disease, a fibroproliferative disease of the
+hand and fingers, has not been fully elucidated. We examined a large set of Wnt
+pathway components and signaling targets and found significant dysregulation of
+41 Wnt-related genes in tissue from the Dupuytren nodules compared with
+patient-matched control tissue. A large proportion of genes coding for Wnt
+proteins themselves was downregulated. However, both canonical Wnt targets and
+components of the noncanonical signaling pathway were upregulated.
+Immunohistochemical analysis revealed that protein expression of Wnt1-inducible
+secreted protein 1 (WISP1), a known Wnt target, was increased in nodules compared
+with control tissue, but knockdown of WISP1 using small interfering RNA (siRNA)
+in the Dupuytren myofibroblasts did not confirm a functional role. The protein
+expression of noncanonical pathway components Wnt5A and VANGL2 as well as
+noncanonical coreceptors Ror2 and Ryk was increased in nodules. On the contrary, 
+the strongest downregulated genes in this study were 4 antagonists of Wnt
+signaling (DKK1, FRZB, SFRP1, and WIF1). Downregulation of these genes in the
+Dupuytren tissue was mimicked in vitro by treating normal fibroblasts with
+transforming growth factor β1 (TGF-β1), suggesting cross talk between different
+profibrotic pathways. Furthermore, siRNA-mediated knockdown of these antagonists 
+in normal fibroblasts led to increased nuclear translocation of Wnt target
+β-catenin in response to TGF-β1 treatment. In conclusion, we have shown extensive
+dysregulation of Wnt signaling in affected tissue from Dupuytren disease
+patients. Components of both the canonical and the noncanonical pathways are
+upregulated, whereas endogenous antagonists are downregulated, possibly via
+interaction with other profibrotic pathways.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.trsl.2015.09.006 
+PMID: 26470681  [PubMed - indexed for MEDLINE]

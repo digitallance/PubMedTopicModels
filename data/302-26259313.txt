@@ -1,0 +1,39 @@
+
+
+302. J Assoc Physicians India. 2014 Sep;62(9):788-92.
+
+Prevalence of Rheumatological Manifestations in Diabetic Population from
+North-West India.
+
+Agrawal RP, Gothwal S, Tantia P, Agrawal R, Rijhwani P, Sirohi P, Meel JK.
+
+Comment in
+    J Assoc Physicians India. 2014 Sep;62(9):781-2.
+
+INTRODUCTION: An increased prevalence of rheumatological manifestations is
+recognised in diabetes and is a common source of disability. The relationship
+with other risk factors and glycaemic control is uncertain. We designed this
+study to find out the prevalence of rheumatological manifestations, association
+with various risk factors and to assess differences between type 1 and type 2
+diabetes.
+MATERIAL AND METHODS: The study was conducted from Jan 2010 to Dec 2011 at
+tertiary care hospital. We recorded type of diabetes, various risk factors viz
+age, duration of diabetes, glycaemic control (HbA1C) and BMI and noted prevalence
+of various rheumatological manifestations by clinical examination, X-ray and if
+needed CT scan/MRI. We explored correlation between rheumatological
+manifestations and these variables using logistic regression.
+RESULTS: The prevalence of rheumatological manifestations was estimated at 570
+per 1000 population. The manifestations were more common in type 1 diabetes
+(62.7%). The various complications observed in the present study were DISH (13%),
+Frozen Shoulder (20%), Dupuytren's Contracture (7.2%), Osteoarthritis (36.1%),
+Neuroarthropathy (2.9%), Chieroarthropathy (22.6%) and Flexor Tenosynovitis
+(8.1%). Among various risk factors, duration of diabetes (odd ratio: 5.127), BMI 
+(odd ratio: 7.429) and age (odd ratio: 4.731) were common risk factors. Poor
+glycaemic control was also associated with increased prevalence of
+rheumatological manifestations.
+CONCLUSION: Rheumatologic manifestations are very common in diabetics and are
+associated with poor glycaemic control, BMI, duration of diabetes and age of the 
+patients.
+
+
+PMID: 26259313  [PubMed - indexed for MEDLINE]

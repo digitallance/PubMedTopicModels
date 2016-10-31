@@ -1,0 +1,38 @@
+
+
+11. Occup Environ Med. 2014 Apr;71(4):241-5. doi: 10.1136/oemed-2013-101981. Epub
+2014 Jan 21.
+
+Dupuytren's contracture and occupational exposure to hand-transmitted vibration.
+
+Palmer KT(1), D'Angelo S, Syddall H, Griffin MJ, Cooper C, Coggon D.
+
+Author information: 
+(1)MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton, UK.
+
+AIMS: The relation between Dupuytren's contracture and occupational exposure to
+hand-transmitted vibration (HTV) has frequently been debated. We explored
+associations in a representative national sample of workers with
+well-characterised exposure to HTV.
+METHODS: We mailed a questionnaire to 21 201 subjects aged 16-64 years, selected 
+at random from the age-sex registers of 34 general practices in Great Britain and
+to 993 subjects chosen randomly from military pay records, asking about
+occupational exposure to 39 sources of HTV and about fixed flexion contracture of
+the little or ring finger. Analysis was restricted to men at work in the previous
+week. Estimates were made of average daily vibration dose (A(8) root mean squared
+velocity (rms)) over that week. Associations with Dupuytren's contracture were
+estimated by Poisson regression, for lifetime exposure to HTV and for exposures
+in the past week >A(8) of 2.8 ms(-2) rms. Estimates of relative risk (prevalence 
+ratio (PR)) were adjusted for age, smoking status, social class and certain
+manual activities at work.
+RESULTS: In all 4969 eligible male respondents supplied full information on the
+study variables. These included 72 men with Dupuytren's contracture, 2287 with
+occupational exposure to HTV and 409 with A(8)>2.8 ms(-2) in the past week. PRs
+for occupational exposure to HTV were elevated 1.5-fold. For men with an A(8)>2.8
+ms(-2) in the past week, the adjusted PR was 2.85 (95% CI 1.37 to 5.97).
+CONCLUSIONS: Our findings suggest that risk of Dupuytren's contracture is more
+than doubled in men with high levels of weekly exposure to HTV.
+
+DOI: 10.1136/oemed-2013-101981 
+PMCID: PMC3963601
+PMID: 24449599  [PubMed - indexed for MEDLINE]

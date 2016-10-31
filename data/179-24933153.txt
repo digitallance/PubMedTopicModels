@@ -1,0 +1,53 @@
+
+
+179. PLoS One. 2014 Jun 16;9(6):e99967. doi: 10.1371/journal.pone.0099967. eCollection
+2014.
+
+First identification of resident and circulating fibrocytes in Dupuytren's
+disease shown to be inhibited by serum amyloid P and Xiapex.
+
+Iqbal SA(1), Hayton MJ(2), Watson JS(3), Szczypa P(4), Bayat A(5).
+
+Author information: 
+(1)Plastic & Reconstructive Surgery Research, Manchester Institute of
+Biotechnology, University of Manchester, Manchester, United Kingdom.
+(2)Department of Hand and Upper Limb Surgery, Wrightington Hospital,
+Wrightington, United Kingdom. (3)Department of Plastic and Reconstructive
+Surgery, University Hospital South Manchester NHS Foundation Trust, Wythenshawe
+Hospital, Manchester, United Kingdom. (4)Medical Affairs Pfizer Ltd, Tadworth,
+Surrey, United Kingdom. (5)Plastic & Reconstructive Surgery Research, Manchester 
+Institute of Biotechnology, University of Manchester, Manchester, United Kingdom;
+Department of Plastic and Reconstructive Surgery, University Hospital South
+Manchester NHS Foundation Trust, Wythenshawe Hospital, Manchester, United
+Kingdom.
+
+Dupuytren's disease (DD) is a common progressive fibroproliferative disorder
+causing permanent digital contracture. Proliferative myofibroblasts are thought
+to be the cells responsible for DD initiation and recurrence, although their
+source remains unknown. DD tissue has also been shown to harbor mesenchymal and
+hematopoietic stem cells. Fibrocytes are circulating cells that show
+characteristics of fibroblasts and they express surface markers for both
+hematopoietic and mesenchymal stromal cells. Fibrocytes differentiate from
+peripheral CD14+ mononuclear cells, which can be inhibited by serum amyloid P
+(SAP). In this study we have demonstrated the presence of fibrocytes in DD blood 
+and tissue, moreover we have evaluated the effects of SAP and Xiapex (Collagenase
+Clostridium histolyticum) on fibrocytes derived from DD. H&E staining showed
+typical Spindle shaped morphology of fibrocytes. FACS analysis based on a unique 
+combination of 3 markers, revealed the increased presence of fibrocytes in blood 
+and tissue of DD patients. Additionally, immunohistology of DD nodule and cord
+tissue showed the presence of collagen 1+/CD34+ cells. No difference in plasma
+SAP levels was observed between DD and control. Higher concentrations of SAP
+significantly inhibited fibrocytes differentiated from DD derived monocytes
+compared to control. DD fascia derived fibrocytes showed resistance to growth
+inhibition by SAP, particularly nodule derived fibrocytes showed robust growth
+even at higher SAP concentrations compared to control. DD derived fibrocytes were
+positive for typical fibrocyte dual markers, i.e. Collagen 1/LSP-1 and collagen
+1/CD34. Xiapex was more effective in inhibiting the growth of nodule derived
+cells compared to commercially available collagenase A. Our results show for the 
+first time the increased presence of fibrocytes in DD patient's blood and disease
+tissue compared to control tissue. Additionally, we evaluate the response of
+these fibrocytes to SAP and Xiapex therapy.
+
+DOI: 10.1371/journal.pone.0099967 
+PMCID: PMC4059720
+PMID: 24933153  [PubMed - indexed for MEDLINE]

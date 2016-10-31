@@ -1,0 +1,40 @@
+
+
+181. Plast Reconstr Surg. 2013 Aug;132(2):394-403. doi: 10.1097/PRS.0b013e3182958a33.
+
+Prevalence of Dupuytren disease in The Netherlands.
+
+Lanting R(1), van den Heuvel ER, Westerink B, Werker PM.
+
+Author information: 
+(1)Department of Plastic Surgery, University of Groningen, University Medical
+Center, Groningen, The Netherlands. r.lanting@umcg.nl
+
+BACKGROUND: Dupuytren disease is a fibroproliferative disease of palmar fascias
+of the hand. The prevalence of Dupuytren disease and the association with
+potential risk factors have been the subject of several studies, although there
+is a paucity of such data from The Netherlands.
+METHODS: To study the prevalence of Dupuytren disease, the authors drew a random 
+sample of 1360 individuals, stratified by age, from the northern part of The
+Netherlands. Of this sample, 763 individuals aged 50 to 89 years participated in 
+this cross-sectional study. The authors examined both hands for signs of
+Dupuytren disease, and a questionnaire was conducted to identify potential risk
+factors. The effects of these risk factors were investigated using logistic
+regression analysis. Additional analyses were performed to develop a logistic
+prediction model for the prevalence of Dupuytren disease.
+RESULTS: The prevalence of Dupuytren disease was 22.1 percent. Nodules and cords 
+were seen in 17.9 percent, and flexion contractures were present in 4.2 percent
+of the study population. Prevalence increased with age, from 4.9 percent in
+participants aged 50 to 55 years to 52.6 percent among those aged 76 to 80 years.
+Men were more often affected than women; 26.4 percent versus 18.6 percent,
+respectively (p=0.007). Other significant risk factors were previous hand injury,
+excessive alcohol consumption, familial occurrence of Dupuytren disease, and
+presence of Ledderhose disease.
+CONCLUSIONS: The results show a high prevalence of Dupuytren disease in The
+Netherlands, particularly the nodular form. Using the developed logistic
+prediction model, the prevalence of Dupuytren disease can be estimated, based on 
+the presence of significant risk factors.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Risk, III.
+
+DOI: 10.1097/PRS.0b013e3182958a33 
+PMID: 23897337  [PubMed - indexed for MEDLINE]

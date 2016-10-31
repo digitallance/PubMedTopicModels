@@ -1,0 +1,41 @@
+
+
+275. Plast Reconstr Surg. 2013 Sep;132(3):381e-6e. doi: 10.1097/PRS.0b013e31829acc74.
+
+Does the gatekeeper model work in hand surgery?
+
+Hartzell TL(1), Shahbazian JH, Pandey A, Girson LA, Rubinstein R, Bojovic B,
+Bernthal N, Azari KK, Benhaim P.
+
+Author information: 
+(1)Department of Surgery, Faith Regional Health Services, 301 North 27th Street, 
+Suite 8, Norfolk, NE 6870, USA. tristanhartzell@gmail.com
+
+BACKGROUND: Most managed care plans use a physician "gatekeeper" to control
+referrals to hand surgeons. The appropriateness of this model for upper extremity
+complaints has never been challenged. The purpose of this study was to evaluate
+the prior management of patients with elective hand disorders who present to a
+hand surgery clinic.
+METHODS: All patients presenting to a tertiary, academic medical center for a
+new-patient hand surgery evaluation from February 3, 2011, to June 15, 2011, were
+prospectively enrolled. Patients were evaluated for prior provider, diagnosis,
+treatment, and complications. Actual diagnosis, recommended workup, and
+appropriate treatment were determined independently by two experienced hand
+examiners. Traumatic injuries and surgeon disagreements in diagnosis and
+treatment were excluded, leaving 125 patients.
+RESULTS: Ninety-eight percent of patients had been evaluated by a primary care
+provider. Overall, the correct diagnosis was established 34 percent of the time. 
+Nerve compression syndromes were diagnosed with the greatest accuracy (64
+percent), whereas stenosing tenosynovitis was diagnosed correctly only 15 percent
+of the time. Before presentation, 74 percent of patients had undergone a study or
+intervention. On review, 70 percent of studies/interventions were deemed
+unnecessary. Advanced imaging was unwarranted in 90 percent of patients who
+received it. Seventeen percent of patients experienced a complication. Most (67
+percent) were caused by a delay in diagnosis, whereas 33 percent resulted from an
+intervention.
+CONCLUSIONS: Health care providers less familiar with an examination of the hand 
+often misdiagnose and mistreat common problems. A referral system may not be the 
+most efficient means of delivering care to patients with elective hand maladies.
+
+DOI: 10.1097/PRS.0b013e31829acc74 
+PMID: 23985650  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,49 @@
+
+
+278. Medicine (Baltimore). 2015 Oct;94(41):e1575. doi: 10.1097/MD.0000000000001575.
+
+Risk of Hand Syndromes in Patients With Diabetes Mellitus: A Population-Based
+Cohort Study in Taiwan.
+
+Chen LH(1), Li CY, Kuo LC, Wang LY, Kuo KN, Jou IM, Hou WH.
+
+Author information: 
+(1)From the Department and Graduate Institute of Public Health (L-HC, C-YL,
+L-YW), College of Medicine, National Cheng Kung University, Tainan; Department of
+Public Health (C-YL), College of Public Health, China Medical University,
+Taichung; Department of Occupational Therapy (L-CK), College of Medicine,
+National Cheng Kung University, Tainan; Center of Evidence-Based Medicine (KNK,
+W-HH), Taipei Medical University, Taipei; Department of Orthopedics (I-MJ),
+National Cheng Kung University Hospital, Tainan; Master Program in Long-Term Care
+(W-HH), College of Nursing, Taipei Medical University, Taipei; School of
+Gerontology Health Management (W-HH), College of Nursing, Taipei Medical
+University, Taipei; and Department of Physical Medicine and Rehabilitation
+(W-HH), Taipei Medical University Hospital, Taipei, Taiwan.
+
+The aim of this study was to assess the overall and cause-specific incidences of 
+diabetic hand syndromes (DHS) in patients with diabetes mellitus (DM) by using
+age and sex stratifications.The DM and control cohorts comprised 606,152 patients
+with DM and 609,970 age- and sex-matched subjects, respectively, who were
+followed up from 2000 to 2008. We estimated the incidence densities (IDs) of
+overall and cause-specific DHS, namely carpal tunnel syndrome (CTS), stenosing
+flexor tenosynovitis (SFT), limited joint mobility (LJM), and Dupuytren disease
+(DD), and calculated the hazard ratios (HRs) of DHS in relation to DM by using a 
+Cox proportional hazards model with adjustment for potential confounders.Over a
+9-year period, 51,207 patients with DM (8.45%) and 39,153 matched controls
+(6.42%) sought ambulatory care visits for various DHS, with an ID of 117.7 and
+80.7 per 10,000 person-years, respectively. The highest cause-specific ID was
+observed for CTS, followed by SFT, LJM, and DD, regardless of the diabetic
+status. After adjustment for potential confounders, patients with DM had a
+significantly high HR of overall DHS (1.51, 95% confidence interval
+[CI] = 1.48-1.53). Men and women aged <35 years had the highest HR (2.64, 95%
+CI = 2.15-3.24 and 2.99, 95% CI = 2.55-3.50, respectively). Cause-specific
+analyses revealed that DM was more strongly associated with SFT (HR = 1.90, 95%
+CI = 1.86-1.95) and DD (HR = 1.83, 95% CI = 1.39-2.39) than with CTS (HR = 1.31, 
+95% CI = 1.28-1.34) and LJM (HR = 1.24, 95% CI = 1.13-1.35).Men and younger
+patients with DM have the highest risk of DHS. Certain hand syndromes, such as
+SFT and DD, were more strongly associated with DM than with other syndromes and
+require the attention of clinicians.
+
+DOI: 10.1097/MD.0000000000001575 
+PMCID: PMC4616773
+PMID: 26469895  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+63. BMC Musculoskelet Disord. 2014 Apr 2;15:117. doi: 10.1186/1471-2474-15-117.
+
+Surgical treatment of Dupuytren's disease - outcome and health economy in
+relation to smoking and diabetes.
+
+Eckerdal D, Nivestam A, Dahlin LB(1).
+
+Author information: 
+(1)Department of Clinical Sciences Malmö - Hand Surgery, Lund University and
+Skåne University Hospital, Malmö, Sweden. lars.dahlin@med.lu.se.
+
+BACKGROUND: The conventional treatment for Dupuytren's disease is surgery. The
+introduction of alternative treatment strategies creates a need to track outcomes
+and costs relating to surgical treatment and risk factors, such as smoking and
+diabetes. This was the aim of the present study.
+METHODS: In a prospective study, the outcome of open surgical treatment for
+finger flexion contracture in Dupuytren's disease (175 patients; 182 surgical
+procedures) was studied by evaluating valid QuickDASH forms answered by subjects 
+before surgery and one year postoperatively. Data were also obtained from medical
+records, and preoperative declarations concerning health.
+RESULTS: In all subjects (median [25% - 75% percentiles] age 68 [62-73]), the
+QuickDASH score improved from 22 [9-36] to 5 [0-18]. Smokers (27/179 procedures) 
+were younger and had a more severe degree of disease and dysfunction
+preoperatively than non-smokers, but the outcome of surgery did not differ
+between the groups. Subjects with diabetes (20/181 procedures) were younger than 
+those without diabetes, but their disease severity or outcome did not differ.
+Hand specialists operated faster than residents, but the surgical outcome did not
+differ. Healthcare costs for surgery for Dupuytren's contracture were $ 2392 (€
+1859), which were not higher among smokers or subjects with diabetes. Only 22
+patients remained in hospital (2 [1-2.3] days) and 28 patients needed sick leave 
+(28 [21-31] days). The occurrence of necrosis of skin flaps (12%) or infections
+(6%) was no more frequent among smokers or those with diabetes.
+CONCLUSIONS: There is no difference in surgical outcome for finger flexion
+contracture in Dupuytren's disease between smokers and non-smokers or between
+subjects with or without diabetes, although smokers had more severe preoperative 
+contracture. The costs for surgical treatment for finger flexion contracture in
+Dupuytren's disease should be viewed in relation to that for other treatment
+strategies.
+
+DOI: 10.1186/1471-2474-15-117 
+PMCID: PMC3976502
+PMID: 24694095  [PubMed - indexed for MEDLINE]

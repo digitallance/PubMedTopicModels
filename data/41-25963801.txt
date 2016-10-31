@@ -1,0 +1,39 @@
+
+
+41. Rheumatol Int. 2015 Aug;35(8):1343-50. doi: 10.1007/s00296-015-3276-3. Epub 2015 
+May 12.
+
+Screening of candidate genes in fibroblasts derived from patients with
+Dupuytren's contracture using bioinformatics analysis.
+
+Liu H(1), Yin W, Liu B, Liu Y, Guo B, Wei Z.
+
+Author information: 
+(1)Department of Hand Surgery, China-Japan Union Hospital of Jilin University,
+126 Xiantai Street, Changchun, 130031, China.
+
+Our study aimed to identify candidate genes associated with Dupuytren's
+contracture (DC) and elucidate their roles in DC development. The microarray data
+of GSE21221 were downloaded from Gene Expression Omnibus database, including six 
+samples from carpal tunnel-derived fibroblasts and six samples from DC-derived
+fibroblasts. The differentially expressed genes (DEGs) in DC samples were
+screened using limma package. GO annotation and KEGG pathway analyses were
+performed by DAVID online tool. Protein-protein interaction network and
+expression correlation network were constructed to identify crucial relationships
+between DEGs. Finally, candidate DC-associated genes were predicted based on
+comparative toxicogenomics database. A total of 529 DEGs (138 up- and 391
+down-regulated) in DC-derived fibroblasts were screened and compared with carpal 
+tunnel-derived fibroblasts. Only ten DC-associated genes, such as neurotrophin 3 
+(NTF3) and protein kinase C, epsilon (PRKCE), were further screened. In addition,
+NTF3 was significantly enriched in MAPK signaling pathway, in which other DEGs,
+such as nuclear receptor subfamily 4, group A, member 1 (NR4A1), fibroblast
+growth factor 22 (FGF22) and BDNF, were enriched. Besides, NTF3 could co-express 
+with fibrillin 2 (FBN2), and PRKCE could co-express with zinc finger protein 516 
+(ZNF516), solute carrier organic anion transporter family, member 2A1 (SLCO2A1), 
+chromosome 10 open reading frame 10 (C10orf10) and Kelch domain containing 7A
+(KLHDC7A). Our study indicates that these DEGs, including NTF3, FBN2, NR4A1,
+FGF22, BDNF, PRKCE, ZNF516, SLCO2A1, C10orf10 and KLHDC7A, may play important
+roles in DC development and serve as candidate molecular targets for treating DC.
+
+DOI: 10.1007/s00296-015-3276-3 
+PMID: 25963801  [PubMed - indexed for MEDLINE]

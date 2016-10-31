@@ -1,0 +1,30 @@
+
+
+211. Am J Occup Ther. 2012 Jan-Feb;66(1):98-103.
+
+Interrater reliability in finger joint goniometer measurement in Dupuytren's
+disease.
+
+Engstrand C(1), Krevers B, Kvist J.
+
+Author information: 
+(1)Department of Hand Surgery, Plastic Surgery and Burns, Rehab Unit Floor 09,
+Linkoping University Hospital, S-581 85 Linkoping, Sweden.
+Christina.Engstrand@lio.se
+
+We investigated interrater reliability of motion (ROM) measurement in the finger 
+joints of people with Dupuytren's disease. Eight raters measured flexion and
+extension of the three finger joints in one affected finger of each of 13 people 
+with different levels of severity of Dupuytren's disease, giving 104 measures of 
+joints and motions. Reliability measures, represented by intraclass correlation
+coefficient (ICC), standard error of the mean (SEM), and differences between
+raters with the highest and lowest mean scores, were calculated. ICCs ranged from
+.832 to .973 depending on joint and motion. The SEM was ≤3° for all joints and
+motions. Differences in mean between highest and lowest raters were larger for
+flexion than for extension; the largest difference was in the distal
+interphalangeal joint. The results indicate that following these standardized
+guidelines, the interrater reliability of goniometer measurements is high for
+digital ROM in people with Dupuytren's disease.
+
+
+PMID: 22389944  [PubMed - indexed for MEDLINE]

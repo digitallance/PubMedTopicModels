@@ -1,0 +1,38 @@
+
+
+22. Foot Ankle Int. 2013 Jun;34(6):841-5. doi: 10.1177/1071100713475352. Epub 2013
+Feb 5.
+
+Association of Morbus Ledderhose with Dupuytren's contracture.
+
+Gudmundsson KG(1), Jónsson T, Arngrímsson R.
+
+Author information: 
+(1)Reykjavik Primary Health Care, Glaesibaer, 104 Reykjavik, Iceland.
+kristgud@simmet.is
+
+BACKGROUND: Fibromatous nodules in the sole of the foot are often called
+Ledderhose disease. It is a benign nodular formation in the plantar aponeurosis, 
+typically at the distal medial border. A lump forms and it can be a few
+centimeters in diameter. It is frequently seen as an isolated disease, but a
+relationship to Dupuytren's has been noted in some patients.
+METHODS: The study was a part of a large cohort study, the Reykjavík study. Men
+with Dupuytren's disease (n = 122) were invited to follow-up 18 years after the
+initial observation. An equal number of controls, matched for age and smoking
+habits, were also invited. A total of 92 Dupuytren's patients and 101 control
+subjects attended for follow-up and were examined for plantar nodules.
+Statistical evaluation was carried out using chi-square test and presented as
+odds ratio (OR) and 95% confidence interval (95% CI).
+RESULTS: Ledderhose disease was identified in 14 of the 92 (15.2%) men with
+Dupuytren's disease, while it was only in 4 of the 101 (3.9%) matched controls
+(OR = 4.35, 95% CI, 1.3-16.7, P < 0.01). Men operated for Dupuytren's disease or 
+with finger contractures were more likely to have plantar nodules than those with
+only nodules or strings in the palms (OR = 6.1, 95% CI, 1.8-27.1, P < 0.001). The
+plantar involvement was related to family history of Dupuytren's disease (OR =
+3.1, 95% CI, 1.1-8.5, P = 0.02).
+CONCLUSION: Men with manifestations of finger contractures or who need surgery
+for Dupuytren's disease are more likely to also develop plantar fibromas.
+LEVEL OF EVIDENCE: Level III, retrospective comparative series.
+
+DOI: 10.1177/1071100713475352 
+PMID: 23386754  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+28. Mol Med Rep. 2015 Jul;12(1):482-8. doi: 10.3892/mmr.2015.3458. Epub 2015 Mar 9.
+
+Identification and function analysis of contrary genes in Dupuytren's
+contracture.
+
+Ji X(1), Tian F(1), Tian L(1).
+
+Author information: 
+(1)Department of Hand and Foot Surgery, Shengjing Hospital, China Medical
+University, Shenyang, Liaoning 110003, P.R. China.
+
+The present study aimed to analyze the expression of genes involved in
+Dupuytren's contracture (DC), using bioinformatic methods. The profile of
+GSE21221 was downloaded from the gene expression ominibus, which included six
+samples, derived from fibroblasts and six healthy control samples, derived from
+carpal-tunnel fibroblasts. A Distributed Intrusion Detection System was used in
+order to identify differentially expressed genes. The term contrary genes is
+proposed. Contrary genes were the genes that exhibited opposite expression
+patterns in the positive and negative groups, and likely exhibited opposite
+functions. These were identified using Coexpress software. Gene ontology (GO)
+function analysis was conducted for the contrary genes. A network of GO terms was
+constructed using the reduce and visualize gene ontology database. Significantly 
+expressed genes (801) and contrary genes (98) were screened. A significant
+association was observed between Chitinase-3-like protein 1 and ten genes in the 
+positive gene set. Positive regulation of transcription and the activation of
+nuclear factor-κB (NF-κB)-inducing kinase activity exhibited the highest degree
+values in the network of GO terms. In the present study, the expression of genes 
+involved in the development of DC was analyzed, and the concept of contrary genes
+proposed. The genes identified in the present study are involved in the positive 
+regulation of transcription and activation of NF-κB-inducing kinase activity. The
+contrary genes and GO terms identified in the present study may potentially be
+used for DC diagnosis and treatment.
+
+DOI: 10.3892/mmr.2015.3458 
+PMID: 25760233  [PubMed - indexed for MEDLINE]

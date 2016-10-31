@@ -1,0 +1,42 @@
+
+
+94. Hand (N Y). 2015 Sep;10(3):578-82. doi: 10.1007/s11552-014-9714-y.
+
+Delayed manipulation after collagenase clostridium histolyticum injection for
+Dupuytren contracture.
+
+Kaplan FT(1), Badalamente MA(2), Hurst LC(2), Merrell GA(1), Pahk R(2).
+
+Author information: 
+(1)Indiana Hand to Shoulder Center, 8501 Harcourt Rd, Indianapolis, IN 46260 USA.
+(2)Department of Orthopaedics, Stony Brook University Medical Center, Stony
+Brook, NY USA.
+
+BACKGROUND: Collagenase clostridium histolyticum (CCH) injection for Dupuytren
+contracture was approved in the USA in 2010. Current FDA guidelines stipulate
+that finger manipulation occurs the day following injection. To investigate the
+safety and efficacy of delaying manipulation to 2 or 4 days following CCH
+injection, we conducted a prospective, randomized trial at two sites.
+METHODS: Patients with Dupuytren contracture involving the metacarpophalangeal
+(MCP) joint ≥20° caused by a palpable cord participated. All patients received
+one dose of CCH (0.58 mg/0.25 ml) and were followed for 90 days. The primary end 
+point was the percent of patients maintaining clinical success (reduction of
+contracture to 0°-5°) at 90 days post-injection. Adverse events and change in
+Michigan Hand Questionnaire (MHQ) score were recorded as secondary end points.
+RESULTS: Thirty-seven patients enrolled; 13 were manipulated on day 1, 11 on day 
+2, and 13 on day 4. At 30 days after injection, the percentage of patients
+obtaining reduction of contracture to <0°-5° extension was 92, 82, and 85 % in
+groups 1, 2, and 3, respectively, with no significant difference. At 90 days
+follow-up, the percentage of patients maintaining 0°-5° extension was 91, 82, and
+83 % in groups 1, 2, and 3, respectively, with no significant difference. Adverse
+events were comparable to rates in prior studies. There were no serious adverse
+events. There was no statistical difference in MHQ scores between groups at any
+time point.
+CONCLUSIONS: Delaying manipulation to day 2 or 4 following CCH injection for MCP 
+joint contractures does not increase adverse events or result in loss of
+efficacy.
+LEVEL OF EVIDENCE: Therapeutic, Level II.
+
+DOI: 10.1007/s11552-014-9714-y 
+PMCID: PMC4551642
+PMID: 26330801  [PubMed]

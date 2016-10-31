@@ -1,0 +1,43 @@
+
+
+105. Proc Natl Acad Sci U S A. 2013 Mar 5;110(10):E928-37. doi:
+10.1073/pnas.1301100110. Epub 2013 Feb 19.
+
+Unraveling the signaling pathways promoting fibrosis in Dupuytren's disease
+reveals TNF as a therapeutic target.
+
+Verjee LS(1), Verhoekx JS, Chan JK, Krausgruber T, Nicolaidou V, Izadi D,
+Davidson D, Feldmann M, Midwood KS, Nanchahal J.
+
+Author information: 
+(1)Kennedy Institute of Rheumatology, University of Oxford, London W6 8LH, United
+Kingdom.
+
+Dupuytren's disease is a very common progressive fibrosis of the palm leading to 
+flexion deformities of the digits that impair hand function. The cell responsible
+for development of the disease is the myofibroblast. There is currently no
+treatment for early disease or for preventing recurrence following surgical
+excision of affected tissue in advanced disease. Therefore, we sought to unravel 
+the signaling pathways leading to the development of myofibroblasts in
+Dupuytren's disease. We characterized the cells present in Dupuytren's tissue and
+found significant numbers of immune cells, including classically activated
+macrophages. High levels of proinflammatory cytokines were also detected in
+tissue from Dupuytren's patients. We compared the effects of these cytokines on
+contraction and profibrotic signaling pathways in fibroblasts from the palmar and
+nonpalmar dermis of Dupuytren's patients and palmar fibroblasts from
+non-Dupuytren's patients. Exogenous addition of TNF, but not other cytokines,
+including IL-6 and IL-1β, promoted differentiation into specifically of palmar
+dermal fibroblasts from Dupuytren's patients in to myofibroblasts. We also
+demonstrated that TNF acts via the Wnt signaling pathway to drive contraction and
+profibrotic signaling in these cells. Finally, we examined the effects of
+targeted cytokine inhibition. Neutralizing antibodies to TNF inhibited the
+contractile activity of myofibroblasts derived from Dupuytren's patients, reduced
+their expression of α-smooth muscle actin, and mediated disassembly of the
+contractile apparatus. Therefore, we showed that localized inflammation in
+Dupuytren's disease contributes to the development and progression of this
+fibroproliferative disorder and identified TNF as a therapeutic target to
+down-regulate myofibroblast differentiation and activity.
+
+DOI: 10.1073/pnas.1301100110 
+PMCID: PMC3593900
+PMID: 23431165  [PubMed - indexed for MEDLINE]

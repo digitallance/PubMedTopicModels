@@ -1,0 +1,38 @@
+
+
+230. BMC Res Notes. 2012 Oct 2;5:542. doi: 10.1186/1756-0500-5-542.
+
+High-energy focussed extracorporeal shockwave therapy reduces pain in plantar
+fibromatosis (Ledderhose's disease).
+
+Knobloch K(1), Vogt PM.
+
+Author information: 
+(1)Plastic, Hand and Reconstructive Surgery, Burn Center, Hannover Medical
+School, Carl-Neuberg-Str 1, Hannover 30625, Germany.
+knobloch.karsten@mh-hannover.de
+
+BACKGROUND: Plantar fibromatosis is a benign disease creating nodules on the
+medial plantar side of affected patients. While surgical removal is regarded as
+the therapeutic mainstay, recurrence rates and impairment of daily activities
+remains substantial. High-energy focussed extracorporeal shockwave therapy has
+been suggested to be potentially effective in plantar fibromatosis in terms of
+pain reduction.
+HYPOTHESIS: High-energy focussed extracorporeal shockwave therapy reduces pain in
+plantar fibromatosis.
+FINDINGS: A total number of six patients (5 males, 58±4 years) were included with
+plantar fibromatosis (Ledderhose's disease) associated with pain. Three patients 
+were operated on previously, one had concomitant Dupuytren's contracture.
+High-energy focussed ESWT was applied using a Storz Duolith SD1 (2000 impulses, 3
+Hz, 1.24 mJ/mm²) in two sessions with 7 days between. Pain was 6±2 at baseline,
+2±1 after 14 days and 1±1 after 3 months. Softening of the nodules was noted by
+all patients. No adverse effects were noted.
+CONCLUSIONS: High-energy focussed extracorporeal shockwave energy reduces pain in
+painful plantar fibromatosis (Morbus Ledderhose). Further large-scale prospective
+trials are warranted to elucidate the value of high-energy focussed
+extracorporeal shockwave therapy (ESWT) in plantar fibromatosis in terms of
+recurrence and efficacy.
+
+DOI: 10.1186/1756-0500-5-542 
+PMCID: PMC3637402
+PMID: 23031080  [PubMed - indexed for MEDLINE]

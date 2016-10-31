@@ -1,0 +1,44 @@
+
+
+12. BMC Musculoskelet Disord. 2014 Oct 30;15:361. doi: 10.1186/1471-2474-15-361.
+
+Psychometric evaluation of the Disabilities of the Arm, Shoulder and Hand (DASH) 
+with Dupuytren's contracture: validity evidence using Rasch modeling.
+
+Forget NJ, Jerosch-Herold C, Shepstone L, Higgins J(1).
+
+Author information: 
+(1)École de réadaptation, Université de Montréal, Montreal, Canada.
+johanne.higgins@umontreal.ca.
+
+BACKGROUND: Dupuytren's contracture is a progressive, fibroproliferative disorder
+that causes fixed finger contractures and can lead to disability. With the
+advances of new therapeutic interventions, the necessity to assess the functional
+repercussions of this condition using valid, reliable and sensitive outcome
+measures is of growing interest. The Disabilities of the Arm, Shoulder and Hand
+(DASH) is one frequently used patient-reported outcome measure but its
+reliability and validity have never been demonstrated specifically for a
+population affected with Dupuytren's contracture. The objective of this study was
+to evaluate the psychometric properties of the DASH, with focus on validity
+evidence using the Rasch measurement model.
+METHODS: Secondary analysis was performed on data collected as part of a
+randomised clinical trial. One hundred fifty-three participants diagnosed with
+Dupuytren's contracture completed the DASH at four time points (pre-op, 3, 6 and 
+12 months post-op). Baseline data were analysed using traditional analysis and to
+test whether they adhered to the expectations of the Rasch model.
+Post-intervention data were subsequently included and analyzed to determine the
+effect of the intervention on the items.
+RESULTS: DASH scores demonstrated large ceiling effects at all time points.
+Initial fit to the Rasch model revealed that the DASH did not adhere to the
+expectations of the Rasch partial credit model (χ2=119.92; p<0.05). Multiple
+items displayed inadequate response categories and two items displayed
+differential item functioning by gender. Items were transformed and one item
+deleted leading to an adequate fit. Remaining items fit the Rasch model but still
+do not target well the population under study.
+CONCLUSIONS: The original version of the 30-item DASH did not display adequate
+validity evidence for use in a population with Dupuytren's contracture. Further
+development is required to improve the DASH for this population.
+
+DOI: 10.1186/1471-2474-15-361 
+PMCID: PMC4228176
+PMID: 25358527  [PubMed - indexed for MEDLINE]

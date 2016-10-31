@@ -1,0 +1,51 @@
+
+
+38. Curr Med Res Opin. 2014 Apr;30(4):733-9. doi: 10.1185/03007995.2013.874990. Epub 
+2014 Jan 9.
+
+The efficacy and safety of collagenase clostridium histolyticum in the treatment 
+of patients with moderate Dupuytren's contracture.
+
+McGrouther DA(1), Jenkins A, Brown S, Gerber RA, Szczypa P, Cohen B.
+
+Author information: 
+(1)University Hospital of South Manchester , Manchester , UK.
+
+OBJECTIVE: The efficacy and safety of collagenase clostridium histolyticum (CCH) 
+in patients with Dupuytren's contracture (DC) was demonstrated in a program
+including two pivotal phase 3 clinical trials (CORD I and II) which included
+patients with a broad range of disease severity. This analysis assessed the
+efficacy and safety of CCH in the subpopulation of DC patients with up to two
+joints affected and moderate disease according to British Society of Surgery of
+the Hand classification. This was in support of a resubmission to the Scottish
+Medicines Consortium.
+RESEARCH DESIGN AND METHODS: A post-hoc analysis that included data from patients
+with up to two joints affected and moderate disease treated with CCH during the
+randomized and open-label phases of CORD I and II.
+RESULTS: Of 362 patients who received CCH during the two trials, 58 had one or
+two joints affected and moderate disease. Sixty-seven joints were treated; 49
+patients received treatment for one joint, and 9 patients received treatment for 
+two joints. Each patient received an average of 1.62 injections of CCH per joint.
+Of 65 evaluable joints, 82% met the primary endpoint of clinical success
+(reduction in contracture to ≤5° of full extension 30 days after the last
+injection). This was similar if only primary joints were considered (81% achieved
+clinical success). Recurrence at 12 months (increase in joint contracture to ≥20°
+in the presence of a palpable cord in joints that had attained clinical success) 
+was observed in 3.8% of joints. Reported adverse events were mild to moderate in 
+intensity; none resulted in discontinuation.
+CONCLUSIONS: CORD I and II show that CCH is well tolerated and effective in the
+treatment of DC in a broad population. The present analysis suggests that CCH has
+particular value in patients with moderate severity disease and up to two joints 
+affected.
+STUDY LIMITATIONS: This analysis used data from both the randomized and
+open-label phases of CORD I and II; therefore, it is not possible to present
+comparative data for this subpopulation. As this was a post-hoc analysis in a
+relatively small patient subpopulation, statistical comparisons with the full
+population were not considered appropriate. Furthermore, the small sample size
+means that additional subgroup analyses, for example of patients by previous
+treatment or number of injections administered, are not appropriate.
+Nevertheless, the data presented demonstrate that CCH is both well tolerated and 
+effective in this population when managed by appropriately trained individuals.
+
+DOI: 10.1185/03007995.2013.874990 
+PMID: 24397625  [PubMed - indexed for MEDLINE]

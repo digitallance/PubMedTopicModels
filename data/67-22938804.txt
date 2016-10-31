@@ -1,0 +1,51 @@
+
+
+67. J Hand Surg Am. 2012 Oct;37(10):2095-2105.e7. doi: 10.1016/j.jhsa.2012.06.032.
+Epub 2012 Aug 30.
+
+Correction of contracture and recurrence rates of Dupuytren contracture following
+invasive treatment: the importance of clear definitions.
+
+Werker PM(1), Pess GM, van Rijssen AL, Denkler K.
+
+Author information: 
+(1)University of Groningen, University Medical Centre Groningen, The Netherlands.
+p.m.n.werker@umcg.nl
+
+PURPOSE: To call attention to the wide variety of definitions for recurrence that
+have been employed in studies of different invasive procedures for the treatment 
+of Dupuytren contracture and how this important limitation has contributed to the
+wide range of reported results.
+METHODS: This study reviewed definitions and rates of contracture correction and 
+recurrence in patients undergoing invasive treatment of Dupuytren contracture. A 
+literature search was carried out in January 2011 using the terms "Dupuytren" AND
+("fasciectomy" OR "fasciotomy" OR "dermofasciectomy" OR "aponeurotomy" OR
+"aponeurectomy") and limited to studies in English.
+RESULTS: The search returned 218 studies, of which 21 had definitions,
+quantitative results for contracture correction and recurrence, and a sample size
+of at least 20 patients. Definitions for correction of contracture and recurrence
+varied greatly among articles and were almost always qualitative. Percentages of 
+patients who achieved correction of contracture (ie, responder rate) when
+evaluated at various times after completion of surgery ranged from 15% to 96% for
+fasciectomy/aponeurectomy. Responder rates were not reported for
+fasciotomy/aponeurotomy. Recurrence rates ranged from 12% to 73% for patients
+treated with fasciectomy/aponeurectomy and from 33% to 100% for
+fasciotomy/aponeurotomy. Review of these reports underscored the difficulty
+involved in comparing correction of contracture and recurrence rates for
+different surgical interventions because of differences in definition and
+duration of follow-up.
+CONCLUSIONS: Clearly defined objective definitions for correction of contracture 
+and for recurrence are needed for more meaningful comparisons of results achieved
+with different surgical interventions.
+CLINICAL RELEVANCE: Recurrence after surgical intervention for Dupuytren
+contracture is common. This study, which evaluated reported rates of recurrence
+following surgical treatment of Dupuytren contracture, provides clinicians with
+practical information regarding expected long-term outcomes of surgical treatment
+choices.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Economic and decision analysis III.
+
+Copyright © 2012 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2012.06.032 
+PMID: 22938804  [PubMed - indexed for MEDLINE]

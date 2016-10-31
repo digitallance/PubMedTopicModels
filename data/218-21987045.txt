@@ -1,0 +1,44 @@
+
+
+218. Plast Reconstr Surg. 2012 Feb;129(2):469-77. doi: 10.1097/PRS.0b013e31823aea95.
+
+Five-year results of a randomized clinical trial on treatment in Dupuytren's
+disease: percutaneous needle fasciotomy versus limited fasciectomy.
+
+van Rijssen AL(1), ter Linden H, Werker PM.
+
+Author information: 
+(1)Department of Plastic, Reconstructive and Hand Surgery, Isala Clinics, Zwolle,
+The Netherlands. annetvanrijssen@hotmail.com
+
+Comment in
+    Plast Reconstr Surg. 2012 Jul;130(1):200e-201e; author reply 201e-202e.
+
+BACKGROUND: The increasing number of methods for treating Dupuytren's disease
+indicates a need for comparative studies. In this article, the 5-year follow-up
+results of a randomized controlled study that compared percutaneous needle
+fasciotomy and limited fasciectomy are presented.
+METHODS: One hundred eleven patients with 115 affected hands with a minimal
+passive extension deficit of 30 degrees were assigned randomly to the two groups.
+Follow-up examinations were performed at 1 and 6 weeks; 6 months; and 1, 2, 3, 4,
+and 5 years. Outcome parameters were total passive extension deficit, patient
+satisfaction, flexion, and sensibility. Furthermore, disease extension was
+recorded. The primary endpoint was recurrence, defined as an increase of total
+passive extension deficit of greater than 30 degrees. Ninety-three patients
+reached this endpoint.
+RESULTS: The recurrence rate after 5 years in the needle fasciotomy group (84.9
+percent) was significantly higher than in the limited fasciectomy group (20.9
+percent) (p < 0.001), and occurred significantly sooner in the needle fasciotomy 
+group (p = 0.001). Older age at the time of treatment decreased the recurrence
+rate (p = 0.005). No other diathesis characteristics influenced recurrence.
+Patient satisfaction was high in both groups but was significantly higher in the 
+limited fasciectomy group. Nevertheless, many patients (53 percent) preferred
+percutaneous needle fasciotomy in case of recurrence.
+CONCLUSIONS: Percutaneous needle fasciotomy is the preferred treatment for
+elderly patients with Dupuytren's disease and for those willing to accept a
+possible early recurrence in the context of the advantages, such as fast
+recovery, a low complication rate, and minimal invasiveness.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, II.
+
+DOI: 10.1097/PRS.0b013e31823aea95 
+PMID: 21987045  [PubMed - indexed for MEDLINE]

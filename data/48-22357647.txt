@@ -1,0 +1,42 @@
+
+
+48. Clin Vaccine Immunol. 2012 Apr;19(4):562-9. doi: 10.1128/CVI.00018-12. Epub 2012 
+Feb 22.
+
+Assessment of potential cross-reactivity of human endogenous matrix
+metalloproteinases with collagenase Clostridium histolyticum antibodies in human 
+sera obtained from patients with Dupuytren's contracture.
+
+Edkins TJ(1), Koller-Eichhorn R, Alhadeff JA, Mayer U, Faust H, Del Tito BJ.
+
+Author information: 
+(1)Edkins Pharma Services, LLC, Wayne, Pennsylvania, USA.
+
+Collagenase Clostridium histolyticum (CCH) contains a fixed ratio of class I
+(AUX-I) and class II (AUX-II) collagenases and is used as treatment for
+Dupuytren's contracture. These two Zn-dependent enzymes, produced by the
+Gram-positive bacterium Clostridium histolyticum, are related functionally to
+matrix metalloproteinases (MMPs) which, among other functions, degrade the
+extracellular matrix. Since AUX-I and AUX-II exhibit sequence similarities to
+human MMPs, we assessed MMP-1 (interstitial collagenase), MMP-2 (gelatinase A),
+MMP-3 (stromelysin 1), MMP-8 (collagenase 2), and MMP-13 (collagenase 3) for
+cross-reactivity with anti-AUX-I and anti-AUX-II antibodies in patient serum.
+Serum samples from 71 subjects enrolled in a long-term clinical study (58 males
+and 13 females; 63 ± 10 years old [mean ± standard error]) were evaluated for
+cross-reactivity with the five MMPs using the two validated enzyme-linked
+immunosorbent assays (ELISAs). Inhibition cutoff points for anti-AUX-I and
+anti-AUX-II antibodies were based on assay inhibition obtained with a nonspecific
+protein, bovine gamma globulin, which was tested for each clinical sample. No MMP
+cross-reactivity was found for any of the 71 clinical antibody-positive sera
+evaluated. Sequence identity assessments indicated minimal, nonmeaningful
+alignments of the MMPs and AUX-I/AUX-II. Furthermore, clinical adverse event
+assessments indicated no safety signals related to MMP inhibition. The
+bioanalytical results, sequence identity, and clinical assessments consistently
+did not demonstrate cross-reactivity between CCH antidrug antibodies and
+endogenous human matrix metalloproteinases. The results presented here suggest
+that treatment of Dupuytren's contracture patients with CCH does not lead to any 
+clinical adverse events associated with MMP inhibition.
+
+DOI: 10.1128/CVI.00018-12 
+PMCID: PMC3318279
+PMID: 22357647  [PubMed - indexed for MEDLINE]

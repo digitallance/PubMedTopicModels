@@ -1,0 +1,55 @@
+
+
+65. J Hand Surg Am. 2015 May;40(5):975-83. doi: 10.1016/j.jhsa.2015.02.018. Epub 2015
+Apr 2.
+
+Efficacy and safety of collagenase clostridium histolyticum in the treatment of
+proximal interphalangeal joints in dupuytren contracture: combined analysis of 4 
+phase 3 clinical trials.
+
+Badalamente MA(1), Hurst LC(2), Benhaim P(2), Cohen BM(2).
+
+Author information: 
+(1)Department of Orthopaedics, State University of New York (SUNY) at Stony Brook
+Health Sciences Center, Stony Brook, NY; Department of Orthopaedic Surgery,
+Ronald Reagan UCLA Medical Center, Los Angeles, CA; Department of Biometrics,
+Auxilium Pharmaceuticals, Inc., Chesterbrook, PA. Electronic address:
+marie.badalamente@stonybrookmedicine.edu. (2)Department of Orthopaedics, State
+University of New York (SUNY) at Stony Brook Health Sciences Center, Stony Brook,
+NY; Department of Orthopaedic Surgery, Ronald Reagan UCLA Medical Center, Los
+Angeles, CA; Department of Biometrics, Auxilium Pharmaceuticals, Inc.,
+Chesterbrook, PA.
+
+PURPOSE: To examine the results of proximal interphalangeal (PIP) joint
+contractures from 4 phase 3 clinical trials of collagenase clostridium
+histolyticum (CCH) injection for Dupuytren contracture.
+METHODS: Patients enrolled in Collagenase Option for Reduction of Dupuytren I/II 
+and JOINT I/II with one or more PIP joint contractures (20° to 80°) received CCH 
+0.58 mg/0.20 mL or placebo (Collagenase Option for Reduction of Dupuytren I/II
+only) injected directly into a palpable cord. The percentage of PIP joints
+achieving clinical success (0° to 5° of full extension), clinical improvement
+(50% or more reduction in baseline contracture), and range of motion improvement 
+at 30 days after the first and last CCH injections was assessed. The PIP joint
+contractures were classified into low (40° or less) and high (more than 40°)
+baseline severity. Adverse events were recorded.
+RESULTS: A total of 506 adults (mean age, 63 ± 10 y; 80% male) received 1,165 CCH
+injections in 644 PIP joint cords (mean, 1.6 injections/cord). Most patients
+(60%) received 1 injection, with 24%, 16%, and 1% receiving 2, 3, and 4
+injections, respectively. Clinical success and clinical improvement occurred in
+27% and 49% of PIP joints after one injection and in 34% and 58% after the last
+injection. Patients with lower baseline severity showed greater improvement and
+response was comparable between fingers, as were improvements in range of motion.
+Adverse events occurring in more than 10% of patients were peripheral edema
+(58%), contusion (38%), injection site hemorrhage (23%), injection site pain
+(21%), injection site swelling (16%), and tenderness (13%). This incidence was
+consistent with data reported in phase 3 trials. Two tendon ruptures occurred. No
+further ruptures occurred after a modified injection technique was adopted.
+CONCLUSIONS: Collagenase clostridium histolyticum was effective and well
+tolerated in the short term in patients with Dupuytren PIP joint contractures.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic II.
+
+Copyright © 2015 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2015.02.018 
+PMID: 25843533  [PubMed - indexed for MEDLINE]

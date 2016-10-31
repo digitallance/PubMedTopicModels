@@ -1,0 +1,59 @@
+
+
+159. BMC Musculoskelet Disord. 2015 Feb 10;16:20. doi: 10.1186/s12891-015-0476-7.
+
+Epidemiological profile of Dupuytren's disease in Taiwan (Ethnic Chinese): a
+nationwide population-based study.
+
+Yeh CC(1), Huang KF(2), Ho CH(3,)(4), Chen KT(5), Liu C(6), Wang JJ(7,)(8), Chu
+CC(9,)(10).
+
+Author information: 
+(1)Division of Plastic Surgery, Department of Surgery, Chi-Mei Medical Center,
+Yong-Kang, Tainan, Taiwan. frankyeh1977@gmail.com. (2)Division of Plastic
+Surgery, Department of Surgery, Chi-Mei Medical Center, Yong-Kang, Tainan,
+Taiwan. d881101@mail.chimei.org.tw. (3)Department of Medical Research, Chi-Mei
+Medical Center, Tainan, Taiwan. ho.c.hank@gmail.com. (4)Department of Hospital
+and Health Care Administration, Chia-Nan University of Pharmacy and Science,
+Tainan, Taiwan. ho.c.hank@gmail.com. (5)Department of Anesthesiology, Chi Mei
+Medical Center, 901 Zhonghua Road, Yongkang District, Tainan, 71004, Taiwan.
+chengt890219@gmail.com. (6)Division of Plastic Surgery, Department of Surgery,
+Chi-Mei Medical Center, Yong-Kang, Tainan, Taiwan. orangeliu@gmail.com.
+(7)Department of Medical Research, Chi-Mei Medical Center, Tainan, Taiwan.
+400002@mail.chimei.org.tw. (8)Department of Anesthesiology, Chi Mei Medical
+Center, 901 Zhonghua Road, Yongkang District, Tainan, 71004, Taiwan.
+400002@mail.chimei.org.tw. (9)Department of Anesthesiology, Chi Mei Medical
+Center, 901 Zhonghua Road, Yongkang District, Tainan, 71004, Taiwan.
+chinchen.chu@gmail.com. (10)Department of Recreation and Health-Care Management, 
+Chia-Nan University of Pharmacy and Science, Tainan, Taiwan.
+chinchen.chu@gmail.com.
+
+BACKGROUND: The epidemiologic profile of ethnic Chinese patients with Dupuytren's
+disease is unknown. We therefore investigated the epidemiology of Dupuytren's
+disease using Taiwan's National Health Insurance Research Database.
+METHODS: Patients who filed claims for treatment for Dupuytren's disease between 
+January 2000 and December 2011 were identified in the database. Age- and
+gender-specific incidences were estimated by dividing the incidence number by
+population data.
+RESULTS: We identified 1,078 patients with Dupuytren's disease (681 men, 397
+women; male/female ratio: 1:1.72). The annual incidence rate ranged from
+0.39-0.63/10(5) for men and 0.14-0.44/10(5) for women. A trend analysis revealed 
+a rising trend in the annual incidence from 2001 to 2011 (p = 0.0199). The
+prevalence rate increased steadily from 0.46/10(5) in 2000 to 4.52/10(5) in 2011 
+(p = 0.0186). The mean age at onset was significantly higher in men than in women
+(60.7 ± 18.4 vs. 53.7 ± 15.5 years). Peak age at onset for men was 70-79 (28.1%) 
+and for women was 50-59 (33.5%). Men > 60 years old had higher incidence rates
+than did women (incidence rate ratios: 2.0, 4.5, and 6.6 for those 60-69, 70-79, 
+and ≥ 80, respectively). Hypertension (29.6%), diabetes mellitus (21.9%),
+hyperlipidemia (14.8%), ischemic heart disease (10.5%), and chronic obstructive
+pulmonary disease (8.0%) were the most common comorbidities.
+CONCLUSIONS: The incidence and prevalence of Dupuytren's disease and the
+male/female ratio were significantly lower in ethnic Chinese than in Western
+ethnic groups. Moreover, the age at onset was significantly lower in ethnic
+Chinese women. However, the incidences of three comorbidities (hypertension,
+diabetes mellitus, and hyperlipidemia) were similar to those in other
+ethnicities.
+
+DOI: 10.1186/s12891-015-0476-7 
+PMCID: PMC4324654
+PMID: 25881036  [PubMed - indexed for MEDLINE]

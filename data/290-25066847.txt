@@ -1,0 +1,40 @@
+
+
+290. Hand Clin. 2014 Aug;30(3):285-92, v. doi: 10.1016/j.hcl.2014.04.008.
+
+Measuring and understanding treatment effectiveness in hand surgery.
+
+Voineskos SH(1), Coroneos CJ(2), Thoma A(3), Bhandari M(4).
+
+Author information: 
+(1)Division of Plastic and Reconstructive Surgery, Department of Surgery,
+McMaster University, HSC 4E12, 1200 Main Street West, Hamilton, Ontario L8N 3Z5, 
+Canada; Surgical Outcomes Research Centre (SOURCE), McMaster University, 202-39
+Charlton Avenue East, Hamilton, Ontario L8N 1Y3, Canada. Electronic address:
+sophocles.voineskos@medportal.ca. (2)Division of Plastic and Reconstructive
+Surgery, Department of Surgery, McMaster University, HSC 4E12, 1200 Main Street
+West, Hamilton, Ontario L8N 3Z5, Canada; Surgical Outcomes Research Centre
+(SOURCE), McMaster University, 202-39 Charlton Avenue East, Hamilton, Ontario L8N
+1Y3, Canada. (3)Division of Plastic and Reconstructive Surgery, Department of
+Surgery, McMaster University, HSC 4E12, 1200 Main Street West, Hamilton, Ontario 
+L8N 3Z5, Canada; Surgical Outcomes Research Centre (SOURCE), McMaster University,
+202-39 Charlton Avenue East, Hamilton, Ontario L8N 1Y3, Canada; Department of
+Clinical Epidemiology and Biostatistics, McMaster University HSC 2C, 1280 Main
+Street West, Hamilton, Ontario L8S 4K1, Canada. (4)Department of Clinical
+Epidemiology and Biostatistics, McMaster University HSC 2C, 1280 Main Street
+West, Hamilton, Ontario L8S 4K1, Canada; Division of Orthopaedic Surgery,
+Department of Surgery, McMaster University, Well-Health Building, 293 Wellington 
+Street North, Hamilton, Ontario L8L 8E7, Canada.
+
+Incorporating evidence-based medicine into practice is now an expectation for
+hand surgeons. Hand surgeons need to be able to assess associated benefits,
+risks, cost, and applicability of a treatment option when providing care to their
+patients. Using a clinical example, this article takes the reader through the
+three-step approach when using a publication from the medical literature on
+therapy. The focus of this article is primarily the second and third steps, which
+involve measuring and understanding treatment effectiveness.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.hcl.2014.04.008 
+PMID: 25066847  [PubMed - indexed for MEDLINE]

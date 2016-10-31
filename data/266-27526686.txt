@@ -1,0 +1,54 @@
+
+
+266. BMC Musculoskelet Disord. 2016 Aug 15;17(1):345. doi: 10.1186/s12891-016-1200-y.
+
+Systematic review of non-surgical treatments for early dupuytren's disease.
+
+Ball C(1), Izadi D(2), Verjee LS(2), Chan J(2), Nanchahal J(2).
+
+Author information: 
+(1)Kennedy Institute of Rheumatology, University of Oxford, Roosevelt Drive,
+Headington, Oxford, OX3 7FY, UK. cathy.ball@kennedy.ox.ac.uk. (2)Kennedy
+Institute of Rheumatology, University of Oxford, Roosevelt Drive, Headington,
+Oxford, OX3 7FY, UK.
+
+BACKGROUND: Dupuytren's disease is a common fibrotic disorder of the palm
+characterized by the development of progressive flexion deformities in the
+digits, leading to significant functional impairment. Surgical excision remains
+the most common treatment. However, this is only indicated in patients with
+established contractures rather than those with early disease. Early disease is
+generally characterized by the presence of palmar nodules with limited or no
+contracture of the fingers. The ideal treatment would be directed at patients
+with early progressive disease to prevent future deterioration. Various
+non-surgical treatment modalities have been described but there is currently no
+systematic assessment of the role and efficacy of these treatments in patients
+with early disease.
+METHODS: Using a PICOS analysis we reviewed publications of studies of patients
+with early disease who had received physical therapies, pharmacological
+treatment, or radiotherapy. Following PRISMA guidelines titles and abstract were 
+screened using predefined criteria to identify those reporting outcomes
+specifically relating to the treatment of early disease. In the absence of a
+definition of early disease studies were included if early DD was described
+clinically, with digital contractures not exceeding 30°, Tubiana grades N to 1,
+and which reported identifiable data. Studies were excluded if data for early DD 
+patients could not be extracted for analysis.
+RESULTS: In this systematic review, 26 studies were identified and analyzed to
+evaluate the effect of pharmacological therapy (n = 11), physical therapy (n = 5)
+and radiotherapy (n = 10) on early Dupuytren's disease. The studies comprised 20 
+case series, 1 cohort study with the remainder reporting case studies. All
+publications were graded level of evidence 4 or 5 assessed using the Oxford
+Centre for Evidence Based Medicine grading. Narrative descriptions of the data
+are presented.
+CONCLUSIONS: Physical therapies were the most robustly assessed, using objective 
+measures but the studies were under powered, providing insufficient evidence of
+efficacy. Intralesional steroid injection and radiotherapy appeared to lead to
+softening of nodules and to retard disease progression but lacked rigorous
+evaluation and studies were poorly designed. There is an urgent need for
+adequately powered double blinded randomized trials for this common disorder
+which affects 4 % of the population.
+TRIAL REGISTRATION: The protocol was registered ( CRD42015008986 16 November
+2015) with the PROSPERO international prospective register of systematic reviews.
+
+DOI: 10.1186/s12891-016-1200-y 
+PMCID: PMC4986253
+PMID: 27526686  [PubMed - in process]

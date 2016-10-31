@@ -1,0 +1,46 @@
+
+
+186. PLoS One. 2012;7(2):e31430. doi: 10.1371/journal.pone.0031430. Epub 2012 Feb 24.
+
+In vitro study of novel collagenase (XIAFLEX®) on Dupuytren's disease fibroblasts
+displays unique drug related properties.
+
+Syed F(1), Thomas AN, Singh S, Kolluru V, Emeigh Hart SG, Bayat A.
+
+Author information: 
+(1)Plastic and Reconstructive Surgery Research, School of Translational Medicine,
+Manchester Interdisciplinary Biocentre, University of Manchester, Manchester,
+United Kingdom.
+
+Dupuytren's disease (DD) is a benign, fibroproliferative disease of the palmar
+fascia, with excessive extracellular matrix (ECM) deposition and over-production 
+of cytokines and growth factors, resulting in digital fixed flexion contractures 
+limiting hand function and patient quality of life. Surgical fasciectomy is the
+gold standard treatment but is invasive and has associated morbidity without
+limiting disease recurrence. Injectable Collagenase Clostridium histolyticum
+(CCH)--Xiaflex®--is a novel, nonsurgical option with clinically proven in vivo
+reduction of DD contractures but with limited in vitro data demonstrating its
+cellular and molecular effects. The aim of this study was to delineate the
+effects of CCH on primary fibroblasts isolated from DD and non-DD anatomical
+sites (using RTCA, LDH, WST-1, FACS, qRT-PCR, ELISA and In-Cell Quantitative
+Western Blotting) to compare the efficacy of varying concentrations of Xiaflex®
+against a reagent grade Collagenase, Collagenase A. Results demonstrated that DD 
+nodule and cord fibroblasts had greater proliferation than those from fat and
+skin. Xiaflex® exposure resulted in dose- and time-dependent inhibition of
+cellular spreading, attachment and proliferation, with cellular recovery after
+enzyme removal. Unlike Collagenase A, Xiaflex® did not cause apoptosis. Collagen 
+expression patterns were significantly (p<0.05) different in DD fibroblasts
+across anatomical sites - the highest levels of collagen I and III were detected 
+in DD nodule, with DD cord and fat fibroblasts demonstrating a smaller increase
+in both collagen expression relative to DD skin. Xiaflex® significantly (p<0.05) 
+down-regulated ECM components, cytokines and growth factors in a dose-dependent
+manner. An in vitro scratch wound assay model demonstrated that, at low
+concentrations, Xiaflex® enabled a faster fibroblast reparatory migration into
+the wound, whereas, at high concentrations, this process was significantly
+(p<0.05) inhibited. This is the first report elucidating potential mechanisms of 
+action of Xiaflex® on Dupuytren fibroblasts, offering a greater insight and a
+better understanding of its effect in DD.
+
+DOI: 10.1371/journal.pone.0031430 
+PMCID: PMC3286458
+PMID: 22384021  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+115. J Orthop Sci. 2014 Jan;19(1):64-70. doi: 10.1007/s00776-013-0478-y. Epub 2013 Oct
+16.
+
+Epidemiological study for personal risk factors and quality of life related to
+Dupuytren's disease in a mountain village of Japan.
+
+Tajika T(1), Kobayashi T, Kaneko T, Tsunoda D, Tsunoda K, Sutou T, Yamamoto A,
+Takagishi K.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Gunma University Graduate School of
+Medicine, 3-39-22 Showa-machi, Maebashi, Gunma, 371-8511, Japan,
+tajikatsuyoshi@yahoo.co.jp.
+
+BACKGROUND: This study investigated the etiology, personal risk factors, and
+quality of life related to Dupuytren's disease among residents of a mountain
+village in Japan.
+METHODS: Medical examinations were conducted of 401 adult residents (163 men, 238
+women; average age of 66.7 years, range 40-92) of a mountain village in Japan.
+All had completed a self-administered questionnaire including items for gender,
+weight, height, dominant hand, occupation, history of diabetes mellitus, and
+frequency of smoking tobacco and drinking alcohol, in addition to
+EuroQol-5-Dimensions-3-level Japanese version. Blood samples were collected and
+assessed for biochemical markers related to Dupuytren's disease. The Dupuytren's 
+disease diagnosis was based on clinical signs. Meyerding's classification was
+used to ascertain the disease severity. After examining background data and
+physical examination data related to Dupuytren's disease, we evaluated the
+association of Dupuytren's disease with those factors using univariate and
+logistic regression analysis.
+RESULTS: Dupuytren's disease was diagnosed in 28 subjects (7.0%). Univariate
+analysis revealed associations of age, male gender, occupation, history of
+diabetes mellitus, and alcohol intake with Dupuytren's disease. Logistic
+regression analysis after adjustment for age revealed a significant association
+between Dupuytren's disease and male gender, occupation, and history of alcohol
+intake. No significant difference was found between Dupuytren's disease patients 
+and participants without this disease in the scoring and visual analog scale of
+EuroQol. No relation was found in scoring, the visual analog scale of EuroQol, or
+grading of Meyerding's classification in participants with Dupuytren's disease.
+CONCLUSION: This cross-sectional study revealed Dupuytren's disease in 7.0% of
+401 subjects among the general population of a mountain village in Japan. The
+prevalence is higher with age and is apparently associated with male gender,
+occupation and alcohol intake. Risk factors associated with Dupuytren's disease
+were identified as age, male gender, occupation, and alcohol consumption habits.
+
+DOI: 10.1007/s00776-013-0478-y 
+PMID: 24129389  [PubMed - indexed for MEDLINE]

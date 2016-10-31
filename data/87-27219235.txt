@@ -1,0 +1,45 @@
+
+
+87. Plast Reconstr Surg. 2016 Jun;137(6):1800-12. doi: 10.1097/PRS.0000000000002224.
+
+Percutaneous Aponeurotomy and Lipofilling (PALF) versus Limited Fasciectomy in
+Patients with Primary Dupuytren's Contracture: A Prospective, Randomized,
+Controlled Trial.
+
+Kan HJ(1), Selles RW, van Nieuwenhoven CA, Zhou C, Khouri RK, Hovius SE.
+
+Author information: 
+(1)Rotterdam, The Netherlands; and Miami, Fla. From the Department of Plastic and
+Reconstructive Surgery and Hand Surgery, and the Department of Rehabilitation
+Medicine and Rijndam, Erasmus University Medical Center; and the Miami Hand
+Center.
+
+BACKGROUND: As an alternative to needle aponeurotomy release and limited
+fasciectomy treatment of Dupuytren's contracture, the authors introduced an
+extensive percutaneous aponeurotomy and lipofilling (PALF) procedure. In their
+previous study, the authors reported that contractures significantly improved and
+most patients returned to normal use of the hand within 2 to 4 weeks. To
+establish the safety and efficacy of PALF, the authors compared it to the
+standard limited fasciectomy in a single-blind, multicenter, prospective,
+randomized, controlled trial.
+METHODS: Patients with a primary Dupuytren's contracture were assigned randomly
+to the limited fasciectomy group or the PALF group. Patients were measured at
+baseline and at 2 weeks, 3 weeks, 6 months, and 1 year postoperatively. Primary
+outcome of the trial was contracture correction and convalescence time. Groups
+were compared using a mixed models approach.
+RESULTS: Eighty patients were randomized to PALF or limited fasciectomy. In both 
+groups, almost full metacarpophalangeal joint contracture correction was
+obtained, whereas for the proximal interphalangeal joint, some residual
+contracture remained. Patients in the PALF group returned significantly earlier
+to their normal daily activity. At 1 year after surgery, no significant
+differences in recurrence rate or hand function were present. However, limited
+fasciectomy seems to have a higher incidence of permanent complications.
+CONCLUSIONS: PALF demonstrates a significantly shorter convalescence, similar
+operative contracture correction, lower incidence of long-term complications, and
+no significant difference regarding 1-year postoperative results compared with
+limited fasciectomy. It is therefore a valuable, minimally invasive alternative
+to limited fasciectomy in the treatment of Dupuytren's disease.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, II.
+
+DOI: 10.1097/PRS.0000000000002224 
+PMID: 27219235  [PubMed - in process]

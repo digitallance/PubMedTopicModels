@@ -1,0 +1,44 @@
+
+
+42. Cell Stress Chaperones. 2013 Jul;18(4):397-404. doi: 10.1007/s12192-012-0392-9.
+Epub 2013 Jan 6.
+
+Increased CCT-eta expression is a marker of latent and active disease and a
+modulator of fibroblast contractility in Dupuytren's contracture.
+
+Satish L(1), O'Gorman DB, Johnson S, Raykha C, Gan BS, Wang JH, Kathju S.
+
+Author information: 
+(1)Department of Plastic Surgery, University of Pittsburgh, Pittsburgh, PA 15213,
+USA.
+
+Dupuytren's contracture (DC) is a fibroproliferative disorder of unknown etiology
+characterized by a scar-like contracture that develops in the palm and/or digits.
+We have previously reported that the eta subunit of the chaperonin containing
+T-complex polypeptide (CCT-eta) is increased in fibrotic wound healing, and is
+essential for the accumulation of α-smooth muscle actin (α-SMA) in fibroblasts.
+The purpose of this study was to determine if CCT-eta is similarly implicated in 
+the aberrant fibrosis seen in DC and to investigate the role of CCT-eta in the
+behavior of myo/fibroblasts in DC. Fibroblasts were obtained from DC-affected
+palmar fascia, from adjacent phenotypically normal palmar fascia in the same DC
+patients (PF), and from non-DC palmar fascial tissues in patients undergoing
+carpal tunnel (CT) release. Inherent contractility in these three populations was
+examined using fibroblast-populated collagen lattices (FPCLs) and by cell
+traction force microscopy. Expression of CCT-eta and α-SMA protein was determined
+by Western blot. The effect of CCT-eta inhibition on the contractility of DC
+cells was determined by deploying an siRNA versus CCT-eta. DC cells were
+significantly more contractile than both matching palmar fascial (PF) cells and
+CT cells in both assays, with PF cells demonstrating an intermediate
+contractility in the FPCL assay. Whereas α-SMA protein was significantly
+increased only in DC cells compared to PF and CT cells, CCT-eta protein was
+significantly increased in both PF and DC cells compared to CT cells.
+siRNA-mediated depletion of CCT-eta inhibited the accumulation of both CCT-eta
+and α-SMA protein in DC cells, and also significantly decreased the contractility
+of treated DC cells. These observations suggest that increased expression of
+CCT-eta appears to be a marker for latent and active disease in these patients
+and to be essential for the increased contractility exhibited by these
+fibroblasts.
+
+DOI: 10.1007/s12192-012-0392-9 
+PMCID: PMC3682020
+PMID: 23292503  [PubMed - indexed for MEDLINE]

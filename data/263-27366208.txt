@@ -1,0 +1,45 @@
+
+
+263. Fibrogenesis Tissue Repair. 2016 Jun 29;9:9. doi: 10.1186/s13069-016-0046-0.
+eCollection 2016.
+
+Matrix and cell phenotype differences in Dupuytren's disease.
+
+van Beuge MM(1), Ten Dam EJ(2), Werker PM(3), Bank RA(1).
+
+Author information: 
+(1)Department of Pathology & Medical Biology, University Medical Center
+Groningen, University of Groningen, Hanzeplein 1, 9713 GZ Groningen, The
+Netherlands. (2)Department of Pathology & Medical Biology, University Medical
+Center Groningen, University of Groningen, Hanzeplein 1, 9713 GZ Groningen, The
+Netherlands ; Department of Plastic Surgery, Department of Pathology & Medical
+Biology, University Medical Center Groningen, University of Groningen, Hanzeplein
+1, 9713 GZ Groningen, The Netherlands. (3)Department of Plastic Surgery,
+Department of Pathology & Medical Biology, University Medical Center Groningen,
+University of Groningen, Hanzeplein 1, 9713 GZ Groningen, The Netherlands.
+
+BACKGROUND: Dupuytren's disease is a fibroproliferative disease of the hand and
+fingers, which usually manifests as two different phenotypes within the same
+patient. The disease first causes a nodule in the palm of the hand, while later, 
+a cord develops, causing contracture of the fingers.
+RESULTS: We set out to characterize the two phenotypes by comparing matched cord 
+and nodule tissue from ten Dupuytren's patients. We found that nodule tissue
+contained more proliferating cells, CD68-positive macrophages and α-smooth muscle
+actin (α-SMA)-positive myofibroblastic cells. qPCR analysis showed an increased
+expression of COL1A1, COL1A2, COL5A1, and COL6A1 in nodule tissue compared to
+cord tissue. Immunohistochemistry showed less deposition of collagen type I in
+nodules, although they contained more fibronectin, collagen type V, and
+procollagen 1. Lower collagen levels in nodule were confirmed by HPLC
+measurements of the Hyp/Pro ratio. PCOLCE2, an activator of BMP1, the main enzyme
+cleaving the C-terminal pro-peptide from procollagen, was also reduced in nodule.
+Cord tissue not only contained more collagen I, but also higher levels of
+hydroxylysylpyridinoline and lysylpyridinoline residues per triple helix,
+indicating more crosslinks.
+CONCLUSIONS: Our results clearly show that in Dupuytren's disease, the nodule is 
+the active disease unit, although it does not have the highest collagen protein
+levels. The difference in collagen type I deposition compared to mRNA levels and 
+procollagen 1 levels may be connected to a decrease in procollagen processing.
+
+DOI: 10.1186/s13069-016-0046-0 
+PMCID: PMC4928329
+PMID: 27366208  [PubMed]

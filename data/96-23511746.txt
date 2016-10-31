@@ -1,0 +1,32 @@
+
+
+96. Ann Plast Surg. 2014 Sep;73(3):286-90. doi: 10.1097/SAP.0b013e31827ae9d0.
+
+Analysis of efficacy and safety of treatment with collagenase Clostridium
+histolyticum among subgroups of patients with Dupuytren contracture.
+
+Raven RB 3rd(1), Kushner H, Nguyen D, Naam N, Curtin C.
+
+Author information: 
+(1)From the *Orthopaedic Surgery Specialists, Burbank, CA; †Auxilium
+Pharmaceuticals, Inc, Malvern, PA; ‡Plastic and Reconstructive Surgery, Southern 
+Illinois Hand Center, Effingham, IL; and §Division of Plastic Surgery, Stanford
+University, Palo Alto, CA.
+
+Collagenase Clostridium histolyticum (CCH) injection is a nonoperative treatment 
+of hand contractures from Dupuytren disease. This study assessed the efficacy and
+safety of CCH in several subgroups of patients with increased surgical risk.Data 
+were pooled from 3 randomized, placebo-controlled, double-blind trials. This
+analysis included 271 patients with metacarpophalangeal (n = 167) or proximal
+interphalangeal (n = 104) joint contractures greater than or equal to 20 degrees 
+treated with CCH (0.58 mg collagenase per injection). Subgroups included age,
+sex, and diabetes status. End points included rate of clinical success (reduction
+in contracture to 0-5 degrees of normal) and percentage of adverse events.There
+was no significant difference in clinical success by age, diabetes status, or sex
+with 63% reaching the end point. There was no difference in adverse events among 
+the subgroups, with peripheral edema, contusion, and injection-site hemorrhage
+being most common.High-risk subgroups do not demonstrate differences in efficacy 
+or safety with CCH treatment of Dupuytren-related contractures.
+
+DOI: 10.1097/SAP.0b013e31827ae9d0 
+PMID: 23511746  [PubMed - indexed for MEDLINE]

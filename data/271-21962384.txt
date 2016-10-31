@@ -1,0 +1,46 @@
+
+
+271. Joint Bone Spine. 2012 Jul;79(4):393-8. doi: 10.1016/j.jbspin.2011.07.005. Epub
+2011 Oct 1.
+
+Epidemiogenetic study of French families with Paget's disease of bone.
+
+Michou L(1), Collet C, Morissette J, Audran M, Thomas T, Gagnon E, Launay JM,
+Laplanche JL, Brown JP, Orcel P.
+
+Author information: 
+(1)Department of Medicine, Laval University, and Division of Rheumatology,
+CHUQ-CHUL, Quebec City, Quebec, Canada. laetitia.michou@crchul.ulaval.ca
+
+OBJECTIVE: To search for association with environmental factors and to determine 
+SQSTM1/p62 mutations prevalence in French families with Paget's disease of bone
+(PDB).
+METHODS: Unrelated patients with a confirmed diagnosis of PDB were recruited in
+three Rheumatology departments and informed consent obtained. First- and
+second-degree relatives of each index case had a physical examination, blood
+taken for DNA extraction and biochemical measurements, and a whole-body bone
+scan. Exons 7 and 8 and exon-intron boundaries of SQSTM1/p62 (p62) gene were
+PCR-amplified before sequencing. Haplotype carriers of the p62(P392L) mutation
+were determined. Comparisons between PDB patients and healthy relatives were
+performed.
+RESULTS: We investigated 18 families consisting of 83 individuals: 20 patients
+with known PDB, three relatives with newly-diagnosed PDB and 60 healthy
+relatives. Index cases and/or relatives with Dupuytren's disease were found in
+eight (44.4%) out of the 18 families. Forty-three percent of PDB patients were
+former or current tobacco users versus 18% of healthy relatives (P=0.02; OR=3.37 
+(1.04-11.09)). Five index cases (27.8%) were carriers of SQSTM1/p62 mutations:
+three p62(P392L) mutations, one p62(P392L/A390X) double mutation and one
+p62(A390X) mutation. The p62(P392L) mutation was carried by haplotype 2 in all
+four index cases.
+CONCLUSION: Accurate phenotypic assessment of PDB patients' relatives allowed for
+diagnosing PDB in three asymptomatic relatives. There was evidence for an
+aggregation of Dupuytren's disease in PDB families (not associated with
+SQSTM1/p62 mutation), and for an association between PDB and tobacco use. Half of
+PDB familial forms carried a SQSTM1/p62 mutation, p62(P392L) mutation being the
+most frequent.
+
+Copyright © 2011 Société française de rhumatologie. Published by Elsevier SAS.
+All rights reserved.
+
+DOI: 10.1016/j.jbspin.2011.07.005 
+PMID: 21962384  [PubMed - indexed for MEDLINE]

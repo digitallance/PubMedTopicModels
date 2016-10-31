@@ -1,0 +1,47 @@
+
+
+212. J Hand Surg Am. 2013 Jan;38(1):23-8. doi: 10.1016/j.jhsa.2012.09.013. Epub 2012
+Dec 4.
+
+Ultrasonographic evaluation of displaced neurovascular bundle in Dupuytren
+disease.
+
+Uehara K(1), Miura T, Morizaki Y, Miyamoto H, Ohe T, Tanaka S.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Graduate School of Medicine, The University
+of Tokyo, Tokyo, Japan.
+
+PURPOSE: Neurovascular injury is a serious complication after surgery for
+Dupuytren disease. The purpose of this study was to evaluate the relationship
+between the cord and the neurovascular bundle ultrasonographically.
+METHODS: We included 22 healthy volunteers and 14 Dupuytren disease patients (25 
+fingers) in this study. We evaluated the cord and the digital artery with
+high-resolution ultrasound. We first investigated the effect of the angle of
+metacarpophalangeal joint on the position of the radial and ulnar digital
+arteries in volunteers without evidence of Dupuytren disease. We compared 3
+parameters of the radial and ulnar digital arteries, including differences in
+depth, differences in lateral shift, and the shape of the cross-section of the
+artery, between volunteers and patients with Dupuytren disease.
+RESULTS: None of these parameters changed with flexion of the metacarpophalangeal
+joint of 0°, 30°, and 60°. Digital arteries and cords could be identified
+ultrasonographically in all patients, and we confirmed ultrasonographic findings 
+by operative findings in 13 fingers. We classified the fingers into 3 subgroups
+based on the ultrasonographic findings: type A (n = 13), in which the cord was
+above the artery; type B (n = 5), in which the cord was below the artery; and
+type C (n = 7), in which the cord was located between the radial and ulnar
+digital arteries. Types A, B, and C corresponded to natatory cord/abductor digiti
+minimi cord, spiral cord, and central cord, respectively. Comparisons among
+volunteers and patient subgroups showed that the difference in depth in type B
+patients was significantly larger than that of the other groups. When we set the 
+cutoff point of the difference in depth to 3 mm, sensitivity and specificity to
+detect the spiral cord were 80% and 76%, respectively.
+CONCLUSIONS: The relationship between the neurovascular bundle and the type of
+Dupuytren disease cord can be evaluated by high-resolution ultrasound.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Diagnostic III.
+
+Copyright © 2013 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2012.09.013 
+PMID: 23218555  [PubMed - indexed for MEDLINE]

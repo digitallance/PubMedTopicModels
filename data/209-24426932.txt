@@ -1,0 +1,39 @@
+
+
+209. Hand (N Y). 2013 Sep;8(3):261-6. doi: 10.1007/s11552-013-9524-7.
+
+Examining the efficacy and maintenance of contracture correction after
+collagenase clostridium histolyticum treatment for Dupuytren's disease.
+
+McMahon HA(1), Bachoura A(1), Jacoby SM(1), Zelouf DS(1), Culp RW(1), Osterman
+AL(1).
+
+Author information: 
+(1)The Philadelphia Hand Center, Thomas Jefferson University, 700 South Henderson
+Road, Suite 200, King of Prussia, PA 19406 USA.
+
+BACKGROUND: This study examined the efficacy, complications, and contracture
+recurrence in patients who received injectable collagenase clostridium
+histolyticum (CCH) for Dupuytren's-induced metacarpophalangeal (MP) and proximal 
+interphalangeal (PIP) joint contractures.
+METHODS: A retrospective chart review at one center compared the degree of MP and
+PIP joint contracture pre-injection, post-cord rupture, and at final follow-up
+after a minimum duration of 6 months. Recurrence was defined as a 20 ° or greater
+increase in contracture above the minimum value achieved.
+RESULTS: Of 102 eligible patients, 48 patients (47 %) (31 males, 17 females) were
+available for review. 53 digits and 64 joints (46 MP joints and 18 PIP joints)
+were studied. The mean patient age was 66 years (range, 48-87 years) and mean
+follow-up duration was 15 months (range, 6 to 25 months). The mean MP joint
+contracture was 51 ± 20 ° at baseline, 4 ± 8 ° post-cord rupture, and 9 ± 15 ° at
+latest follow-up. The mean PIP joint contracture was 39 ± 23 ° at baseline,
+14 ± 14 ° at cord rupture, and 29 ± 20 ° at latest follow-up. Of the 46 MP joints
+and 18 PIP joints, 11 MP (24 %) and 7 (39 %) PIP joints met the recurrence
+criteria. Of 102 patients, 1 patient had a small finger flexor tendon rupture.
+CONCLUSIONS: Despite the dramatic initial reduction in contracture, recurrence
+developed in a high proportion of patients over the study period. While initially
+effective, CCH may not provide durable contracture reduction. However, CCH
+remains a viable nonsurgical treatment for Dupuytren's disease.
+
+DOI: 10.1007/s11552-013-9524-7 
+PMCID: PMC3745233
+PMID: 24426932  [PubMed]

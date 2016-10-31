@@ -1,0 +1,39 @@
+
+
+310. BMC Res Notes. 2013 Jan 17;6:16. doi: 10.1186/1756-0500-6-16.
+
+Upper limb musculoskeletal abnormalities in type 2 diabetic patients in low
+socioeconomic strata in Pakistan.
+
+Kidwai SS(1), Wahid L, Siddiqi SA, Khan RM, Ghauri I, Sheikh I.
+
+Author information: 
+(1)Jinnah Medical College Hospital, SR-6, Sector 7-A, Korangi Industrial Area,
+Karachi, 75440, Pakistan. saerakhan@hotmail.com
+
+BACKGROUND: Musculoskeletal manifestations of diabetes in the upper limb are well
+recognized. No data has been available in this regard from Pakistan. Our aim was 
+to find out the frequency of upper limb musculoskeletal abnormalities in diabetic
+patients.
+METHODS: This was an observational study in which type 2 diabetes patients
+attending our diabetic clinic were enrolled along with age and gender matched
+controls. Data was analyzed on SPSS 16.
+RESULTS: In total, 210 Type 2 diabetics (male 34.3%, female 65.7%) and 203
+controls (male 35%, female 65%) were recruited. The mean age was 50.7± 10.2 years
+in diabetic group as compared to 49.5±10.6 years in the control group. The
+frequencies of hand region abnormalities were significantly higher in the
+diabetic subjects as compared to the controls (20.4%, p-value <0.001). Limited
+joint mobility (9.5% vs 2.5%), carpal tunnel syndrome (9% vs 2%), trigger finger 
+(3.8% vs 0.5%), and dupuytren's contracture (1% vs 0%) were found more frequent
+as compared to controls (all p-values <0.05). In the shoulder region of diabetic 
+subjects, adhesive capsulitis and tendonitis was found in 10.9% and 9.5%
+respectively as compared to 2.5% and 2% in control group [p- value <0.001]. A
+weak but positive relationship was observed between age and duration of diabetes 
+with these upper limb abnormalities. However, no correlation was found between
+the frequencies of these abnormalities with control of diabetes.
+CONCLUSION: A higher frequency of upper limb musculoskeletal abnormalities was
+observed in Type 2 diabetic patients as compared to control group.
+
+DOI: 10.1186/1756-0500-6-16 
+PMCID: PMC3556491
+PMID: 23327429  [PubMed - indexed for MEDLINE]

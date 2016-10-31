@@ -1,0 +1,42 @@
+
+
+109. J Hand Ther. 2015 Jul-Sep;28(3):255-59; quiz 260. doi: 10.1016/j.jht.2014.11.006.
+Epub 2014 Nov 29.
+
+Factors affecting functional recovery after surgery and hand therapy in patients 
+with Dupuytren's disease.
+
+Engstrand C(1), Krevers B(2), Kvist J(3).
+
+Author information: 
+(1)Department of Hand Surgery, Plastic Surgery and Burns, County Council of
+Östergötland, Rehabilitation Unit, Floor 09, 581 85 Linköping, Sweden; Division
+of Physiotherapy, Department of Medical and Health Sciences, Linköping
+University, 581 83 Linköping, Sweden. Electronic address:
+christina.engstrand@regionostergotland.se. (2)Division of Health Care Analysis,
+Department of Medical and Health Sciences, Linköping University, 581 83
+Linköping, Sweden. (3)Division of Physiotherapy, Department of Medical and Health
+Sciences, Linköping University, 581 83 Linköping, Sweden.
+
+STUDY DESIGN: Prospective cohort study.
+INTRODUCTION: The evidence of the relationship between functional recovery and
+impairment after surgery and hand therapy are inconsistent.
+PURPOSE OF THE STUDY: To explore factors that were most related to functional
+recovery as measured by DASH in patients with Dupuytren's disease.
+METHODS: Eighty-one patients undergoing surgery and hand therapy were
+consecutively recruited. Functional recovery was measured by the Disability of
+the Arm, Shoulder and Hand (DASH) questionnaire. Explanatory variables: range of 
+motion of the finger joints, five questions regarding safety and social issues of
+hand function, and health-related quality of life (Euroqol).
+RESULTS: The three variables "need to take special precautions", "avoid using the
+hand in social context", and health-related quality of life (EQ-5D index)
+explained 62.1% of the variance in DASH, where the first variable had the
+greatest relative effect.
+DISCUSSION: Safety and social issues of hand function and quality of life had an 
+evident association with functional recovery.
+LEVEL OF EVIDENCE: IV.
+
+Copyright © 2015 Hanley & Belfus. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jht.2014.11.006 
+PMID: 25998546  [PubMed - indexed for MEDLINE]

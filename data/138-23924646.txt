@@ -1,0 +1,40 @@
+
+
+138. Plast Reconstr Surg. 2013 Nov;132(5):1139-48. doi: 10.1097/PRS.0b013e3182a3bf2b.
+
+Adipose-derived stem cells inhibit the contractile myofibroblast in Dupuytren's
+disease.
+
+Verhoekx JS(1), Mudera V, Walbeehm ET, Hovius SE.
+
+Author information: 
+(1)Rotterdam, The Netherlands; and Stanmore, United Kingdom From the Department
+of Plastic and Reconstructive Surgery, Erasmus Medical Center; and the Institute 
+of Orthopedics and Musculoskeletal Sciences, University College London.
+
+BACKGROUND: In an attempt to provide minimally invasive treatment for Dupuytren's
+disease, percutaneous disruption of the affected tissue followed by lipografting 
+is being tested. Contractile myofibroblasts drive this fibroproliferative
+disorder, whereas stem cells have recently been implicated in preventing
+fibrosis. Therefore, the authors tested the role of stem cells in modulating
+myofibroblast activity in Dupuytren's disease.
+METHODS: The authors compared the effect of co-culturing Dupuytren's
+myofibroblasts with either adipose-derived or bone-marrow-derived stem cells on
+isometric force contraction and associated levels of α-smooth muscle actin mRNA
+and protein expression. The authors also tested the effect of these stem cells on
+Dupuytren's myofibroblast proliferation and assessed whether this was mediated by
+cell-to-cell contact or by a paracrine mechanism.
+RESULTS: Addition of adipose-derived stem cells to Dupuytren's myofibroblasts
+reduced the contraction of the latter, with a corresponding reduction of α-smooth
+muscle actin protein expression, probably through a dilution effect. In contrast,
+bone marrow-derived stem cells increased myofibroblast contractility. In
+addition, adipose-derived stem cells inhibit myofibroblast proliferation and
+mediate these effects by soluble factors, influenced by cell-to-cell
+contact-dependent signaling.
+CONCLUSION: Adipose-derived stem cells inhibit the contractile myofibroblast in
+Dupuytren's disease, and these findings lend support to the potential benefit of 
+lipografting in conjunction with aponeurotomy as a novel strategy for the
+treatment of Dupuytren's disease.
+
+DOI: 10.1097/PRS.0b013e3182a3bf2b 
+PMID: 23924646  [PubMed - indexed for MEDLINE]

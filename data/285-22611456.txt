@@ -1,0 +1,38 @@
+
+
+285. Eur Orthop Traumatol. 2012 Mar;3(1):25-30. Epub 2012 Mar 2.
+
+Current trends in the surgical management of Dupuytren's disease in Europe: the
+surgeon's perspective.
+
+Dahlin LB, Bainbridge C, Szczypa PP, Cappelleri JC, Guérin D, Gerber RA.
+
+INTRODUCTION: Dupuytren's disease (DD), commonly affecting European men, is
+generally treated with surgery. METHODS: Orthopaedic and plastic surgeons who had
+been practicing for >3 and <30 years and operated on ≥5 patients with DD between 
+September and December 2008 were surveyed in 12 European countries (Czech
+Republic, Denmark, Finland, France, Germany, Hungary, Italy, The Netherlands,
+Poland, Spain, Sweden and UK). The survey assessed procedures performed, factors 
+influencing choice of procedure, use of physical therapy and recurrence.
+Descriptive statistics are reported. RESULTS: A total of 687 surgeons
+participated, including 579 orthopaedic and 108 plastic surgeons; 383 (56%) were 
+hand surgeons. About 37% of surgeons performed percutaneous needle fasciotomy
+(PNF), 77% fasciotomy, 95% fasciectomy and 40% dermofasciectomy (DF). Surgeons'
+choice of procedure was influenced by patient preferences, age, degree of
+contracture and recurrent disease. The percentage of surgeons prescribing
+physical therapy and the mean (standard deviation [SD]) duration of therapy
+increased with procedure complexity: PNF = 82%, 5.2 (3.9) weeks;
+fasciotomy = 94%, 5.3 (3.6); fasciectomy = 97%, 6.7 (5.1); and DF = 99%, 8.5
+(6.4). Using survey responses, mean (SD) estimated recurrence rates decreased and
+estimated time to recurrence increased with procedure complexity-PNF = 44% (27%),
+17 (15) months; fasciotomy = 30% (24%), 20 (18); fasciectomy = 20% (17%), 29
+(23); and DF = 20% (19%), 33 (27). CONCLUSIONS: Across Europe, patient and
+surgical factors influence the intention to use a surgical procedure. Fasciectomy
+was the most commonly performed procedure type and was associated with lower
+recurrence than PNF or fasciotomy. ELECTRONIC SUPPLEMENTARY MATERIAL: The online 
+version of this article (doi:10.1007/s12570-012-0091-0) contains supplementary
+material, which is available to authorized users.
+
+DOI: 10.1007/s12570-012-0091-0 
+PMCID: PMC3337993
+PMID: 22611456  [PubMed]

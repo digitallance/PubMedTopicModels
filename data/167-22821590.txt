@@ -1,0 +1,38 @@
+
+
+167. Methods Mol Biol. 2012;910:15-31. doi: 10.1007/978-1-61779-965-5_2.
+
+Using functional genomics to identify drug targets: a Dupuytren's disease
+example.
+
+Sedic M(1), Pavelic SK, Hock K.
+
+Author information: 
+(1)Department of Biotechnology, University of Rijeka, Rijeka, Croatia.
+
+Research into the molecular mechanism of Dupuytren's disease (DD) illustrates all
+the problems common to drug discovery in orphan diseases, but also in more
+commonly investigated ailments. Current findings characterize DD as a disease
+with complex molecular pathology, with changes in expression of multiple genes
+and proteins as well as many contributing risk factors. Some of the observed
+changes include genes and proteins that have been identified in a number of other
+pathological processes, such as TGF-β, some which may be more specific to DD,
+such as ADAM12, and undoubtedly also some that have yet to be discovered in
+future studies. When all these results are taken into consideration, it can be
+deduced that DD is an end result of several pathological processes that can have 
+many points of origin, and probably involves several subtypes that give rise to
+sufficiently similar clinical symptoms to be unified under a single medical term.
+Such breadth of view has become possible with the advent of functional genomics
+methods and system-wide overview of the molecular processes, which highlight
+molecular players and processes that might not be intuitively obvious from
+symptoms, as is the case with the observed parallels with wound-healing
+processes. As functional genomics methods allow researchers to compile a more
+complete image of the molecular mechanisms involved in DD pathogenesis, they also
+help to propose new drug targets that can be employed to develop an effective
+pharmacological treatment for DD. Identification of key molecular players in DD
+has already benefited from the integration of functional genomics and
+biocomputational methods, and such approach may reveal new ways how we can
+interfere with the emergence of the DD phenotype.
+
+DOI: 10.1007/978-1-61779-965-5_2 
+PMID: 22821590  [PubMed - indexed for MEDLINE]

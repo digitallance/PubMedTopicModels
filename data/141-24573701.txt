@@ -1,0 +1,44 @@
+
+
+141. Clin Med Res. 2014 Dec;12(3-4):133-7. doi: 10.3121/cmr.2013.1199. Epub 2014 Feb
+26.
+
+SNPs previously associated with Dupuytren's disease replicated in a North
+American cohort.
+
+Anderson ER(1), Ye Z(2), Caldwell MD(3), Burmester JK(4).
+
+Author information: 
+(1)Surgical Resident, Marshfield Clinic, Marshfield, WI USA
+eanderson@dshealthcare.com. (2)Biomedical Informatics Research Center, Marshfield
+Clinic Research Foundation, Marshfield, Wisconsin, USA. (3)Department of General 
+Surgery, Director of Wound Healing Program, Marshfield Clinic, Marshfield,
+Wisconsin, USA. (4)Clinical Research Center, Marshfield Clinic Research
+Foundation, Marshfield, Wisconsin, USA.
+
+OBJECTIVE: Dupuytren's disease is a progressive fibrosis of the hand that often
+results in debilitating flexion contractures. Its etiology is not completely
+understood but likely involves both genetic and environmental factors. A recent
+study performed in Europe identified DNA variants that associate with Dupuytren's
+disease. Given the likelihood for genetic variation among populations, we planned
+to validate the genetic variants identified by this study in a North American
+population.
+METHODS: In the Marshfield Clinic's Personalized Medicine Research Project, 296
+cases with Dupuytren's disease were identified and matched 3-to-1 to controls
+without Dupuytren's disease. Clinical data were abstracted from the electronic
+medical record. The top 12 single nucleotide polymorphisms (SNPs) from the
+European study were selected and tested in a multiplex assay using the MassArray 
+Analyzer 4 (Sequenom, Inc., San Diego, CA). Differences in allele frequency were 
+determined, and variants with a P value of <0.004 were considered significant.
+RESULTS: We replicated 5 of the 12 SNPs previously reported to be associated with
+Dupuytren's disease.
+CONCLUSION: Our findings support a role for the Wnt signaling pathway in the
+development of Dupuytren's disease, and suggest that further study of this
+pathway may result in early diagnosis and non-surgical treatments for Dupuytren's
+disease.
+
+© 2013 Marshfield Clinic.
+
+DOI: 10.3121/cmr.2013.1199 
+PMCID: PMC4317152
+PMID: 24573701  [PubMed - indexed for MEDLINE]

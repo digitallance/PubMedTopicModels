@@ -1,0 +1,48 @@
+
+
+89. Hand (N Y). 2015 Sep;10(3):433-7. doi: 10.1007/s11552-015-9740-4.
+
+Modified percutaneous needle aponeurotomy for the treatment of dupuytren's
+contracture: early results and complications.
+
+Herrera FA(1), Mitchell S(2), Elzik M(2), Roostaeian J(3), Benhaim P(4).
+
+Author information: 
+(1)Division of Plastic and Reconstructive Surgery, University of California Los
+Angeles, Los Angeles, CA 90095 USA ; Department of Orthopaedic Surgery,
+University of California Los Angeles, Santa Monica, CA 90404 USA ; Division of
+Plastic and Reconstructive Surgery, Medical University of South Carolina, 96
+Jonathan Lucas St, Charleston, South Carolina 29425 USA. (2)Department of
+Orthopaedic Surgery, University of California Los Angeles, Santa Monica, CA 90404
+USA. (3)Division of Plastic and Reconstructive Surgery, University of California 
+Los Angeles, Los Angeles, CA 90095 USA. (4)Division of Plastic and Reconstructive
+Surgery, University of California Los Angeles, Los Angeles, CA 90095 USA ;
+Department of Orthopaedic Surgery, University of California Los Angeles, Santa
+Monica, CA 90404 USA.
+
+BACKGROUND: The purpose of our study was to identify postoperative results and
+complications using a percutaneous approach to treat Dupuytren's contracture in a
+consecutive series of patients.
+METHODS: A review of all patients with Dupuytren's contracture treated with
+percutaneous needle aponeurotomy (NA) from 2008 to 2010 was performed. Patient
+demographics, digits affected, and disease severity was recorded. Pre-operative
+total passive extension deficit (TPED) was calculated for each affected digit.
+TPED in the immediate postoperative period and at the time of most recent
+follow-up was measured. Treatment-related complications and incidence of disease 
+recurrence were identified. Statistical analysis was performed using paired
+t-test. (Statistical significance p-value <0.05).
+RESULTS: 525 digits in 193 hands were treated with NA. 140 patients were male,
+average age was 65 years. The average preoperative TPED was 41° and the average
+immediate postoperative TPED was 1° (98% correction) (P=0.0001). The average TPED
+at 4.5 month follow up was 11 o (73% correction). Complications included
+infection in 3 patients and one case each of triggering, delayed flexor tendon
+rupture, complex regional pain syndrome and persistent numbness. Recurrence was
+observed in 62 digits.
+CONCLUSION: Percutaneous needle aponeurotomy is an effective technique in the
+treatment of Dupuytren's contracture. Near complete correction of contracture was
+achieved and few complications were observed. Longer follow-up is needed to
+determine if these short-term results are maintained.
+
+DOI: 10.1007/s11552-015-9740-4 
+PMCID: PMC4551619
+PMID: 26330774  [PubMed]

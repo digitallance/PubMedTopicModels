@@ -1,0 +1,37 @@
+
+
+145. Handchir Mikrochir Plast Chir. 2013 Oct;45(5):253-7. doi: 10.1055/s-0033-1357119.
+Epub 2013 Oct 2.
+
+Common variants of the EPDR1 gene and the risk of Dupuytren’s disease.
+
+Dębniak T(1), Żyluk A, Puchalski P, Serrano-Fernandez P.
+
+Author information: 
+(1)Pomeranian Medical University, Department of Genetics and Pathomorphology,
+Szczecin, Poland.
+
+The object of this study was the investigation of 3 common variants of single
+nucleotide polymorphisms of the ependymin-related gene 1 and its association with
+the occurrence of Dupuytren's disease. DNA samples were obtained from the
+peripheral blood of 508 consecutive patients. The control group comprised 515
+healthy adults who were age-matched with the Dupuytren's patients. 3 common
+variants were analysed using TaqMan® genotyping assays and sequencing. The
+differences in the frequencies of variants of single nucleotide polymorphisms in 
+patients and the control group were statistically tested. Additionally, haplotype
+frequency and linkage disequilibrium were analysed for these variants. A
+statistically significant association was noted between rs16879765_CT,
+rs16879765_TT and rs13240429_AA variants and Dupuytren's disease. 2 haplotypes:
+rs2722280_C+rs13240429_A+rs16879765_C and rs2722280_C+rs13240429_G+rs16879765_T
+were found to be statistically significantly associated with Dupuytren's disease.
+Moreover, we found that rs13240429 and rs16879765 variants were in strong linkage
+disequilibrium, while rs2722280 was only in moderate linkage disequilibrium. No
+significant differences were found in the frequencies of the variants of the gene
+between the groups with a positive and negative familial history of Dupuytren's
+disease. In conclusion, results of this study suggest that EPDR1 gene can be
+added to a growing list of genes associated with Dupuytren's disease development.
+
+© Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/s-0033-1357119 
+PMID: 24089297  [PubMed - indexed for MEDLINE]

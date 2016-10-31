@@ -1,0 +1,41 @@
+
+
+53. Chir Main. 2013 Apr;32(2):68-73. doi: 10.1016/j.main.2013.02.012. Epub 2013 Mar
+6.
+
+Budget impact analysis in Spanish patients with Dupuytren's contracture:
+fasciectomy vs. collagenase Clostridium histolyticum.
+
+De Salas-Cansado M(1), Cuadros M, Del Cerro M, Arandes JM.
+
+Author information: 
+(1)Department of health economics & outcomes research, Pfizer Spain, Avda. de
+Europa, 20 B, Parque Empresarial La Moraleja, 28108 Alcobendas, Madrid, Spain.
+Marina.desalas@pfizer.com
+
+The aim of this study was to estimate the budget impact of collagenase
+Clostridium histolyticum (CCH) vs. fasciectomy (FSC) surgery for the treatment of
+Dupuytren's disease (DD) in Spain. A cost minimization analysis was adopted
+(effectiveness was assumed to be equivalent for both techniques). DD related
+costs were considered. CCH costs (including drug, administration and visits) were
+obtained from clinical trials and a real-life study. FSC costs (including type of
+admission, visits, operating room, re-admissions, tests, drugs and rehabilitation
+costs) were collected through a retrospective, observational, local study. Unit
+costs were obtained from local database systems (e-SALUD and BOT). Results were
+presented from the NHS perspective for the next 3 years. We assumed that there
+were 5100 fasciectomies per year (with a 5% annual increase) and that 20%, 30%
+and 40% of them will annually utilize CCH. In addition, a 10%, 15% and 20% of
+untreated diagnosed patients were expected to receive CCH. All the data were
+validated through an expert panel. A sensitivity analysis was performed with the 
+main variables. The average FSC cost was €2250 (72% inpatients), €1703 for
+outpatients and €2467 for inpatients. The average CCH cost was €1220 (1.5
+vial/injection and four visits) and could drop to €898 (1.1 vial/injections and
+three visits). The accumulated 3years budget impact analysis (BIA) was 45,971€
+(K€-2993(1); 3870). According to this study, the inclusion of the CCH should
+produce a 3-year cumulative budgetary impact of €45,971 (K€-2993; 3870) for the
+NHS.
+
+Copyright © 2013 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.main.2013.02.012 
+PMID: 23507313  [PubMed - indexed for MEDLINE]

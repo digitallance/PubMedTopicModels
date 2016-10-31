@@ -1,0 +1,34 @@
+
+
+296. J Orthop Sci. 2014 Jan;19(1):1-5. doi: 10.1007/s00776-013-0495-x. Epub 2013 Dec
+4.
+
+Primary frozen shoulder: brief review of pathology and imaging abnormalities.
+
+Tamai K(1), Akutsu M, Yano Y.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Dokkyo Medical University, 880
+Kitakobayashi, Mibu, Tochigi, 321-0293, Japan, ktamai@dokkyomed.ac.jp.
+
+BACKGROUND: Primary frozen shoulder (FS) is a painful contracture of the
+glenohumeral joint that arises spontaneously without an obvious preceding event. 
+Investigation of the intra-articular and periarticular pathology would contribute
+to the treatment of primary FS.
+REVIEW OF LITERATURE: Many studies indicate that the main pathology is an
+inflammatory contracture of the shoulder joint capsule. This is associated with
+an increased amount of collagen, fibrotic growth factors such as transforming
+growth factor-beta, and inflammatory cytokines such as tumor necrosis
+factor-alpha and interleukins. Immune system cells such as B-lymphocytes,
+T-lymphocytes and macrophages are also noted. Active fibroblastic proliferation
+similar to that of Dupuytren's contracture is documented. Presence of
+inflammation in the FS synovium is supported by the synovial enhancement with
+dynamic magnetic resonance study in the clinical setting.
+CONCLUSION: Primary FS shows fibrosis of the joint capsule, associated with
+preceding synovitis. The initiator of synovitis, however, still remains unclear. 
+Future studies should be directed to give light to the pathogenesis of
+inflammation to better treat or prevent primary FS.
+
+DOI: 10.1007/s00776-013-0495-x 
+PMCID: PMC3929028
+PMID: 24306579  [PubMed - indexed for MEDLINE]

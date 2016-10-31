@@ -1,0 +1,47 @@
+
+
+91. J Hand Surg Am. 2012 Jul;37(7):1307-12. doi: 10.1016/j.jhsa.2012.04.026. Epub
+2012 May 26.
+
+Steroid injection and needle aponeurotomy for Dupuytren contracture: a
+randomized, controlled study.
+
+McMillan C(1), Binhammer P.
+
+Author information: 
+(1)Division of Plastic and Reconstructive Surgery, Sunnybrook Health Sciences
+Centre, Toronto, Canada.
+
+Comment in
+    J Hand Surg Am. 2012 Nov;37(11):2429-30; author reply 2430-1.
+
+PURPOSE: To compare flexion deformity at 6 months in patients with Dupuytren
+contracture who had percutaneous needle aponeurotomy (PNA) combined with a series
+of triamcinolone acetonide (TA) injections to that of patients who had PNA alone.
+METHODS: Forty-seven patients with Dupuytren disease who were candidates for PNA 
+(at least 1 contracture of at least 20°) participated in the study. Patients were
+randomized either to receive TA injections immediately following and 6 weeks and 
+3 months after the procedure or to receive no injections. Injections were
+administered into cords. The number of injections and the amount of TA per
+injection was determined based on the number of digits involved and the cord
+size. All subjects returned for 3 follow-up visits after the procedure, and
+contractures were measured using a goniometer. Change in total active extension
+deficit (TAED) was analyzed using a repeated measures analysis of variance to
+assess for differences between groups, time points, and interaction between group
+and time point. Descriptive statistics were calculated for all variables of
+interest. Continuous measures were summarized using means and standard
+deviations.
+RESULTS: There was no significant difference in TAED between groups before cord
+aponeurotomy. Correction at 6 months was 87% of preoperative TAED for the TA
+group versus 64% for the control group. This difference was statistically
+significant. The amount of TA administered did not correlate with TAED
+improvement.
+CONCLUSIONS: The study group who received TA in combination with PNA experienced 
+a significantly greater degree of correction of flexion deformity at 6 months
+than those who had PNA alone.
+
+Copyright © 2012 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2012.04.026 
+PMID: 22633226  [PubMed - indexed for MEDLINE]

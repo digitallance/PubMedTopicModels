@@ -1,0 +1,38 @@
+
+
+137. Curr Med Res Opin. 2013 Mar;29(3):269-77. doi: 10.1185/03007995.2013.766163. Epub
+2013 Jan 29.
+
+Recognition, diagnosis and referral of patients with Dupuytren's disease: a
+review of current concepts for general practitioners in Europe.
+
+van Dijk D(1), Finigan P, Gerber RA, Szczypa PP, Werker PM.
+
+Author information: 
+(1)dilaine.vandijk@googlemail.com
+
+BACKGROUND: Dupuytren's disease (DD) is a fairly prevalent yet under-recognised
+disorder of the palmar fascia, resulting in fixed-flexion contractures of joints 
+in the hand. Numerous population-based studies have been conducted in countries
+around the world, and published prevalence estimates vary widely. Nevertheless,
+most studies have shown that the prevalence of DD increases with age. Because the
+global population is aging, the prevalence of DD will also continue to increase.
+SCOPE: Patients with DD typically present to a variety of physicians, generalists
+and specialists alike. Thus, it is critical that providers have clear guidance on
+the early recognition of signs and symptoms, comprehensive evaluation of
+potential risk factors, differential diagnosis and when to refer a patient for
+treatment. Treatment options range from minimally invasive injections with
+collagenase to surgery.
+FINDINGS: Results from a large-scale study of the surgical management of DD in
+Europe indicate that most DD diagnoses and referrals are made by general
+practitioners, but there is much inter-country variation. Different patient- and 
+physician-based factors affect diagnosis rates and referral pathways. Different
+healthcare systems and regulations are also influential. A simple management
+algorithm is provided herein and explained.
+CONCLUSION: It is important for generalists to understand the natural history of 
+DD and the potential benefits of early referral and treatment. General
+practitioners should diagnose and/or refer patients with DD to a specialist as
+early as possible to optimise disease management and treatment outcomes.
+
+DOI: 10.1185/03007995.2013.766163 
+PMID: 23320611  [PubMed - indexed for MEDLINE]

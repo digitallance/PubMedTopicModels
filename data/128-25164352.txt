@@ -1,0 +1,47 @@
+
+
+128. Orthop Traumatol Surg Res. 2014 Oct;100(6):589-92. doi:
+10.1016/j.otsr.2014.05.013. Epub 2014 Aug 20.
+
+Hospitalization for Dupuytren's disease: a French national descriptive analysis, 
+2002 to 2009.
+
+Maravic M(1), Lasbleiz S(2), Roulot E(2), Beaudreuil J(3).
+
+Author information: 
+(1)Département d'information médicale, centre hospitalier national
+d'ophtalmologie des Quinze-Vingts, 28, rue de Charenton, 75012 Paris, France;
+Service de rhumatologie, université Paris 7, hôpital Lariboisière, AP-HP, 2, rue 
+Ambroise-Paré, 75010 Paris, France. (2)Service de rhumatologie, université Paris 
+7, hôpital Lariboisière, AP-HP, 2, rue Ambroise-Paré, 75010 Paris, France.
+(3)Service de rhumatologie, université Paris 7, hôpital Lariboisière, AP-HP, 2,
+rue Ambroise-Paré, 75010 Paris, France. Electronic address:
+johann.beaudreuil@lrb.aphp.fr.
+
+OBJECTIVES: The goal of this study is to describe hospitalization for treatment
+of Dupuytren's disease in France between 2002 and 2009.
+METHODS: A repeated, annual, cross-sectional national survey of public and
+private French hospitals was performed between 2002 and 2009, with planned
+selection criteria for data extraction. Outcomes were age, sex, number of
+hospitalizations, length of stays, and types of surgical procedure. Types of
+surgical procedure included aponeurectomy, aponeurotomy, transplantation (skin
+graft), arthrolysis, amputation, arthrodesis, combined procedures.
+RESULTS: The selected hospital stays represented 95% to 97% of all stays with
+Dupuytren's disease coded as the primary diagnosis. The hospitalizations involved
+mainly men in the 7th decade. The mean number of hospitalizations for Dupuytren's
+disease was 16,487, for between 7 and 8/10,000 total hospitalizations each year. 
+Most of the hospitalizations for Dupuytren's disease were one-day stays in
+private settings. Over time, the mean length of hospital stay significantly
+shortened and the proportion of one-day stays significantly increased.
+Aponeurectomy was the most reported treatment. The distribution of aponeurectomy 
+of 1 finger or ≥ 2 fingers was balanced. The performance of arthrolysis,
+transplantation, amputation and arthrodesis was low.
+CONCLUSIONS: Despite of shortening of hospitals stays over time, hospitalization 
+for surgery for Dupuytren's disease in France still represents a meaningful
+economic burden.
+LEVEL OF EVIDENCE: Observational study II.
+
+Copyright © 2014 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.otsr.2014.05.013 
+PMID: 25164352  [PubMed - indexed for MEDLINE]

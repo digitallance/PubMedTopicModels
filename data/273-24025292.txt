@@ -1,0 +1,34 @@
+
+
+273. Ann R Coll Surg Engl. 2013 Sep;95(6):421-6. doi:
+10.1308/003588413X13629960048190.
+
+Three-dimensional assessment of hand outcome.
+
+Pearl RA(1), Belcher HJ.
+
+Author information: 
+(1)Department of Plastic Surgery, Queen Victoria Hospital, Holtye Road, East
+Grinstead, West Sussex RH19 3DZ, UK. robert.pearl@talk21.com.
+
+INTRODUCTION: Patient reported outcome measures are central to National Health
+Service quality of care assessments. This study investigated the benefit of
+elective hand surgery by the simultaneous analysis of pain, function and
+appearance, using a three-dimensional (3D) graphical model for evaluating and
+presenting outcome.
+METHODS: A total of 188 patients scheduled for surgery completed pre- and
+postoperative questionnaires grading the severity of their pain, dysfunction and 
+deformity of their hand(s). Scores were plotted on a 3D graph to demonstrate the 
+degree of 'normalisation' following surgery.
+RESULTS: Surgical groups included: nerve compression (n=53), Dupuytren's disease 
+(n=51), trigger finger (n=20), ganglion (n=17) or other lump (n=21),
+trapeziometacarpal joint osteoarthritis (n=10), rheumatoid disease (n=5) and
+other pathology (n=13). A significant improvement towards normality was seen
+after surgery in each group except for patients with rheumatoid disease.
+CONCLUSIONS: This study provides a simple, visual representation of hand surgery 
+outcome by plotting patient scores for pain, function and appearance
+simultaneously on a 3D graph.
+
+DOI: 10.1308/003588413X13629960048190 
+PMCID: PMC4188291
+PMID: 24025292  [PubMed - indexed for MEDLINE]

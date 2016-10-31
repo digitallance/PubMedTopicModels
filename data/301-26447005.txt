@@ -1,0 +1,122 @@
+
+
+301. JBI Database System Rev Implement Rep. 2015 Jan;13(1):27-38. doi:
+10.11124/jbisrir-2015-1768.
+
+Effectiveness of ondansetron as an adjunct to lidocaine intravenous regional
+anesthesia on tourniquet pain and postoperative pain in patients undergoing
+elective hand surgery: a systematic review protocol.
+
+Badeaux J(1), Bonanno L, Au H.
+
+Author information: 
+(1)1 The Louisiana Center for Evidence-Based Nursing at LSUHSC School of Nursing:
+an Affiliate Center of the Joanna Briggs Institute.
+
+REVIEW QUESTION/OBJECTIVE: The objective of this quantitative systematic review
+is to determine the effects of ondansetron as an adjunct to lidocaine on the
+tourniquet pain and postoperative pain of American Society of Anesthesiologists
+(ASA) class 1 or 2 adult patients undergoing elective hand surgery with
+intravenous regional anesthesia.
+BACKGROUND: Both injury and deformity of the upper extremity can result in
+dysfunction to nerves, tendons and bones which can lead to disability and pain.
+Hand injuries and deformities encompass an area of upper extremity surgery,
+wherein isolation and accessibility to peripheral nerves allows for a wide range 
+of anesthesia techniques. Common hand surgeries include carpal tunnel or trigger 
+finger release, Dupuytren's contracture fasciectomy, tendon repair, and ganglion 
+cyst removal. According to the extent of injury or deformity, a general
+anesthetic, regional anesthetic, monitored anesthetic care (MAC) or local
+anesthetic may be used for these hand surgeries. Depending on the injury or
+deformity, local anesthesia may not provide sufficient anesthesia, but a general 
+anesthesia may not be completely warranted either. Typical elective hand
+surgeries performed under regional anesthesia and MAC may be the ideal anesthetic
+plan that balances adequate sedation and analgesia. Intravenous regional
+anesthesia (IVRA), commonly known as a bier block, is a safe and effective
+anesthetic and is typically utilized in uncomplicated hand or forearm surgeries
+lasting less than an hour. Intravenous regional anesthesia was first developed by
+August Bier in 1908 for anesthesia of the hand and forearm. It is a regional
+anesthetic technique that is easy to perform, with success rates up to 98%.
+Intravenous regional anesthesia is a simple, reliable and cost-effective
+anesthesia technique for short ambulatory hand surgery. The IVRA technique is
+ideal for American Society of Anesthesiologists (ASA) class 1 or 2 patients,
+which according to ASA classification, are individuals who are healthy with well 
+controlled to no comorbidities.The IVRA technique consists of inserting an
+intravenous catheter into a peripheral vein of the affected extremity. A double
+pneumatic tourniquet is applied to the same arm. The extremity is lifted and
+exsanguinated from distal to proximal with an Esmarch bandage. The proximal cuff 
+of the tourniquet is then inflated to the appropriate pressure; standard 250mmHg 
+for an upper extremity followed by the distal cuff. Insufflation times are
+limited to a maximum of one and a half to two hours, whereas the total
+insufflation time should never be less than 20 minutes. The Esmarch bandage is
+removed, and the local anesthetic is injected via the intravenous catheter to
+promote anesthesia in the operative area. In addition to the advantages of IVRA, 
+there are disadvantages as well. These disadvantages include, but are not limited
+to, local anesthetic (LA) toxicity, delayed onset of action, poor muscle
+relaxation, tourniquet pain, and minimal postoperative analgesia. A method for
+improving analgesia and IVRA is to add medications to the IVRA solution. The
+ideal IVRA should include rapid onset of sensory and motor block, reduced LA
+dose, reduced intraoperative and tourniquet pain, prolonged postoperative
+analgesia, and minimal side effects.Adjuncts to LA can help offset some of the
+disadvantages mentioned above. In a systematic review of adjuncts for intravenous
+regional anesthesia conducted by Choyce and Peng, 29 studies were systematically 
+reviewed to include various adjuncts to LA in IVRA. Adjuncts studied in this
+review included opioids, tramadol, non-steroidal anti-inflammatory drugs
+(NSAIDs), clonidine, muscle relaxants, sodium bicarbonate and potassium. The
+results of this systematic review suggest that NSAIDs have the most potential to 
+offer as adjuncts to IVRA, while opioid adjuncts to IVRA proved to be
+disappointing as a form of postoperative analgesia. The search for the optimal
+IVRA adjunct that improves analgesia but has limited side effects is ongoing.
+More recent studies on adjuncts to IVRA have included medications such as
+neostigmine, dexmetomidine, nitroglycerin, and ondansetron.Ondansetron is a
+specific 5-hydroxytryptamine-3 (5-HT3 or serotonin) antagonist, commonly used as 
+an antiemetic drug for prevention or treatment of postoperative nausea and
+vomiting. Used in the recommended dose range, there are minimal reported side
+effects, with constipation, dizziness and headache being the most common. 5-HT3
+antagonists such as ondansetron possess anti-inflammatory, anesthetic, and
+analgesic properties which may have a potential role in decreasing pain. 5-HT3
+antagonists participate in the pathway of nociception by interfering with
+peripheral effects of serotonin on nociception. By binding to opioid mu receptors
+and acting as a potential opioid agonist, the result is a peripheral nociceptive 
+analgesic effect. A study by Deegan shows that there are 5-HT3 receptors on the
+central spinal terminal, which suggests that ondansetron could have both
+peripheral and central nociceptive effects. Ambesh et al. found that pain during 
+injection of propofol can be successfully prevented by the administration of 4 mg
+of ondansetron. In a study performed by Reddy et al., it was shown that 4 mg of
+ondansetron could significantly reduce pain during the intravenous (IV) injection
+of rocuronium and propofol.Ondansetron may be useful for its potential
+anti-in-ammatory effect as an adjunct to medication to reduce acute inflammation.
+Ondansetron can block sodium channels similar to local anesthetics and produce a 
+local anesthetic effect. It has been shown to be approximately fifteen times more
+potent than lidocaine. A study by Farouk suggests the addition of ondansetron to 
+lidocaine may improve the quality of IVRA and prolong postoperative analgesia in 
+patients undergoing hand surgery. A study conducted by Honarmand, concluded that 
+the addition of ondansetron to lidocaine for IVRA reduced intraoperative and
+postoperative analgesic use.Tourniquet pain, which is described as a dull and
+aching pain sensation, is caused by the nerve compression from the tourniquet.
+Neuropathic pain produced by nerve compression plays an important role in the
+etiology of this discomfort. Tourniquet pain is thought to be mediated by impulse
+propagation via small, unmyelinated, slow-conducting C fibers. The duration of
+the tourniquet time is directly proportional to the onset of tourniquet pain. In 
+a study by Asik, onset of tourniquet pain ranged from eight to fifteen minutes.
+Tourniquet pain is a well-known limitation of IVRA and is a factor that can limit
+the number of times which IVRA can be used for extremity surgery. Lidocaine is
+one of the most frequently used LAs for IVRA. It has a relatively brief duration 
+of action which may limit the postoperative analgesia. Duration of postoperative 
+analgesia, measured as time to first analgesic requirement ranged from 34 to 45
+minutes (median) with LA alone.Outcome measures will include pain assessment for 
+intraoperative tourniquet pain and postoperative pain measured by first analgesic
+requirement time (the time elapsed after tourniquet release to the first request 
+by the patient for analgesic). Pain will be assessed with a visual analog scale
+(VAS) (0 = no pain and 10 = worst pain imaginable). A VAS score of more than
+three would indicate pain threshold has been exceeded.A preliminary search of the
+Joanna Briggs Database of Systematic Reviews and Implementation Reports, the
+Cochrane Library, CINAHL, PubMed and PROSPERO has revealed that there are
+currently no systematic reviews (either published or underway) on the topic of
+ondansetron as an adjunct to lidocaine intravenous regional anesthesia. Search
+terms included Zofran, ondansetron, intravenous regional anesthesia, and IVRA.
+Outcomes of this review will determine if ondansetron, admixed with lidocaine,
+has an effect on tourniquet pain, and secondly to determine if ondansetron,
+admixed with lidocaine, has an effect on the duration of postoperative analgesia.
+
+DOI: 10.11124/jbisrir-2015-1768 
+PMID: 26447005  [PubMed - in process]

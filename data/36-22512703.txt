@@ -1,0 +1,31 @@
+
+
+36. Connect Tissue Res. 2012;53(6):469-77. doi: 10.3109/03008207.2012.686542. Epub
+2012 Jul 24.
+
+Expression of MMP-2, TIMP-2, TGF-β1, and decorin in Dupuytren's contracture.
+
+Ratajczak-Wielgomas K(1), Gosk J, Rabczyński J, Augoff K, Podhorska-Okołów M,
+Gamian A, Rutowski R.
+
+Author information: 
+(1)Department of Histology and Embryology, Wroclaw Medical University, Wroclaw,
+Poland. katarzyna.ratajczak-wielgomas@am.wroc.pl
+
+To investigate the mechanisms underlying matrix deposition in Dupuytren's
+disease, the expression of gelatinase A (MMP-2), the tissue inhibitor of
+metalloproteinase-2 (TIMP-2), transforming growth factor beta 1 (TGF-β1), decorin
+(DCN), and periostin was studied. The level of relative MMP-2 activation was
+investigated using zymography. The mRNA expression of MMP-2, TIMP-2, TGF-β1, and 
+DCN was detected using reverse transcription polymerase chain reaction (RT-PCR), 
+while the presence of protein was detected using immunohistochemical (IHC) and
+Western blot techniques. The level of MMP-2 activation was significantly elevated
+in tissues with Dupuytren's contracture. RT-PCR demonstrated significantly higher
+expression of MMP-2, TIMP-2, TGF-β1, and DCN mRNA in the pathological tissues;
+and the IHC and immunoblotting studies revealed elevated expression of TGF-β1,
+DCN, and periostin. The balance between MMP-2 and TIMP-2 was disrupted in
+patients with Dupuytren's disease. TGF-β1, DCN, and periostin are involved in
+extracellular matrix (ECM) homeostasis in Dupuytren's contracture.
+
+DOI: 10.3109/03008207.2012.686542 
+PMID: 22512703  [PubMed - indexed for MEDLINE]

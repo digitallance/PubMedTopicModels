@@ -1,0 +1,36 @@
+
+
+45. J Orthop Res. 2013 Feb;31(2):328-34. doi: 10.1002/jor.22220. Epub 2012 Sep 14.
+
+The mechanical environment in Dupuytren's contracture determines cell
+contractility and associated MMP-mediated matrix remodeling.
+
+Verhoekx JS(1), Beckett KS, Bisson MA, McGrouther DA, Grobbelaar AO, Mudera V.
+
+Author information: 
+(1)Institute of Orthopaedics and Musculoskeletal Sciences, University College
+London, Stanmore, United Kingdom. jsn.verhoekx@gmail.com
+
+Matrix metalloproteinases (MMPs) are expressed in Dupuytren's contracture and
+play a role in matrix remodeling. We tested the role of tension on contractility 
+and MMP expression in Dupuytren's nodule and cord cells. Cells were subjected to 
+pre-determined loading patterns of known repeatable magnitudes (static load,
+unloading, and overloading) and tested for MMP gene expression (MMP-1, -2, -9,
+-13, and TIMP-1, -2) and force generation using a tension-culture force monitor. 
+Matrix remodeling was assessed by addition of cytochalasin D and residual matrix 
+tension was quantified. Nodule compared to cord and control cells demonstrate
+greater force generation and remodeling (p < 0.05). Nodule cells subjected to a
+reduced load and overloading led to threefold increase of MMP-1, -2, and -9
+compared to static load, whilst cord and control cells only showed a twofold
+increase of MMP-9. Nodule cells subjected to overloading showed a twofold
+increase in TIMP-2 expression, whilst cord and control cells showed a twofold
+increase in TIMP-1 expression. Nodule cells differ from cord cells by increased
+force generation in response to changes in the mechanical environment and related
+MMP/TIMP-mediated matrix remodeling. In turn this may lead to permanent matrix
+shortening and digital contracture. Interventional therapies should be aimed at
+nodule cells to prevent contraction and subsequent permanent matrix remodeling.
+
+Copyright © 2012 Orthopaedic Research Society.
+
+DOI: 10.1002/jor.22220 
+PMID: 22987740  [PubMed - indexed for MEDLINE]

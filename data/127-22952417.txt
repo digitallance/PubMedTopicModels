@@ -1,0 +1,33 @@
+
+
+127. Clin Med Insights Arthritis Musculoskelet Disord. 2012;5:67-75. doi:
+10.4137/CMAMD.S9935. Epub 2012 Aug 21.
+
+Dupuytren's Contracture in Alabama HFE Hemochromatosis Probands.
+
+Barton JC(1), Barton JC.
+
+Author information: 
+(1)Southern Iron Disorders Center, Birmingham, Alabama, USA.
+
+BACKGROUND: Dupuytren's contracture (DC) and HFE hemochromatosis occur in some of
+the same at-risk populations and present with similar comorbid conditions.
+METHODS: We estimated DC prevalence in two cohorts of white Alabama
+hemochromatosis probands (294 C282Y homozygotes, 67 C282Y/H63D compound
+heterozygotes) in a retrospective study. We performed logistic regressions on DC 
+using the following independent variables: age, body mass index, heavy ethanol
+consumption, serum ferritin, elevated serum AST/ALT, non-alcoholic fatty liver
+disease, viral hepatitis, cirrhosis, and diabetes.
+RESULTS: One man and two women with C282Y homozygosity had DC (prevalence 1.02%; 
+95% CI 0.35%-2.96%). A man with C282Y/H63D had DC (prevalence 1.49%; 95% CI
+0.26%-7.98%). DC occurred as an autosomal dominant trait in his kinship. In
+regression analyses, no single variable predicted DC. We observed no new DC cases
+after the diagnosis of hemochromatosis (mean follow-up 12.9 ± 7.5 years (1 SD),
+and 9.0 ± 5.1 years, respectively).
+CONCLUSIONS: Our prevalence estimates of DC in white Alabama hemochromatosis
+probands are similar to those found in the white US population cohorts. DC risk
+was unrelated to the variables we studied.
+
+DOI: 10.4137/CMAMD.S9935 
+PMCID: PMC3431974
+PMID: 22952417  [PubMed]

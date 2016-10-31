@@ -1,0 +1,43 @@
+
+
+293. Connect Tissue Res. 2012;53(3):187-96. doi: 10.3109/03008207.2011.642035. Epub
+2012 Feb 13.
+
+Fibroproliferative disorders and their mechanobiology.
+
+Huang C(1), Ogawa R.
+
+Author information: 
+(1)Department of Plastic, Reconstructive and Aesthetic Surgery, Nippon Medical
+School, Tokyo, Japan.
+
+Benign and malignant fibroproliferative disorders (FPDs) include idiopathic
+pulmonary fibrosis, hepatic cirrhosis, myelofibrosis, systemic sclerosis,
+Dupuytren's contracture, hypertrophic scars, and keloids. They are characterized 
+by excessive connective tissue accumulation and slow but continuous tissue
+contraction that lead to progressive deterioration in the normal structure and
+function of affected organs. In recent years, research in diverse fields has
+increasingly highlighted the potential role of mechanobiology in the molecular
+mechanisms of fibroproliferation. Mechanobiology, the heart of which is
+mechanotransduction, is the process whereby cells sense mechanical forces and
+transduce them, thereby changing the intracellular biochemistry and gene
+expression. Understanding mechanosignaling may provide new insights into the
+convergent roles played by interrelated molecules and overlapping signaling
+pathways during the inflammatory, proliferative, and fibrotic cellular activities
+that are the hallmarks of fibroproliferation. The main cellular players in FPDs
+are fibroblasts and myofibroblasts. Consequently, this article discusses
+integrins and the roles they play in cellular-extracellular matrix interactions. 
+Also described are the signaling pathways that are known to participate in
+mechanosignaling: these include the transforming growth factor-β/Smad,
+mitogen-activated protein kinase, RhoA/ROCK, Wnt/β-catenin, and tumor necrosis
+factor-α/nuclear factor kappa-light-chain-enhancer of activated B cells pathways.
+Also outlined is the progress in our understanding of the cellular-extracellular 
+matrix interactions that are associated with fibroproliferative mechanosignaling 
+through matricellular proteins. The tensegrity and tensional homeostasis models
+are also discussed. A better understanding of the mechanosignaling pathways in
+the FPD microenvironment will almost certainly lead to the development of novel
+interventions that can prevent, reduce, or even reverse FPD formation and/or
+progression.
+
+DOI: 10.3109/03008207.2011.642035 
+PMID: 22329637  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,35 @@
+
+
+299. Biologics. 2015 Sep 29;9:107-16. doi: 10.2147/BTT.S65619. eCollection 2015.
+
+Role of collagenase clostridium histolyticum in Peyronie's disease.
+
+Peak TC(1), Mitchell GC(2), Yafi FA(2), Hellstrom WJ(2).
+
+Author information: 
+(1)Department of Urology, Tulane University School of Medicine, New Orleans, LA, 
+USA. (2)Section of Andrology, Department of Urology, Tulane University School of 
+Medicine, New Orleans, LA, USA.
+
+Peyronie's disease is a localized connective tissue disease characterized by an
+active, inflammatory phase and a stable, quiescent phase, with the eventual
+development of collagenous plaques within the tunica albuginea of the penis. Risk
+factors primarily associated with Peyronie's disease include Dupuytren's
+contracture, penile trauma, and family history. A variety of treatment strategies
+have been utilized, including oral and topical agents, electromotive drug
+administration, intralesional injections, extracorporeal shockwave therapy,
+penile traction, and surgery. However, most of these strategies are ineffective, 
+with surgery being the only definitive treatment. Collagenase clostridium
+histolyticum is a newly US Food and Drug Administration-approved agent for
+intralesional injection. It is thought to downregulate many of the
+disease-related genes, cytokines, and growth factors and degrade collagen fibers.
+It also suppresses cell attachment, spreading, and proliferation. Collagenase
+clostridium histolyticum has been clinically proven to be a safe and effective
+therapeutic option, demonstrating decreases in penile curvature and plaque
+consistency, as well as increases in patient satisfaction. During clinical
+evaluation, the Peyronie's Disease Questionnaire was validated as an effective
+tool for assessing treatment outcomes.
+
+DOI: 10.2147/BTT.S65619 
+PMCID: PMC4598203
+PMID: 26491251  [PubMed]

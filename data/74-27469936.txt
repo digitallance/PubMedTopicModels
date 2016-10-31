@@ -1,0 +1,46 @@
+
+
+74. J Hand Surg Am. 2016 Sep;41(9):896-902. doi: 10.1016/j.jhsa.2016.06.009. Epub
+2016 Jul 26.
+
+Measurement Properties of the Brief Michigan Hand Outcomes Questionnaire in
+Patients With Dupuytren Contracture.
+
+Wehrli M(1), Hensler S(2), Schindele S(3), Herren DB(3), Marks M(2).
+
+Author information: 
+(1)Department of Teaching, Research and Development, Schulthess Clinic, Zurich,
+Switzerland; Zurich University of Applied Sciences, School of Health Professions,
+Institute of Physiotherapy, Winterthur, Switzerland. Electronic address:
+Martina.Wehrli@kws.ch. (2)Department of Teaching, Research and Development,
+Schulthess Clinic, Zurich, Switzerland. (3)Department of Hand Surgery, Schulthess
+Clinic, Zurich, Switzerland.
+
+PURPOSE: The brief Michigan Hand Outcomes Questionnaire (briefMHQ) was developed 
+as a shorter version of the Michigan Hand Outcomes Questionnaire (MHQ), but its
+measurement properties have not been investigated in patients with Dupuytren
+contracture. The objective of the study was to investigate the reliability,
+validity, responsiveness, and interpretability of the briefMHQ.
+METHODS: Fifty-seven patients diagnosed with Dupuytren contracture completed the 
+briefMHQ as well as the full-length MHQ and Quick Disabilities of the Arm,
+Shoulder, and Hand (QuickDASH) questionnaire at baseline. Two to 14 days after
+baseline and 1 year after collagenase injection or surgery, patients again filled
+out the briefMHQ. Reliability was determined using the intraclass correlation
+coefficient and by calculating internal consistency (Cronbach alpha). Validity
+was tested by quantifying correlations with the full-length MHQ and QuickDASH.
+Responsiveness, based on the standardized response mean and the minimally
+clinically important change, was also determined.
+RESULTS: The briefMHQ had an intraclass correlation coefficient of 0.87, Cronbach
+alpha of 0.88, and correlations of r = 0.88 and -0.82 with the original MHQ and
+QuickDASH, respectively. The standardized response mean was 0.9 and the minimally
+clinically important change was 7 points.
+CONCLUSIONS: Overall, the briefMHQ demonstrates excellent reliability, good
+validity, and high responsiveness in patients with Dupuytren contracture.
+CLINICAL RELEVANCE: The briefMHQ is an accurate and time-saving tool to evaluate 
+patients with Dupuytren contracture and the effect of a corresponding treatment.
+
+Copyright © 2016 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2016.06.009 
+PMID: 27469936  [PubMed - in process]

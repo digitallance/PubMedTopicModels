@@ -1,0 +1,39 @@
+
+
+33. J Plast Surg Hand Surg. 2012 Sep;46(3-4):177-83. doi:
+10.3109/2000656X.2012.683795. Epub 2012 Jun 7.
+
+Efficacy of collagenase in patients who did and did not have previous hand
+surgery for Dupuytren's contracture.
+
+Bainbridge C(1), Gerber RA, Szczypa PP, Smith T, Kushner H, Cohen B, Hellio Le
+Graverand-Gastineau MP.
+
+Author information: 
+(1)Pulvertaft Hand Clinic, Royal Derby Hospital, Derby, UK.
+chris@hand-surgery.co.uk
+
+Collagenase Clostridium histolyticum (CCH) is a non-surgical, efficacious therapy
+for Dupuytren's contracture (DC). This study evaluated the efficacy and safety of
+CCH in patients with previous DC surgery. Data from 12 CCH clinical trials were
+pooled. At screening, patients provided details about the type/date of previous
+DC surgery. Reviewers coded descriptions to the Operated Hand, finger, and joint.
+Of 1082 patients, 422 (39%) had previous DC surgery. For these patients with
+previous surgery, the CCH treatment was coded on the Operated (n = 206) or
+Non-operated Hand (n = 196). End-points included changes in fixed-flexion
+contracture (FFC) and range of motion (ROM). Adverse events (AEs) were monitored.
+After treatment with CCH, FFC at metacarpophalangeal joints was reduced by 75% in
+previously Operated Hands and by 80% for Non-operated Hands (p = 0.6).
+Improvements in ROM were 32° and 32°, respectively (p = 0.9). For proximal
+inter-phalangeal joints, the reductions in FFC for the Operated and Non-operated 
+Hands were 52% and 50%, respectively (p = 0.6); improvements in ROM were 24° and 
+26°, respectively (p = 0.3). Some AE rates were significantly higher in the
+Operated vs Non-operated Hand groups, but were not clinically relevant. There
+were no between-group significant differences in AE duration (p > 0.08). Previous
+surgery for DC does not affect efficacy or safety of CCH, suggesting CCH is an
+option in patients with recurring DC. Some AE rates were significantly higher,
+but not clinically relevant.
+
+DOI: 10.3109/2000656X.2012.683795 
+PMCID: PMC3469218
+PMID: 22670890  [PubMed - indexed for MEDLINE]

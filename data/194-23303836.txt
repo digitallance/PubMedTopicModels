@@ -1,0 +1,35 @@
+
+
+194. J Hand Surg Eur Vol. 2013 May;38(4):430-4. doi: 10.1177/1753193412471502. Epub
+2013 Jan 8.
+
+Common variants of the ALDH2 and DHDH genes and the risk of Dupuytren's disease.
+
+Zyluk A(1), Debniak T, Puchalski P.
+
+Author information: 
+(1)Department of General and Hand Surgery, Unii Lubelskiej, Poland.
+zyluka@pum.edu.pl
+
+Erratum in
+    J Hand Surg Eur Vol. 2013 Nov;38(9):1016.
+
+The object of this study was the investigation of four common variants of single 
+nucleotide polymorphisms of the aldehyde dehydrogenase H2 gene and dihydrodiol
+dehydrogenase gene and their association with the occurrence of Dupuytren's
+disease. DNA samples were obtained from the peripheral blood of 300 consecutive
+patients. The control group comprised 300 healthy adults who were age matched
+with the Dupuytren's patients. All four common variants were analysed using
+TaqMan® genotyping assays and sequencing. The differences in the frequencies of
+variants of single nucleotide polymorphisms in patients and the control group
+were statistically tested. No significant differences were found in the
+frequencies of the variants of the aldehyde dehydrogenase H2 and dihydrodiol
+dehydrogenase genes between the groups. Likewise, no significant differences were
+found in the frequencies of the variants of the genes between men and women. We
+noted a statistically significantly higher prevalence of the variants of the
+dihydrodiol dehydrogenase gene (rs2270941 and rs11666105) in the group with a
+positive familial history of Dupuytren's disease, in comparison with the group
+with a negative familial history.
+
+DOI: 10.1177/1753193412471502 
+PMID: 23303836  [PubMed - indexed for MEDLINE]

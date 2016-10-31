@@ -1,0 +1,59 @@
+
+
+57. J Hand Surg Am. 2015 Aug;40(8):1597-605. doi: 10.1016/j.jhsa.2015.04.036. Epub
+2015 Jun 18.
+
+Dupuytren Contracture Recurrence Following Treatment With Collagenase Clostridium
+histolyticum (CORDLESS [Collagenase Option for Reduction of Dupuytren Long-Term
+Evaluation of Safety Study]): 5-Year Data.
+
+Peimer CA(1), Blazar P(2), Coleman S(3), Kaplan FT(4), Smith T(5), Lindau T(6).
+
+Author information: 
+(1)College of Human Medicine, Michigan State University, East Lansing, MI; UP
+Health System-Marquette/Duke-LifePoint, Marquette, MI. Electronic address:
+peimer@msu.edu. (2)Department of Orthopedic Surgery, Brigham and Women's
+Hospital, Boston, MA. (3)Hand and Upper Limb Clinic, Brisbane, Queensland,
+Australia. (4)Indiana Hand to Shoulder Center, Indianapolis, IN. (5)Auxilium
+Pharmaceuticals, Inc., Chesterbrook, PA. (6)Pulvertaft Hand Centre, Royal Derby
+Hospital, Derby, UK.
+
+PURPOSE: Collagenase Option for Reduction of Dupuytren Long-Term Evaluation of
+Safety Study was a 5-year noninterventional follow-up study to determine
+long-term efficacy and safety of collagenase clostridium histolyticum (CCH)
+treatment for Dupuytren contracture.
+METHODS: Patients from previous CCH clinical studies were eligible. Enrolled
+patients were evaluated annually for contracture and safety at 2, 3, 4, and 5
+years after their first injection (0.58 mg) of CCH. In successfully treated
+joints (≤ 5° contracture following CCH treatment), recurrence was defined as 20° 
+or greater worsening (relative to day 30 after the last injection) with a
+palpable cord or any medical/surgical intervention to correct new/worsening
+contracture. A post hoc analysis was also conducted using a less stringent
+threshold (≥ 30° worsening) for comparison with criteria historically used to
+assess surgical treatment.
+RESULTS: Of 950 eligible patients, 644 enrolled (1,081 treated joints). At year
+5, 47% (291 of 623) of successfully treated joints had recurrence (≥ 20°
+worsening)-39% (178 of 451) of metacarpophalangeal and 66% (113 of 172) of
+proximal interphalangeal joints. At year 5, 32% (198 of 623) of successfully
+treated joints had 30° or greater worsening (metacarpophalangeal 26% [119 of 451]
+and proximal interphalangeal 46% [79 of 172] joints). Of 105 secondary
+interventions performed in the successfully treated joints, 47% (49 of 105)
+received fasciectomy, 30% (32 of 105) received additional CCH, and 23% (24 of
+105) received other interventions. One mild adverse event was attributed to CCH
+treatment (skin atrophy [decreased ring finger circumference from thinning of
+Dupuytren tissue]). Antibodies to clostridial type I and/or II collagenase were
+found in 93% of patients, but over the 5 years of follow-up, this did not
+correspond to any reported clinical adverse events.
+CONCLUSIONS: Five years after successful CCH treatment, the overall recurrence
+rate of 47% was comparable with published recurrence rates after surgical
+treatments, with one reported long-term treatment-related adverse event.
+Collagenase clostridium histolyticum injection proved to be an effective and safe
+treatment for Dupuytren contracture. For those receiving treatment during
+follow-up, both CCH and fasciectomy were elected options.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic II.
+
+Copyright © 2015 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2015.04.036 
+PMID: 26096221  [PubMed - indexed for MEDLINE]

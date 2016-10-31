@@ -1,0 +1,47 @@
+
+
+214. J Bone Joint Surg Am. 2014 Apr 16;96(8):655-62. doi: 10.2106/JBJS.L.01623.
+
+High-dosage tamoxifen as neoadjuvant treatment in minimally invasive surgery for 
+Dupuytren disease in patients with a strong predisposition toward fibrosis: a
+randomized controlled trial.
+
+Degreef I(1), Tejpar S(2), Sciot R(3), De Smet L(1).
+
+Author information: 
+(1)Hand Unit, Orthopaedic Department, Pellenberg Campus, University Hospitals
+Leuven, Weligerveld 1, 3212 Pellenberg, Belgium. E-mail address for I. Degreef:
+ilse.degreef@uzleuven.be. E-mail address for L. De Smet: luc.desmet@uzleuven.be. 
+(2)Division of Gastroenterology, Department of Internal Medicine, Gasthuisberg
+Campus, University Hospitals Leuven, Herestraat 49, 3000 Leuven, Belgium. E-mail 
+address: sabine.tejpar@uzleuven.be. (3)Department of Pathology, Sint-Raphael
+Campus, University Hospitals Leuven, Capucijnenvoer 33, 3000 Leuven, Belgium.
+E-mail address: raf.sciot@uzleuven.be.
+
+BACKGROUND: Tamoxifen, a synthetic nonsteroidal anti-estrogen known to modulate
+the production of transforming growth factor-beta (TGF-β), has demonstrated
+effectiveness on fibroblast activity in vitro and in vivo. The main purpose of
+this study was to investigate the effect of tamoxifen on the outcome of surgery
+for Dupuytren contractures in patients with a strong predisposition toward
+fibrosis.
+METHODS: We used a prospective, randomized, double-blind study protocol
+(conforming to the CONSORT standards) to investigate the influence of tamoxifen
+compared with placebo on the total passive extension deficit in the finger and
+patient satisfaction after subtotal fasciectomy in thirty patients with a strong 
+predisposition toward fibrosis (grade, >4 according to the Abe scale).
+High-dosage tamoxifen (80 mg/day) was administered from six weeks prior until
+twelve weeks after surgery, and patients were monitored for two years.
+RESULTS: Three months after surgery, patients in the tamoxifen group had a
+smaller total passive extension deficit and higher satisfaction compared with the
+placebo group. This positive effect was lost over the two years following
+cessation of the medication.
+CONCLUSIONS: This study demonstrated that the short-term outcome of Dupuytren
+disease treatment could be influenced by use of tamoxifen as a neoadjuvant from
+six weeks prior to three months after subtotal fasciectomy in patients with a
+strong predisposition toward fibrosis. However, the beneficial effect disappeared
+within two years after surgery, with worsening of the contractures after the
+medication was discontinued. Thus, tamoxifen may have a short-term effect on the 
+outcome of surgery for Dupuytren disease.
+
+DOI: 10.2106/JBJS.L.01623 
+PMID: 24740662  [PubMed - indexed for MEDLINE]

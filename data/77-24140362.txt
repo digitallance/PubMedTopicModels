@@ -1,0 +1,48 @@
+
+
+77. J Hand Surg Am. 2013 Dec;38(12):2370-6. doi: 10.1016/j.jhsa.2013.08.114. Epub
+2013 Oct 17.
+
+Collagenase clostridium histolyticum for dupuytren contracture: patterns of use
+and effectiveness in clinical practice.
+
+Peimer CA(1), Skodny P, Mackowiak JI.
+
+Author information: 
+(1)Department of Surgery, College of Human Medicine, Michigan State University,
+Lansing; Marquette General Healthcare, Marquette, MI; Health Economics & Outcomes
+Research, Auxilium Pharmaceuticals, Inc., Malvern, PA; and Center for Outcomes
+Research, Nashville, TN. Electronic address: clayton.peimer@mghs.org.
+
+PURPOSE: To collect data on the real-world effectiveness of collagenase
+clostridium histolyticum (CCH) during its first year of use following U.S. Food
+and Drug Administration approval and compare those results with clinical trial
+efficacy data.
+METHODS: This retrospective chart review was conducted at 10 U.S. community and
+academic practice sites with major experience using CCH. Charts of patients
+treated with CCH between February and December 2010 were abstracted, and
+anonymized data were analyzed. Clinical use, including number of injections per
+cord and effectiveness outcomes (joint contracture and range of motion) were
+compared with results from 2 registration trials.
+RESULTS: Data were collected from 501 patients (74% male; 48% employed; mean [SD]
+age, 65 [10] y); 463 patients had sufficient data for analysis. We found that
+1.08 CCH injections were used per treated joint, compared with a mean of 1.7
+injections in registration trials. Ninety-three percent of joints received only 1
+injection. The mean (SD) number of visits per injection was 2.92 (1.0). Mean (SD)
+contracture was reduced by 75% from 49° (21) at baseline to 12° (17), similar to 
+the 71% to 79% reduction in clinical trials. Mean (SD) range of motion was
+improved by 37° from 44° (20) at baseline to 81° (14), similar to the increase of
+35° and 37° in the 2 clinical trials; and 67% of first injections resulted in
+full correction to 0° to 5°, compared with the clinical trial rate of 39%.
+CONCLUSIONS: Despite a lower injection rate, correction of joint contracture and 
+range of motion was similar to findings from clinical trials. Effectiveness
+reports using this kind of surveillance design could provide patients,
+physicians, and payers with the information needed to make better treatment and
+reimbursement decisions.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.
+
+Copyright © 2013 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2013.08.114 
+PMID: 24140362  [PubMed - indexed for MEDLINE]

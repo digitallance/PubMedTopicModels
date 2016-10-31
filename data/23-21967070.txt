@@ -1,0 +1,56 @@
+
+
+23. Clin Drug Investig. 2011 Nov 1;31(11):791-8. doi:
+10.2165/11592940-000000000-00000.
+
+Determining clinically important changes in range of motion in patients with
+Dupuytren's Contracture: secondary analysis of the randomized, double-blind,
+placebo-controlled CORD I study.
+
+Witthaut J(1), Bushmakin AG, Gerber RA, Cappelleri JC, Le Graverand-Gastineau MP.
+
+Author information: 
+(1)Hand Surgery Department, University Hospital, Uppsala, Sweden.
+witthaut@e-hand.de
+
+BACKGROUND AND OBJECTIVE: Injectable collagenase Clostridium histolyticum is
+efficacious in correcting Dupuytren's contracture as assessed by changes in the
+angle of contracture and range of motion (ROM). However, clinically important
+changes in ROM have not been evaluated in depth. The objective of this secondary 
+analysis of the CORD I trial was to identify severity levels using baseline ROM, 
+estimate a clinically important difference (CID) for ROM, and link the results to
+collagenase treatment and patient satisfaction.
+METHODS: In the CORD I trial, patients with Dupuytren's disease and joint
+contractures ≥20° were randomized to receive a maximum of three collagenase 0.58 
+mg or placebo injections into the cord of the affected hand at 30-day intervals. 
+The primary endpoint was reduction in contracture to ≤5° 30 days after the last
+injection (day 30). The secondary endpoints, which are reported in this analysis,
+were ROM, physician- and patient-rated severity ('normal', 'mild', 'moderate',
+'severe') and improvement, and treatment satisfaction. Linear regression was used
+to model data for severity classification and CID estimation for ROM based on
+physician and patient ratings.
+RESULTS: At baseline, mean ROM was 43.9° in the collagenase-treated joints (n =
+197) and 45.3° in the placebo-treated joints (n = 102). On day 30, mean ROM was
+80.7° in the collagenase-treated joints and 49.5° in the placebo-treated joints. 
+The mean increase in ROM was 36.7° in the collagenase-treated joints (p < 0.001) 
+and 4.0° in the placebo-treated joints (not significant). The estimated CID for
+ROM was 13.5° (95% CI 11.9, 15.1), reflecting a one-category change in severity. 
+The mean increase in ROM exceeded the CID in the collagenase-treated joints but
+not in the placebo-treated joints; the difference between collagenase treatment
+and placebo in the mean increase in ROM also exceeded the CID, implying that the 
+improvement with collagenase was clinically relevant. The severity classification
+for ROM was: ≥67.0° ('normal'), ≥54.3 and <67.0° ('mild'), ≥41.6 and <54.3°
+('moderate'), and <41.6° ('severe'). More collagenase- than placebo-treated
+patients achieved 'normal' (81% vs 25%; p < 0.0001) status, and more collagenase-
+than placebo-treated patients reported being 'very/quite satisfied' (87% vs 32%; 
+p < 0.001).
+CONCLUSION: Injectable collagenase significantly improves ROM and treatment
+satisfaction versus placebo. ROM improvements are clinically relevant as well as 
+statistically significant. These data support the potential need to include ROM
+and physician- and patient-rated severity and satisfaction as standard
+assessments for Dupuytren's contracture treatment outcomes.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT00528606; other study
+identification number: AUX-CC-857 (Auxilium Pharmaceuticals, Inc.).
+
+DOI: 10.2165/11592940-000000000-00000 
+PMID: 21967070  [PubMed - indexed for MEDLINE]

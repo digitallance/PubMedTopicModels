@@ -1,0 +1,45 @@
+
+
+265. J Hand Surg Am. 2016 Mar;41(3):348-53.e1. doi: 10.1016/j.jhsa.2015.12.003. Epub
+2016 Jan 21.
+
+Collagenase Treatment for Dupuytren Disease of the Thumb and First Web.
+
+Dreise MM(1), Stenekes MW(2), Werker PM(2).
+
+Author information: 
+(1)Department of Plastic Surgery, University Medical Centre Groningen, University
+of Groningen, Groningen, The Netherlands. Electronic address: mdreise@gmail.com. 
+(2)Department of Plastic Surgery, University Medical Centre Groningen, University
+of Groningen, Groningen, The Netherlands.
+
+PURPOSE: To evaluate the short-term effectiveness of collagenase Clostridium
+histolyticum to treat thumb and first web contractures in Dupuytren disease.
+METHODS: We prospectively included 14 thumbs in 12 patients with a contracture at
+the metacarpophalangeal or interphalangeal joint of at least 20° with a palpable 
+cord in the thumb (n = 8) or an adduction contracture of the thumb with palpable 
+cords in the first web (n = 6). They received an injection containing 0.58 mg of 
+collagenase Clostridium histolyticum in the fibrous cord divided over 3 spots.
+The contracture was released by carefully manipulating the thumb under local
+anesthesia 1 day later. The extension and abduction deficits were measured before
+and after the intervention (follow-up at 7 and 30 days and 6 months). Wilcoxon
+signed rank test was used to analyze the data.
+RESULTS: In the total sample, postintervention extension deficits were
+statistically significantly lower than preintervention deficits except in one
+patient who had a recurrence at 6 months compared with the 30-day posttreatment
+result. Intermetacarpophalangeal head distance (IMD) also improved significantly.
+In an analysis of subgroups, we compared the separate contributions of treatment 
+of a pretendinous cord and a first web cord on both extension deficit and IMD.
+Treatment of pretendinous cords significantly affected both extension deficit and
+IMD. However, treatment of first web contractures did not significantly improve
+extension or IMD.
+CONCLUSIONS: Collagenase Clostridium histolyticum is a good treatment option for 
+pretendinous cords in thumbs affected with Dupuytren disease because it provides 
+good results, is minimally invasive, and has minor adverse events.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.
+
+Copyright © 2016 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2015.12.003 
+PMID: 26803569  [PubMed - in process]

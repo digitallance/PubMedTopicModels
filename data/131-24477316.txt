@@ -1,0 +1,46 @@
+
+
+131. BMJ Open. 2014 Jan 29;4(1):e004214. doi: 10.1136/bmjopen-2013-004214.
+
+Association among work exposure, alcohol intake, smoking and Dupuytren's disease 
+in a large cohort study (GAZEL).
+
+Descatha A(1), Carton M, Mediouni Z, Dumontier C, Roquelaure Y, Goldberg M, Zins 
+M, Leclerc A.
+
+Author information: 
+(1)Université de Versailles St-Quentin, Versailles, France.
+
+OBJECTIVES: In view of the debate of factors in Dupuytren's disease, we aimed to 
+describe its relationship with certain occupational factors, alcohol intake and
+smoking.
+SETTING: The French GAZEL cohort (employees of Electricité de France and Gaz de
+France).
+PARTICIPANTS: Participants of the cohort who answered a questionnaire in 2012,
+that is, 13 587 participants (73.7% of the questionnaire sent). In 2007,
+self-assessed lifetime occupational biomechanical exposure was recorded (carrying
+loads, manipulating a vibrating tool and climbing stairs), as well as alcohol
+intake, smoking and diabetes mellitus. Analyses were performed on high alcohol
+intake, smoking and duration of relevant work exposure, stratified by gender.
+PRIMARY AND SECONDARY OUTCOME MEASURES: From a specific question on Dupuytren's
+disease assessed in 2012, the outcome measures were self-reported Dupuytren's
+disease (yes/no) and disabling Dupuytren's disease (including surgery).
+RESULTS: A total of 10 017 men and 3570 women, aged 64-73 years, were included;
+the mean age for men was 68 years and for women was 65 years. Among men, the
+following were significantly associated with Dupuytren's disease: age (OR 1.03
+(1.00; 1.06)), diabetes (OR 1.31 (1.07; 1.60)), heavy drinking (OR 1.36 (1.10;
+1.69)) and over 15 years of manipulating a vibrating tool at work (OR 1.52 (1.15;
+2.02)); except for diabetes, the association with these factors was stronger for 
+disabling Dupuytren's disease (or surgery), with OR 1.07 (1.03; 1.11), 1.71
+(1.25; 2.33) and 1.98(1.34; 2.91), respectively, for age, heavy drinking and over
+15 years of manipulating a vibrating tool at work. Among the 3570 women included,
+160 reported Dupuytren's disease (4.5%). The number of cases in the group of
+women was too low to reach conclusions, although the findings seemed similar for 
+age, diabetes and vibration exposure.
+CONCLUSIONS: In this large French cohort study, Dupuytren's disease in men was
+associated with high levels of alcohol consumption and exposure to
+hand-transmitted vibration. It is likely that the same applied to women.
+
+DOI: 10.1136/bmjopen-2013-004214 
+PMCID: PMC3913034
+PMID: 24477316  [PubMed - indexed for MEDLINE]

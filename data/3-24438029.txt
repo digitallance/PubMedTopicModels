@@ -1,0 +1,45 @@
+
+
+3. ANZ J Surg. 2015 Sep;85(9):639-43. doi: 10.1111/ans.12513. Epub 2014 Jan 20.
+
+Dupuytren's contracture: an analysis of outcomes of percutaneous needle
+fasciotomy versus open fasciectomy.
+
+Toppi JT(1), Trompf L(1), Smoll NR(1), Lim V(2), Smith K(2), Findlay MW(2),
+Hunter-Smith DJ(2).
+
+Author information: 
+(1)Peninsula Clinical School, Monash University, Frankston, Victoria, Australia. 
+(2)Department of Plastic and Reconstructive Surgery, Peninsula Health, Frankston,
+Victoria, Australia.
+
+BACKGROUND: Percutaneous needle fasciotomy (PNF) is a minimally invasive
+technique used to manage Dupuytren's contracture. We compared outcomes of PNF
+versus open fasciectomy (OF) to examine the suitability of PNF in Australia.
+METHOD: A retrospective cohort study using two questionnaires regarding
+Dupuytren's treatment was used to assess patients with uncomplicated primary
+disease. The primary outcomes were immediate and medium-term correction of
+contracture (2-year mean follow-up to time of survey). Secondary outcomes were
+patient satisfaction and complications including tendon/nerve injury, infection, 
+skin necrosis and vascular damage.
+RESULTS: One hundred fifty-five out of 191 surveys were returned (81%). The final
+analysis included 125 cases (65%), 73 PNF and 52 OF. No significant differences
+were observed between both groups with regards to follow-up time, gender, smoking
+status, co-morbidities or preoperative deformity grade. No significant
+differences were observed in terms of immediate or medium-term deformity
+correction, tendon/nerve injury or circulatory complications. The postoperative
+infection rate was higher with OF, with these patients 7.57 (95% confidence
+interval 1.56, 36.77; P = 0.01) times as likely to have a postoperative infection
+as patients undergoing PNF. A higher number of patients who underwent PNF were
+told that they would require another operation (30% versus 12%; P = 0.02).
+Satisfaction scores were similar (OF 33.2 versus PNF 32.6; P = 0.82).
+CONCLUSION: The OF and PNF procedures provide comparable deformity correction for
+uncomplicated primary Dupuytren's disease in the immediate perioperative period. 
+The reduced side effect profile of PNF should prompt surgeons to consider
+incorporating it in their practice for the first-line management of uncomplicated
+primary Dupuytren's disease.
+
+© 2014 Royal Australasian College of Surgeons.
+
+DOI: 10.1111/ans.12513 
+PMID: 24438029  [PubMed - indexed for MEDLINE]

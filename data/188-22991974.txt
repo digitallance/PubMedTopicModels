@@ -1,0 +1,30 @@
+
+
+188. Scand J Rheumatol. 2013;42(1):45-7. doi: 10.3109/03009742.2012.713982. Epub 2012 
+Sep 20.
+
+Association of HLA-DRB1*01 with Dupuytren's disease.
+
+Jónsson T(1), Gudmundsson KG, Bjarnadóttir K, Hjálmarsdótti IB, Gudmundsson S,
+Arngrímsson R.
+
+Author information: 
+(1)The Blood Bank, Landspitali University Hospital, Reykjavík, Iceland.
+
+OBJECTIVES: To explore the human leucocyte antigen (HLA)-DRB1 allele frequency in
+Dupuytren's disease (DD).
+METHOD: HLA-DRB1 genotypes were analysed by sequence-specific primers (SSPs) in
+samples collected from 172 men participating in a nested case-control study on
+the clinical manifestations and progression of DD. Of those, 121 had signs of DD 
+while 51 did not. Of the 121 men with DD, 49 had contracted fingers or had been
+operated on, while 72 had nodules or fibrous cords in the palms. Odds ratios
+(ORs) and 95% confidence interval (CIs) were used to evaluate the results.
+RESULTS: The HLA-DRB1*01 allele was observed in 26 of the 121 affected men
+(23.7%) but in only four of the controls (7.8%) (OR 3.22, 95% CI 1.06-9.75). The 
+HLA-DRB1*01 allele frequency in those affected was 11%, while in the control
+group it was 4% (OR 3.07, 95% CI 1.05-9.03).
+CONCLUSIONS: This observation indicates a possible association of HLA-DRB1*01
+with DD, but further studies are needed for confirmation.
+
+DOI: 10.3109/03009742.2012.713982 
+PMID: 22991974  [PubMed - indexed for MEDLINE]

@@ -1,0 +1,40 @@
+
+
+224. J Hand Surg Eur Vol. 2016 Jul;41(6):589-99. doi: 10.1177/1753193415601350. Epub
+2015 Aug 25.
+
+Validity of the Disabilities of the Arm, Shoulder and Hand patient-reported
+outcome measure (DASH) and the Quickdash when used in Dupuytren's disease.
+
+Rodrigues J(1), Zhang W(2), Scammell B(2), Russell P(3), Chakrabarti I(4),
+Fullilove S(5), Davidson D(6), Davis T(2).
+
+Author information: 
+(1)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal
+Sciences, University of Oxford, Botnar Research Centre, Nuffield Orthopaedic
+Centre, Oxford, UK j.n.rodrigues@doctors.org.uk. (2)Division of Rheumatology,
+Orthopaedics and Dermatology, University of Nottingham & Nottingham University
+Hospitals NHS Trust, Queen's Medical Centre, Nottingham, UK. (3)Pulvertaft Hand
+Centre, Royal Derby Hospital, Uttoxeter New Road, Derby, UK. (4)Rotherham General
+Hospital, Rotherham, UK. (5)Derriford Hospital, Plymouth, UK. (6)St John's
+Hospital at Howden, Livingston, UK.
+
+This study investigated aspects of the validity and reliability of the 30-item
+Disabilities of the Arm, Shoulder and Hand patient-reported outcome measure
+(DASH) and its relationship with the shorter 11-item QuickDASH in patients with
+Dupuytren's disease.Seven hundred and fifty-nine DASH questionnaires were
+studied, covering pre- and postoperative patients undergoing different treatments
+for Dupuytren's disease. Items related to pain rose early after treatment before 
+returning to baseline, suggesting that studying pain is relevant during
+postoperative recovery. Across all 759 sets of responses, the QuickDASH agreed
+closely with the DASH. In exploratory factor analysis, the DASH was not
+unidimensional, questioning the validity of the DASH summary score in Dupuytren's
+disease.Further validation of existing PROMs for use in Dupuytren's disease is
+needed. These data suggest that pain is a relevant symptom to study during
+postoperative recovery following treatment for Dupuytren's disease.LEVEL OF
+EVIDENCE: III.
+
+© The Author(s) 2015.
+
+DOI: 10.1177/1753193415601350 
+PMID: 26307142  [PubMed - in process]

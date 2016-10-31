@@ -1,0 +1,41 @@
+
+
+234. J Hand Surg Am. 2015 May;40(5):951-5. doi: 10.1016/j.jhsa.2015.01.005. Epub 2015 
+Mar 11.
+
+Treatment of proximal interphalangeal joint flexion contracture: combined static 
+and dynamic orthotic intervention compared with other therapy intervention: a
+randomized controlled trial.
+
+Cantero-Téllez R(1), Cuesta-Vargas AI(2), Cuadros-Romero M(2).
+
+Author information: 
+(1)Tecan Hand Center, University of Málaga, Spain; Queensland University of
+Technology, Brisbane, Australia. Electronic address: cantero@centrotecan.com.
+(2)Tecan Hand Center, University of Málaga, Spain; Queensland University of
+Technology, Brisbane, Australia.
+
+PURPOSE: To test the effectiveness of static and dynamic orthoses using them as
+an exclusive treatment for proximal interphalangeal (PIP) joint flexion
+contracture compared with other hand therapy conservative treatments described in
+the literature.
+METHODS: 60 patients who used orthoses were compared with a control group that
+received other hand therapy treatments. Clinical assessments were measured before
+the experiment and 3 months after and included active PIP joint extension and
+function.
+RESULTS: A significant improvement in the extension active range of motion at the
+PIP joint in the second measurement was found in both groups, but it was
+significantly greater in the experimental group. Improvement in function
+(Disabilities of the Arm, Shoulder, and Hand score) between the first and second 
+assessment was similar in the control and experimental groups.
+CONCLUSIONS: Using night progressive static and daily dynamic orthoses as an
+exclusive treatment during the proliferative phase led to significant
+improvements in the PIP joint active extension, but the improvement did not
+correlate with increased function as perceived by the patient.
+TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic I.
+
+Copyright © 2015 American Society for Surgery of the Hand. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jhsa.2015.01.005 
+PMID: 25771480  [PubMed - indexed for MEDLINE]

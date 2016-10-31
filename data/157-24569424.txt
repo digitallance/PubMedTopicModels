@@ -1,0 +1,42 @@
+
+
+157. Plast Reconstr Surg. 2014 Jun;133(6):1411-9. doi: 10.1097/PRS.0000000000000177.
+
+Health-related quality of life in patients undergoing palmar fasciectomy for
+Dupuytren's disease.
+
+Thoma A(1), Kaur MN, Ignacy TA, Levis C, Martin S, Duku E, Haines T.
+
+Author information: 
+(1)Hamilton and Toronto, Ontario, Canada From the Division of Plastic Surgery and
+the Surgical Outcomes Research Center, Department of Surgery, the Department of
+Clinical Epidemiology and Biostatistics, and the Offord Center for Child Studies,
+Department of Psychiatry and Behavioral Neurosciences, McMaster University; and
+the Leslie Dan Faculty of Pharmacy, University of Toronto.
+
+BACKGROUND: The present study was undertaken to assess the health-related quality
+of life in patients with Dupuytren's disease who undergo palmar fasciectomy.
+METHODS: A prospective cohort of patients with Dupuytren's disease undergoing
+palmar and/or digital fasciectomy was recruited from the practice of three
+plastic surgeons in Hamilton, Ontario, Canada. After written informed consent was
+obtained, participants were asked to complete three health-related
+quality-of-life questionnaires (i.e., Short Form-36, Michigan Hand Outcomes
+Questionnaire, and Health Utility Index Mark 3) at five time points: at 1 week
+and 1 day preoperatively, and at 1, 3, 6, and 12 months postoperatively. Ranges
+of motion and grip strength measurement were also recorded.
+RESULTS: For the 26 patients in the study, the multiattribute scores of the
+Health Utility Index Mark 3 improved from 0.80 before surgery to 0.83 at 12
+months postoperatively (p > 0.05). There was no difference in the Short Form-36
+scores, but the Michigan Hand Outcomes Questionnaire scores improved from 74 at 1
+week preoperatively to 90 at the 12-month postoperative visit (p < 0.001).
+CONCLUSIONS: Patients who undergo palmar fasciectomy for Dupuytren's disease
+experience a substantial improvement in their health-related quality of life 12
+months after surgery. In the authors' study population, a benefit of 0.85
+quality-adjusted life-year within 12 months was observed. This can be translated 
+as follows: the average patient who undergoes palmar fasciectomy gains the
+equivalent of approximately 14.4 days (0.48 months) in perfect health by
+undergoing palmar fasciectomy.
+CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.
+
+DOI: 10.1097/PRS.0000000000000177 
+PMID: 24569424  [PubMed - indexed for MEDLINE]
