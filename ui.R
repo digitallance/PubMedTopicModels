@@ -9,6 +9,8 @@ shinyUI(fluidPage(
   p("Document text is processed with the 'tm' library functions, including common English stop word removal. Topics are generated with the Latent Dirichlet Allocation (LDA) algorithm from the 'topicmodels' library."),
   p("The user can select the number of topics to extract, the number of topic terms to display (ranked by importance to the topic), and the number of documents to sample for the topics. Since the topic model computation can take a noticeable amount of time, the maximum number of documents sampled is 50."),
   p("Topics are presented on a heatmap, with rows representing individual articles, and columns the topics. Heatmap colors represent the probability of each topic being found in each article. Documents are sorted based on hierarchical clustering."),
+  p("Project code repository location:", 
+    a("https://github.com/digitallance/PubMedTopicModels.git", href="https://github.com/digitallance/PubMedTopicModels.git")),
   hr(),
   
   # Sidebar with a slider input for number of bins
