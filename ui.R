@@ -18,18 +18,18 @@ shinyUI(fluidPage(
     sidebarPanel(
       sliderInput("ntopics",
                   "Number of topics:",
-                  min = 1,
-                  max = 5,
+                  min = 2,
+                  max = 6,
                   value = 3),
       sliderInput("nterms",
                   "Number of topic terms to display:",
-                  min = 1,
+                  min = 3,
                   max = 9,
                   value = 5),
       sliderInput("ndocs",
                   "Number of random documents for topic analysis:",
-                  min = 1,
-                  max = 50,
+                  min = 10,
+                  max = 100,
                   value = 10),
       
       submitButton('Submit')
